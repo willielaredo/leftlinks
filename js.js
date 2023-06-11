@@ -24,17 +24,13 @@ fetch('./orgs.json')
         for (var i = 0; i < arr.length; i++) {
             var obj = arr[i];
             const name = obj.name
+            const slug = obj.slug ? obj.slug : 'placeholder'
             const description = obj.short_description
             const profile_tags = obj.tags
             const profile_tags_str = profile_tags.toString()
-            console.log(profile_tags)
-            
-            // for (const y in profile_tags) {
-            //     console.log(y[0])
-            // }
             const card = document.createElement("article")
             card.innerHTML = 
-                '<header><h2>' + name + '</h2></header><div class="content"><p>' + description + '</p></div><footer><div class="tag">' + profile_tags_str.replaceAll(",",'</div><div class="tag">') + '</div></footer>'
+                '<header><h2>' + name + '</h2></header><img src="/images/' + slug + '.png" /><div class="content"><p>' + description + '</p></div><footer><div class="tag">' + profile_tags_str.replaceAll(",",'</div><div class="tag">') + '</div></footer>'
                     // .replaceAll(',', '</div><div>') + '</div>
             document.getElementById('cards').appendChild(card)
         }

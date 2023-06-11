@@ -1,6 +1,38 @@
 {
     "data": [
         {
+            "slug": "inquality-dot-org",
+            "name": "Inequality.org",
+            "tags": [
+                null
+            ],
+            "short_description": "The latest news, analysis & facts on economic inequality from the Institute for Policy Studies. Sign up for our weekly newsletter."
+        },
+        {
+            "slug": "working-families-party",
+            "name": "Working Families Party",
+            "tags": [
+                "electoral"
+            ],
+            "short_description": "We are a progressive grassroots political party building a multiracial, feminist movement of working people."
+        },
+        {
+            "slug": "institute-for-christian-socialism",
+            "name": "Institute for Christian Socialism",
+            "tags": [
+                null
+            ],
+            "short_description": "Smashing mammon with the socialism of the Gospel. Organizing the Christian left. Home of The Bias Magazine. Join us: https://t.co/r3Jo7UVPpG."
+        },
+        {
+            "slug": "riseup",
+            "name": "Riseup",
+            "tags": [
+                null
+            ],
+            "short_description": "Up-to-date status information: https://t.co/NmrnIseFGX For help: https://t.co/Wa8CsDsj9f. We cannot do support on twitter."
+        },
+        {
             "slug": "pacifica-radio",
             "name": "Pacifica Radio",
             "tags": [
@@ -33,6 +65,14 @@
             "short_description": "n+1 is a print and digital magazine of literature, culture, and politics."
         },
         {
+            "slug": "international-week-of-anti-imperialist-struggle",
+            "name": "International Week of Anti-Imperialist Struggle",
+            "tags": [
+                "anti-imperialist"
+            ],
+            "short_description": "Jornada internacional de lucha antiimperialista // Journée de lutte anti-impérialiste // \nالأسبوع العالمي للنضال ضدالإمبريالية"
+        },
+        {
             "slug": "millennials-are-killing-capitalism",
             "name": "Millennials Are Killing Capitalism",
             "tags": [
@@ -49,21 +89,21 @@
             "short_description": "liberation for all genders, reproductive justice, abolish prisons, end the double day, decriminalize sex work. socialist.feminism@socialists.nyc"
         },
         {
-            "slug": "defund-the-police",
-            "name": "Defund the Police",
-            "tags": [
-                "abolition",
-                "defund-the-police"
-            ],
-            "short_description": "A one-stop-shop for organizers and advocates looking for tools, resources, and trainings to divest from policing and build safer communities.\n\nhttps:/"
-        },
-        {
             "slug": "fight-imperialism-stand-together",
             "name": "Fight Imperialism Stand Together",
             "tags": [
                 "anti-imperialist"
             ],
             "short_description": "FIST (Fight Imperialism Stand Together) is a national group of young revolutionaries committed to fighting racism, sexism, oppression of lesbian, gay,"
+        },
+        {
+            "slug": "defund-the-police",
+            "name": "Defund the Police",
+            "tags": [
+                "defund-the-police",
+                "abolition"
+            ],
+            "short_description": "A one-stop-shop for organizers and advocates looking for tools, resources, and trainings to divest from policing and build safer communities.\n\nhttps:/"
         },
         {
             "slug": "club-des-cordeliers",
@@ -74,12 +114,44 @@
             "short_description": "Qui male agit odit lucem."
         },
         {
+            "slug": "gig-workers-rising",
+            "name": "Gig Workers Rising",
+            "tags": [
+                null
+            ],
+            "short_description": "Gig Workers Rising is a community of app and platform workers organizing for better wages, working conditions, and jobs."
+        },
+        {
+            "slug": "center-for-consitutional-rights",
+            "name": "Center for Consitutional Rights",
+            "tags": [
+                null
+            ],
+            "short_description": "We fight against oppression. We stand with social justice activists and communities under threat. We use the power of the law to achieve justice for a"
+        },
+        {
             "slug": "the-south-lawn",
             "name": "The South Lawn",
             "tags": [
                 null
             ],
             "short_description": "To be, rather than to seem."
+        },
+        {
+            "slug": "social-democrats-usa",
+            "name": "Social Democrats USA",
+            "tags": [
+                null
+            ],
+            "short_description": "Pro-Labor, Pro-Democracy.  Descendent of Socialist Party of Debs, Thomas, and Rustin."
+        },
+        {
+            "slug": "rise-revolutionary-internationalist-socialist-environmentalist",
+            "name": "RISE: Revolutionary Internationalist Socialist Environmentalist",
+            "tags": [
+                null
+            ],
+            "short_description": "RISE is an ecosocialist network in @PB4P fighting for a society free of oppression and environmental degradation\n\nMedia:\nhttps://t.co/GazYmBYsdJ\n@Rupt"
         },
         {
             "slug": "anarchist-news",
@@ -90,12 +162,28 @@
             "short_description": "Anarchy & anarchist news, events, uprisings, protests, solidarity, anti-government, radical news, art, and revolutions https://t.co/VnDWpqAVcc"
         },
         {
+            "slug": "latino-rebels",
+            "name": "Latino Rebels",
+            "tags": [
+                "latinx"
+            ],
+            "short_description": "THE ORIGINAL. Keeping it real since 2011. News, commentary & analysis of US Latino world. Part of @futuromedia. Pitch us here: rebeldes@latinorebels.c"
+        },
+        {
             "slug": "black-rose-federation-new-york-ny",
             "name": "Black Rose Federation - New York, NY",
             "tags": [
                 null
             ],
             "short_description": "New York local of the Black Rose Anarchist Federation. Sección de Nueva York de la Federación Anarquista Rosa Negra. ¡Arriba l@s que luchan!"
+        },
+        {
+            "slug": "working-families-new-york",
+            "name": "Working Families - New York",
+            "tags": [
+                "electoral"
+            ],
+            "short_description": "WFP is NY’s progressive political party. Our vision: to build a state that works for all of us, not just the wealthy & well-connected. Text NY to 3040"
         },
         {
             "slug": "the-bellows",
@@ -106,12 +194,28 @@
             "short_description": "An online magazine for labor populism. https://t.co/jcwiZTev7X"
         },
         {
-            "slug": "working-families-new-york",
-            "name": "Working Families - New York",
+            "slug": "national-lawyers-guild",
+            "name": "National Lawyers Guild",
             "tags": [
-                "electoral"
+                "legal"
             ],
-            "short_description": "WFP is NY’s progressive political party. Our vision: to build a state that works for all of us, not just the wealthy & well-connected. Text NY to 3040"
+            "short_description": "Human rights over property interests since 1937. Fighting for liberation, organizing in solidarity with radical movement leaders.\n\nRT≠endorsement"
+        },
+        {
+            "slug": "sanders-institute",
+            "name": "Sanders Institute",
+            "tags": [
+                "bernie"
+            ],
+            "short_description": "A vital democracy requires an informed electorate, civil discourse and bold ideas."
+        },
+        {
+            "slug": "democracy-at-work",
+            "name": "Democracy At Work",
+            "tags": [
+                "solidarity-economy"
+            ],
+            "short_description": "d@w produces media & live events to expose capitalism’s systemic problems & to show how democratizing our workplaces solves them. Co-founded by @profw"
         },
         {
             "slug": "tribune",
@@ -125,9 +229,9 @@
             "slug": "history-of-socialism-podcast",
             "name": "History of Socialism Podcast",
             "tags": [
-                "socialist",
+                "history",
                 "podcast",
-                "history"
+                "socialist"
             ],
             "short_description": "A podcast in development that will tell the history of the socialist movement, broadly defined, from a global, intersectional, and non-sectarian persp"
         },
@@ -143,11 +247,19 @@
             "slug": "save-ohio-higher-ed",
             "name": "Save Ohio Higher Ed",
             "tags": [
-                "labor",
+                "coalition",
                 "union",
-                "coalition"
+                "labor"
             ],
             "short_description": "Save Ohio Higher Ed (SOHE) is a coalition of AAUP faculty and students in Ohio. We seek to protect higher education as a public, accessible, and equit"
+        },
+        {
+            "slug": "institute-for-the-radical-imagination",
+            "name": "Institute for the Radical Imagination",
+            "tags": [
+                null
+            ],
+            "short_description": "Publisher of \"Situations - Journal for the Radical Imagination\", the Institute for the Radical Imagination is a 501(c)3 charitable nonprofit organizat"
         },
         {
             "slug": "committee-in-solidarity-with-the-central-america-people",
@@ -161,11 +273,19 @@
             "slug": "democratic-socialists-of-america-communist-caucus",
             "name": "Democratic Socialists of America - Communist Caucus",
             "tags": [
-                "socialist",
+                "communist",
                 "dsa",
-                "communist"
+                "socialist"
             ],
             "short_description": "☭🌹 A national @demsocialists caucus of communist organizers. We believe in rebuilding class organization and supporting the class struggle against cap"
+        },
+        {
+            "slug": "green-party-of-the-united-states",
+            "name": "Green Party of the United States",
+            "tags": [
+                "electoral"
+            ],
+            "short_description": "Official Twitter account of the Green Party of the United States // Twitter oficial del Partido Verde E.E.U.U. https://t.co/dqPKIBUFGK"
         },
         {
             "slug": "california-student-sustainability-coalition",
@@ -174,6 +294,14 @@
                 null
             ],
             "short_description": "\nWe are a diverse college student-led organization shaping our future \nby applying pressure to decision-makers to act on the urgency of the \nclimate c"
+        },
+        {
+            "slug": "healthcare-now",
+            "name": "Healthcare-NOW!",
+            "tags": [
+                "medicare-for-all"
+            ],
+            "short_description": "Organizing for a national, single-payer healthcare system. #MedicareForAll"
         },
         {
             "slug": "the-progressive",
@@ -203,10 +331,26 @@
             "slug": "democratic-socialists-of-america-berkeley-ca",
             "name": "Democratic Socialists of America - Berkeley, CA",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "East Bay chapter of @DemSocialists 🌹 Join at https://t.co/issRDHHRUg and follow us here for local updates! 🗞 @eastbaymajority"
+        },
+        {
+            "slug": "chicago-teachers-union",
+            "name": "Chicago Teachers Union",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "AFT-IFT Local 1. 25,000+ educators dedicated to the schools Chicago students deserve. Living rent-free in education reform minds since 2010. RT ≠ endo"
+        },
+        {
+            "slug": "rural--migrant-ministry",
+            "name": "Rural & Migrant Ministry",
+            "tags": [
+                "faith"
+            ],
+            "short_description": "40 years in, 40 years strong: Rural & Migrant Ministry, Inc. is proud to continue to stand with rural and farmworking communities across New York Stat"
         },
         {
             "slug": "viewpoint-magazine",
@@ -217,12 +361,44 @@
             "short_description": "Investigations in contemporary politics. Issue 6: Imperialism out now: https://t.co/zc1JG8RWh5"
         },
         {
+            "slug": "workers-world-party",
+            "name": "Workers World Party",
+            "tags": [
+                null
+            ],
+            "short_description": "Workers World Party is a revolutionary socialist organization that fights oppression across the U.S. and opposes imperialism around the world. Join us"
+        },
+        {
+            "slug": "pueblo-sin-fronteras",
+            "name": "Pueblo Sin Fronteras",
+            "tags": [
+                null
+            ],
+            "short_description": "Our mission is to provide shelter and safety to migrants and refugees in transit,accompany them in their journey,and together demand respect for our h"
+        },
+        {
+            "slug": "left-reckoning-podcast",
+            "name": "Left Reckoning",
+            "tags": [
+                null
+            ],
+            "short_description": "Hosted by @davidgriscom and @mattlech Live Wednesday at 7 CT\n\nMerch at https://t.co/IpGYYg0Zop"
+        },
+        {
             "slug": "mask-magazine",
             "name": "mask magazine",
             "tags": [
                 null
             ],
             "short_description": "Culture and style for misfits and malcontents."
+        },
+        {
+            "slug": "socialist-rifle-association",
+            "name": "Socialist Rifle Association",
+            "tags": [
+                null
+            ],
+            "short_description": "The Socialist Rifle Association is composed of anti-fascist, anti-racist socialists who defend the right of the working class to keep and bear arms. Ⓐ"
         },
         {
             "slug": "party-of-communists-usa",
@@ -236,10 +412,27 @@
             "slug": "democratic-socialists-of-america-cleveland-oh",
             "name": "Democratic Socialists of America - Cleveland, OH",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "Cleveland, Ohio chapter of the @DemSocialists. Black Lives Matter, Defund the Police."
+        },
+        {
+            "slug": "democratic-socialists-of-america-washington-dc",
+            "name": "Democratic Socialists of America - Washington, DC",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "short_description": "Bringing socialism to the nation's capital 🌹 Branches: @moco_dsa @dsa_nova @pgcdsa Campaigns: @stompslumlords @mdcdsa_labor @WePowerDC @mdc_dsa_defund"
+        },
+        {
+            "slug": "local-progress",
+            "name": "Local Progress",
+            "tags": [
+                null
+            ],
+            "short_description": "We are local elected officials fighting for racial and economic justice. We build power with community to reshape what's possible in our localities."
         },
         {
             "slug": "kasama-project",
@@ -248,6 +441,14 @@
                 null
             ],
             "short_description": "Kasama is a communist project. We are for revolution. We seek to find the forms of organization and action for the people most dispossessed by this sy"
+        },
+        {
+            "slug": "bertha-foundation",
+            "name": "Bertha Foundation",
+            "tags": [
+                null
+            ],
+            "short_description": "Bertha Foundation supports activists, storytellers and lawyers that are working to bring about social and economic justice, and human rights for all."
         },
         {
             "slug": "workers-unite",
@@ -266,12 +467,28 @@
             "short_description": "Group bringing back Original Black Panther Party values, goals and structure shaped for these times. All Power To All The People!"
         },
         {
+            "slug": "people-for-bernie",
+            "name": "People For Bernie",
+            "tags": [
+                "bernie"
+            ],
+            "short_description": "We are activists and organizers building a broad, effective movement for democratic change. Welcome to the political revolution! #FeelTheBern"
+        },
+        {
             "slug": "alliance-for-affordable-energy",
             "name": "Alliance for Affordable Energy",
             "tags": [
                 null
             ],
             "short_description": "Since 1985, AAE has\n been working to ensure fair, affordable, and environmentally \nresponsible energy policy for ALL Louisiana energy consumers. We ar"
+        },
+        {
+            "slug": "vermont-progressive-party",
+            "name": "Vermont Progressive Party",
+            "tags": [
+                "electoral"
+            ],
+            "short_description": "The political revolution for working people since 1981. #vtpoli #OurRevolution"
         },
         {
             "slug": "emerge",
@@ -298,13 +515,77 @@
             "short_description": "A community-powered video library for people who want to change the world. Watch over 4000 films. Add & rate content. Join us!"
         },
         {
+            "slug": "green-party-pennsylvania",
+            "name": "Green Party - Pennsylvania",
+            "tags": [
+                "electoral"
+            ],
+            "short_description": "Pennsylvania state level party. Member of the Green Party of the United States (GPUS), an alliance of state Green parties"
+        },
+        {
+            "slug": "rosa-luxemburg-stiftung-inc",
+            "name": "Rosa Luxemburg Stiftung, Inc.",
+            "tags": [
+                "socialist"
+            ],
+            "short_description": "New York Office of the @rosaluxstiftung, an internationally operating, progressive non-profit institution for civic education."
+        },
+        {
+            "slug": "louisiana-for-bernie",
+            "name": "Louisiana for Bernie",
+            "tags": [
+                "bernie"
+            ],
+            "short_description": "loving Bernie Sanders in Louisiana"
+        },
+        {
+            "slug": "palante-tech-coop",
+            "name": "Palante Tech Coop",
+            "tags": [
+                "tech"
+            ],
+            "short_description": "Palante Technology Cooperative helps progressive nonprofits move forward with the aid of technology: Backdrop, CiviCRM, digisec, IT support and more!"
+        },
+        {
             "slug": "democratic-socialists-of-america-stockton-ca",
             "name": "Democratic Socialists of America - Stockton, CA",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "Stockton Democratic Socialists of America Organizing Committee. Justice for immigrants! Economic justice! End student debt! End police brutality!"
+        },
+        {
+            "slug": "faith-for-a-fair-ny",
+            "name": "Faith for a Fair NY",
+            "tags": [
+                "faith"
+            ],
+            "short_description": "Raising a moral voice for the common good. Connecting, empowering and mobilizing people of faith in New York State. #moralmondays #fightfor15"
+        },
+        {
+            "slug": "the-center-for-artistic-activism",
+            "name": "The Center for Artistic Activism",
+            "tags": [
+                null
+            ],
+            "short_description": "The Center for Artistic Activism helps people use their creativity and culture to effect power. Like, with our #UnstoppableVoters projects and #FreeTh"
+        },
+        {
+            "slug": "la-progressive",
+            "name": "LA Progressive",
+            "tags": [
+                "progressive"
+            ],
+            "short_description": "Progressive Tweets from https://t.co/vllO3ySgZ8 | #MedicareForAll | #GreenNewDeal | #FamiliesBelongTogether | #BLM | #LoveIsLove https://t.co/wA0mBaHB"
+        },
+        {
+            "slug": "common-defense",
+            "name": "Common Defense",
+            "tags": [
+                null
+            ],
+            "short_description": "The nation's largest grassroots membership organization of Progressive Veterans."
         },
         {
             "slug": "beautiful-trouble",
@@ -321,6 +602,14 @@
                 null
             ],
             "short_description": "Colorlines is a daily news site where race matters, featuring award-winning in-depth reporting, news analysis, opinion and curation. Sign up for our n"
+        },
+        {
+            "slug": "new-economy-coalition",
+            "name": "New Economy Coalition",
+            "tags": [
+                "solidarity-economy"
+            ],
+            "short_description": "Fire the bosses, free the land, elect ourselves! A network of 200+ organizations building the solidarity economy movement: https://t.co/CesbG48rmz"
         },
         {
             "slug": "citizen-radio",
@@ -347,6 +636,39 @@
             "short_description": "🎙An award-winning, expertly-curated podcast of #progressive politics & culture. RT ≠ endorsement. Get ad-free & bonus content: https://t.co/P55i7vMEy4"
         },
         {
+            "slug": "hampton-institute",
+            "name": "Hampton Institute",
+            "tags": [
+                null
+            ],
+            "short_description": "A proletarian think tank founded in 2013. Commentary, analysis, and theory on social, political, and economic issues from a working-class perspective."
+        },
+        {
+            "slug": "movimiento-cosecha",
+            "name": "Movimiento Cosecha",
+            "tags": [
+                "latinx",
+                "immigration"
+            ],
+            "short_description": "We are 11 million undocumented immigrants fighting for permanent protection, dignity, and respect."
+        },
+        {
+            "slug": "institute-for-womens-policy-research",
+            "name": "Institute for Women's Policy Research",
+            "tags": [
+                null
+            ],
+            "short_description": "Institute for Women's Policy Research | A Just Future Begins with Bold Ideas."
+        },
+        {
+            "slug": "tech-workers-coalition",
+            "name": "Tech Workers Coalition",
+            "tags": [
+                "tech"
+            ],
+            "short_description": "We are a coalition of workers in and around the tech industry, labor organizers, community organizers, and friends. Subscribe to @twcnewsletter 💫"
+        },
+        {
             "slug": "dcsocialist",
             "name": "DCsocialist",
             "tags": [
@@ -371,6 +693,39 @@
             "short_description": "Tells the facts, names the names."
         },
         {
+            "slug": "carl-beijer",
+            "name": "Carl Beijer",
+            "tags": [
+                null
+            ],
+            "short_description": "Socialist writer. Subscribe to my newsletter at https://t.co/G2sBmBmuAF . Writing also at @PplPolicyProj, @jacobinmag, etc."
+        },
+        {
+            "slug": "350-bay-area-action",
+            "name": "350 Bay Area Action",
+            "tags": [
+                null
+            ],
+            "short_description": "SF Bay Area grassroots climate movement pushing to eliminate carbon pollution. We press for socially equitable solutions for a just transition to clea"
+        },
+        {
+            "slug": "young-democratic-socialists-of-america",
+            "name": "Young Democratic Socialists of America",
+            "tags": [
+                "student-youth",
+                "dsa"
+            ],
+            "short_description": "Student section, @demsocialists Organizing students, workers, faculty and staff at campuses across the country. \n\nSign up for Red Hot Summer: https://"
+        },
+        {
+            "slug": "assatas-daughters",
+            "name": "Assata's Daughters",
+            "tags": [
+                null
+            ],
+            "short_description": "Assata's Daughters organizes young Black people in the Black Radical Tradition. Based in Washington Park on Chicago's South Side."
+        },
+        {
             "slug": "we-are-many",
             "name": "We Are Many",
             "tags": [
@@ -382,8 +737,8 @@
             "slug": "dsa-medicare-for-all",
             "name": "DSA Medicare for All",
             "tags": [
-                "dsa",
-                "medicare-for-all"
+                "medicare-for-all",
+                "dsa"
             ],
             "short_description": "Democratic Socialists are campaigning to make single-payer Medicare for All healthcare a reality.\nWe work to pass federal legislation like Bernie Sand"
         },
@@ -391,8 +746,8 @@
             "slug": "dsa-union",
             "name": "DSA Union",
             "tags": [
-                "union",
-                "dsa"
+                "dsa",
+                "union"
             ],
             "short_description": "The union of the staff of Democratic Socialists of America. Fighting for all workers. \n\nPart of Washington-Baltimore News Guild"
         },
@@ -413,12 +768,28 @@
             "short_description": "The Campaign to End the New Jim Crow (a project of \nthe Riverside Church Prison Ministry and the American Friends Service \nCommittee – NY) is a nation"
         },
         {
+            "slug": "revolutionary-abolitionist-movement",
+            "name": "Revolutionary Abolitionist Movement",
+            "tags": [
+                "abolition"
+            ],
+            "short_description": "The Revolutionary Abolitionist Movement is a political movement dedicated to freeing people from bondage and building resistance in the United States."
+        },
+        {
             "slug": "iww-albuquerque-nm",
             "name": "IWW - Albuquerque, NM",
             "tags": [
                 "labor"
             ],
             "short_description": "The working class and the employing class have nothing in common. Serio, bro!"
+        },
+        {
+            "slug": "afl-cio-colorado",
+            "name": "AFL-CIO - Colorado",
+            "tags": [
+                null
+            ],
+            "short_description": "Representing Colorado's unions and working class"
         },
         {
             "slug": "tom-dispatch",
@@ -432,11 +803,19 @@
             "slug": "the-socialist",
             "name": "The Socialist",
             "tags": [
-                "media",
+                "electoral",
                 "socialist",
-                "electoral"
+                "media"
             ],
             "short_description": "Official magazine and website of the Socialist Party USA."
+        },
+        {
+            "slug": "takeaction-minnesota",
+            "name": "TakeAction Minnesota",
+            "tags": [
+                null
+            ],
+            "short_description": "Multi-racial people’s organization building power for a government and economy that works for all of us."
         },
         {
             "slug": "reform-and-revolution",
@@ -458,10 +837,18 @@
             "slug": "trader-joes-united",
             "name": "Trader Joe's United",
             "tags": [
-                "union",
-                "labor"
+                "labor",
+                "union"
             ],
             "short_description": "We are the worker-led movement organizing Trader Joe’s.\n\nhttps://www.gofundme.com/f/trader-joes-united-solidarity-fund"
+        },
+        {
+            "slug": "millennials-for-bernie-",
+            "name": "Millennials for Bernie 🌹",
+            "tags": [
+                "bernie"
+            ],
+            "short_description": "We're a collective of left & progressive millennial organizers inspired by Bernie, rising up for economic, racial, social, and environmental justice f"
         },
         {
             "slug": "roar-magazine",
@@ -472,12 +859,36 @@
             "short_description": "An independent journal of the radical imagination providing grassroots perspectives from the front-lines of the global struggle for real democracy"
         },
         {
+            "slug": "beyond-the-bomb",
+            "name": "Beyond the Bomb",
+            "tags": [
+                null
+            ],
+            "short_description": "We're taking down the unjust & dangerous nuclear system. An official channel of @GlobalZero"
+        },
+        {
             "slug": "iww-research",
             "name": "IWW Research",
             "tags": [
                 "labor"
             ],
             "short_description": "The Survey & Research Committee of the Industrial Workers of the World."
+        },
+        {
+            "slug": "bring-mumia-home",
+            "name": "Bring Mumia Home",
+            "tags": [
+                null
+            ],
+            "short_description": "International Campaign Demanding Release of Journalist, Political Prisoner & Author, Mumia Abu-Jamal (Wrongfully Imprisoned 41yrs for Philly Officer M"
+        },
+        {
+            "slug": "social-movement-technologies",
+            "name": "Social Movement Technologies",
+            "tags": [
+                "tech"
+            ],
+            "short_description": "Campaign support for people power movements and groups across the world. Find us also on #Mastodon: @socialmovetech@campaign.openworlds.info"
         },
         {
             "slug": "mother-jones",
@@ -496,6 +907,14 @@
             "short_description": "Inspired by and in solidarity with @moralmondays in North Carolina. Unaffiliated and out of the blue."
         },
         {
+            "slug": "black-visions",
+            "name": "Black Visions",
+            "tags": [
+                null
+            ],
+            "short_description": "We have nothing to lose but our chains."
+        },
+        {
             "slug": "study-and-struggle",
             "name": "Study and Struggle",
             "tags": [
@@ -510,6 +929,14 @@
                 "tech"
             ],
             "short_description": "Tech for social good. @Autom8. Previously a @Stanford account."
+        },
+        {
+            "slug": "pro-labor-alliance",
+            "name": "Pro Labor Alliance",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "Pro Labor Alliance Inc. supports organized labor & its members through education, organizing, & member actions, 2 preserve & promote collective bargai"
         },
         {
             "slug": "socialist-alternative-st-louis-mo",
@@ -536,20 +963,28 @@
             "short_description": "NPQ uses a range of media channels to help advance critical conversations that can refine nonprofit and social movement policy and practice. In our wo"
         },
         {
+            "slug": "the-peoples-summit",
+            "name": "The People's Summit",
+            "tags": [
+                null
+            ],
+            "short_description": "We seek to bring together activists committed to a different kind of platform: a People’s Platform. #PPLSummit"
+        },
+        {
+            "slug": "strategic-concepts-in-organizing-and-policy-education",
+            "name": "Strategic Concepts in Organizing and Policy Education",
+            "tags": [
+                null
+            ],
+            "short_description": "SCOPE is a community-based organization in South Los Angeles. We bring residents together to create economic opportunities for low-income communities "
+        },
+        {
             "slug": "majority-report",
             "name": "Majority Report",
             "tags": [
                 null
             ],
             "short_description": "Hosted by @samseder. The Majority Report is an unbought, unbossed daily political talk show. Awarded Best Political Podcast 5 times #LeftIsBest"
-        },
-        {
-            "slug": "socialist-observer",
-            "name": "socialistobserver",
-            "tags": [
-                null
-            ],
-            "short_description": "taking the left seriously. maybe more seriously than it takes itself"
         },
         {
             "slug": "education-for-liberation-network",
@@ -560,6 +995,14 @@
             "short_description": "The Education for Liberation Network is a national coalition of teachers, community activists, researchers, youth and parents who believe a good educa"
         },
         {
+            "slug": "socialist-observer",
+            "name": "socialistobserver",
+            "tags": [
+                null
+            ],
+            "short_description": "taking the left seriously. maybe more seriously than it takes itself"
+        },
+        {
             "slug": "the-intercept",
             "name": "The Intercept",
             "tags": [
@@ -568,29 +1011,45 @@
             "short_description": "Fearless, adversarial journalism. Join our newsletter to get our best investigative reporting delivered to you: https://t.co/0hWiq95x3e"
         },
         {
+            "slug": "democratic-socialists-of-america-build-caucus",
+            "name": "Democratic Socialists of America - Build Caucus",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "short_description": "A project (with a zine!) devoted to local and basebuilding work in @DemSocialists. Email (for pitches & editorial questions): buildthedsa@gmail.com"
+        },
+        {
             "slug": "nyc-for-abortion-rights",
             "name": "NYC For Abortion RIghts",
             "tags": [
-                "feminist",
-                "abortion"
+                "abortion",
+                "feminist"
             ],
             "short_description": "We are an intersectional, abolitionist, socialist-feminist collective of activists who believe NYC needs an unapologetic grassroots movement to fight "
         },
         {
-            "slug": "democratic-socialists-of-america-build-caucus",
-            "name": "Democratic Socialists of America - Build Caucus",
+            "slug": "ohio-student-association",
+            "name": "Ohio Student Association",
             "tags": [
-                "socialist",
-                "dsa"
+                "student-youth"
             ],
-            "short_description": "A project (with a zine!) devoted to local and basebuilding work in @DemSocialists. Email (for pitches & editorial questions): buildthedsa@gmail.com"
+            "short_description": "Organizing, building power, and taking action on campuses and communities across Ohio since 2012."
+        },
+        {
+            "slug": "jews-for-racial--economic-justice",
+            "name": "Jews for Racial & Economic Justice",
+            "tags": [
+                "faith"
+            ],
+            "short_description": "Home to NY's Jewish Left, Jews For Racial & Economic Justice (JFREJ Action) fights for an NYC that funds care not cops. Follow @TheJewishVote & @Carin"
         },
         {
             "slug": "young-democratic-socialists-boston-university",
             "name": "Young Democratic Socialists - Boston University",
             "tags": [
-                "dsa",
-                "student-youth"
+                "student-youth",
+                "dsa"
             ],
             "short_description": "The BU Young Democratic Socialists (YDS) seeks to serve as a platform for student voices to address issues affecting Boston University students."
         },
@@ -611,6 +1070,39 @@
             "short_description": "FLOC has built a membership of thousands of migrant farmworkers by incorporating two key principles:\n\n1. Farmworkers need a voice in the decisions tha"
         },
         {
+            "slug": "tenants-together",
+            "name": "Tenants Together",
+            "tags": [
+                "housing"
+            ],
+            "short_description": "California's statewide renters' rights organization. Together we can stop rent increases, evictions, and slumlords. Organize! ✊🏾✊🏽✊🏿✊🏼"
+        },
+        {
+            "slug": "black-alliance-for-just-immigration",
+            "name": "Black Alliance for Just Immigration",
+            "tags": [
+                null
+            ],
+            "short_description": "Immigrant rights & racial justice w/ the Black diaspora in the US. Offices: NYC, ATL, OAK, LA, MIA, DC  https://t.co/Q3KTkWajql press@BAJI.org"
+        },
+        {
+            "slug": "the-century-foundation",
+            "name": "The Century Foundation",
+            "tags": [
+                null
+            ],
+            "short_description": "Pursuing economic, racial, gender, and disability equity. Making policy that works for people. Also: @TheNext100, @CenturyIntl, @DEJcollab, @OffKilter"
+        },
+        {
+            "slug": "democratic-socialists-of-america-democratic-socialist-labor-commission",
+            "name": "Democratic Socialists of America - Democratic Socialist Labor Commission",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "short_description": "An injury to one is an injury to all. #1u"
+        },
+        {
             "slug": "guernica-magazine",
             "name": "Guernica Magazine",
             "tags": [
@@ -619,21 +1111,20 @@
             "short_description": "Celebrating 15 years of global art & politics\r\nhttps://t.co/kibVscbCaN…"
         },
         {
-            "slug": "democratic-socialists-of-america-democratic-socialist-labor-commission",
-            "name": "Democratic Socialists of America - Democratic Socialist Labor Commission",
-            "tags": [
-                "socialist",
-                "dsa"
-            ],
-            "short_description": "An injury to one is an injury to all. #1u"
-        },
-        {
             "slug": "answer-coalition",
             "name": "Answer Coalition",
             "tags": [
                 null
             ],
             "short_description": "We are actively fighting against the ongoing occupation of Afghanistan, the renewed assaults on Iraq and Syria, the drone attacks on Yemen, Pakistan a"
+        },
+        {
+            "slug": "project-south",
+            "name": "Project South",
+            "tags": [
+                null
+            ],
+            "short_description": "We organize for racial & economic justice by convening spaces for Southern-based, grassroots movement building, leadership development, and strategic "
         },
         {
             "slug": "mondoweiss",
@@ -652,13 +1143,72 @@
             "short_description": "Cultures of Resistance Films is a project of Caipirinha Productions. It creates films that advance public awareness about issues of social and economi"
         },
         {
+            "slug": "party-for-socialism-and-liberation",
+            "name": "Party for Socialism and Liberation",
+            "tags": [
+                "socialist"
+            ],
+            "short_description": "A revolutionary socialist organization in the U.S. 🚩 We need your help to build the movement for socialism ⤵️"
+        },
+        {
+            "slug": "world-beyond-war",
+            "name": "World Beyond War",
+            "tags": [
+                "peace"
+            ],
+            "short_description": "We are a global nonviolent movement educating and mobilizing to end war and establish a just and sustainable peace. Join us now to create a #WorldBeyo"
+        },
+        {
+            "slug": "justseeds",
+            "name": "Justseeds",
+            "tags": [
+                "media"
+            ],
+            "short_description": "Justseeds Artists' Cooperative: Radical artists & printmakers working together across North America since 2007. Tweets by @toosphexy"
+        },
+        {
+            "slug": "democratic-socialists-of-america-bds-and-palestine-solidarity",
+            "name": "Democratic Socialists of America - BDS and Palestine Solidarity",
+            "tags": [
+                null
+            ],
+            "short_description": "National working group of @DemSocialists for BDS and Palestine solidarity organizing. 🇵🇸🌹 Email ➡️ palestinesolidarity@dsausa.org #BDS #FreePalestine"
+        },
+        {
+            "slug": "national-nurses-united",
+            "name": "National Nurses United",
+            "tags": [
+                "medicare-for-all",
+                "labor",
+                "health-justice",
+                "union"
+            ],
+            "short_description": "National Nurses United: The largest RN union in U.S. history, with nearly 225,000 nurses nationwide. Executive Director is @NNUBonnie."
+        },
+        {
             "slug": "democratic-socialists-of-america-buffalo-ny",
             "name": "Democratic Socialists of America - Buffalo, NY",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "Activist organization for democratic socialism in Buffalo! 🌹 Fighting for politics that prioritize people over profits! Tweets aren't official stateme"
+        },
+        {
+            "slug": "the-workers-lab",
+            "name": "The Workers Lab",
+            "tags": [
+                null
+            ],
+            "short_description": "Investing in new ideas that make and keep all workers safe, healthy, secure, and free."
+        },
+        {
+            "slug": "negation-magazine",
+            "name": "Negation Magazine",
+            "tags": [
+                "communist"
+            ],
+            "short_description": "A communist publication clearing the way for something new"
         },
         {
             "slug": "against-equality",
@@ -672,8 +1222,8 @@
             "slug": "young-democratic-socialists-sewanee-university-of-the-south",
             "name": "Young Democratic Socialists - Sewanee: University of the South",
             "tags": [
-                "dsa",
-                "student-youth"
+                "student-youth",
+                "dsa"
             ],
             "short_description": "Official Twitter account of the Sewanee Young Democtratic Socialists @ydsdsa @demsocialists #Trysocialism"
         },
@@ -694,12 +1244,53 @@
             "short_description": "An independent, progressive newspaper & website. Covering progressive social movements in New York and beyond since 2000. Get our newsletter: https://"
         },
         {
+            "slug": "massachusetts-peace-action",
+            "name": "Massachusetts Peace Action",
+            "tags": [
+                "medicare-for-all",
+                "peace"
+            ],
+            "short_description": "MAPA is a nonpartisan, grassroots organization working to develop the sustained political power to foster a more just and peaceful U.S. foreign policy"
+        },
+        {
+            "slug": "working-america",
+            "name": "Working America",
+            "tags": [
+                null
+            ],
+            "short_description": "Working America mobilizes working-class people without the benefit of a union to fight for good jobs. 4 million members and counting!"
+        },
+        {
             "slug": "puntorojo",
             "name": "Puntorojo",
             "tags": [
                 null
             ],
             "short_description": "Puntorojo is a digital anticapitalist magazine of revolutionary abolitionism, internationalism, & class struggle."
+        },
+        {
+            "slug": "warehouse-workers",
+            "name": "Warehouse Workers",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "Warehouse Worker Resource Center is dedicated to empowering logistics sector workers in Southern California through education, advocacy and action."
+        },
+        {
+            "slug": "corporate-accountability",
+            "name": "Corporate Accountability",
+            "tags": [
+                null
+            ],
+            "short_description": "Corporate Accountability stops transnational corporations from devastating democracy, trampling human rights, and destroying our planet. Join us!"
+        },
+        {
+            "slug": "progressive-caucus",
+            "name": "Progressive Caucus",
+            "tags": [
+                "progressive"
+            ],
+            "short_description": "We are the voice of progressives in Congress. Fighting for working families over corporate interests. Advancing racial and social justice. Working for"
         },
         {
             "slug": "momentum-community",
@@ -734,6 +1325,22 @@
             "short_description": "The CrimethInc. Ex-Workers' Collective (CWC) is a decentralized anarchist collective comprised of many cells that act independently in pursuit of a fr"
         },
         {
+            "slug": "the-roosevelt-network",
+            "name": "The Roosevelt Network",
+            "tags": [
+                null
+            ],
+            "short_description": "The Roosevelt Network supports emerging progressive policymakers and advocates by organizing college students and alumni across nearly 40 states. #Who"
+        },
+        {
+            "slug": "blacklivesmatter-la",
+            "name": "BlackLivesMatter LA",
+            "tags": [
+                null
+            ],
+            "short_description": "Official Twitter for #BlackLivesMatter-Los Angeles, the first chapter of #BlackLivesMatter. Member of BLM Grassroots @blmgrassroots. est. 7/13/2013"
+        },
+        {
             "slug": "the-nation",
             "name": "The Nation",
             "tags": [
@@ -756,6 +1363,14 @@
                 "labor"
             ],
             "short_description": "This is the mission."
+        },
+        {
+            "slug": "us-solidarity-economy-network",
+            "name": "US Solidarity Economy Network",
+            "tags": [
+                "solidarity-economy"
+            ],
+            "short_description": "U.S. Solidarity Economy Network builds and strengthens movements for solidarity economies."
         },
         {
             "slug": "pacifica-radio-archive",
@@ -782,6 +1397,14 @@
             "short_description": "We are documentary filmmakers under founder @robertgreenwald. We create media that makes an impact. https://t.co/agkwdmRFBR"
         },
         {
+            "slug": "long-haul-infoshop",
+            "name": "Long Haul Infoshop",
+            "tags": [
+                "anarchism"
+            ],
+            "short_description": "The Long Haul is an Infoshop in the East Bay. We are a meeting space, library, anarchist & activist space. rt are not endorsements"
+        },
+        {
             "slug": "iww-cleveland-oh",
             "name": "IWW - Cleveland, OH",
             "tags": [
@@ -801,10 +1424,18 @@
             "slug": "young-democratic-socialists-lamar-university",
             "name": "Young Democratic Socialists - Lamar University",
             "tags": [
-                "dsa",
-                "student-youth"
+                "student-youth",
+                "dsa"
             ],
             "short_description": "Lamar Democratic Socialists: a campus organization devoted to justice. #BlackLivesMatter #supportyrlocalsocialists\r\n#LamarUniversity #LU17 #LU18 #LU19"
+        },
+        {
+            "slug": "laundry-workers-center",
+            "name": "Laundry Workers Center",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "LWC addresses the need for community-based leadership development, improving the living & working conditions of workers in the laundry & food service "
         },
         {
             "slug": "peace-land-bread",
@@ -813,6 +1444,14 @@
                 null
             ],
             "short_description": "Peace, Land, and Bread is a leading voice of international Marxist-Leninist scholarship and arts, offering communist perspectives on politics, history"
+        },
+        {
+            "slug": "350-colorado-action",
+            "name": "350 Colorado Action",
+            "tags": [
+                null
+            ],
+            "short_description": "We're changing the politics of climate change in Colorado."
         },
         {
             "slug": "international-socialist-organization-new-york-ny",
@@ -834,8 +1473,8 @@
             "slug": "democratic-socialists-of-america-eugene-or",
             "name": "Democratic Socialists of America - Eugene, OR",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "Official Eugene, #Oregon local of the Democratic Socialists of America 🌲🌹🌲🌹Meetings every 2nd & 4th Sunday at 6 #TrySocialism"
         },
@@ -864,6 +1503,14 @@
             "short_description": "The Fifth Estate is an anti-profit, anarchist project published by a volunteer collective of friends and comrades."
         },
         {
+            "slug": "united-electrical-radio-machine-workers-of-america",
+            "name": "United Electrical, Radio & Machine Workers of America",
+            "tags": [
+                null
+            ],
+            "short_description": "The Union for Everyone | Members Run This Union"
+        },
+        {
             "slug": "democracy-collaborative",
             "name": "Democracy Collaborative",
             "tags": [
@@ -883,8 +1530,8 @@
             "slug": "democratic-socialists-of-america-capital-district-ny",
             "name": "Democratic Socialists of America - Capital District, NY",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "Capital District New York chapter of @DemSocialists • Albany, Troy, Schenectady, Saratoga, Columbia/Greene & Southern Adirondacks • info@capitaldistri"
         },
@@ -900,8 +1547,8 @@
             "slug": "democratic-socialists-of-america-sacramento-ca",
             "name": "Democratic Socialists of America - Sacramento, CA",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "Drop student debt! End the criminalization of poverty! Seize the means of production! - Your friendly neighborhood socialists https://t.co/PSdqemEvKu"
         },
@@ -914,12 +1561,22 @@
             "short_description": "For an autonomous, joyful, and dignified life in common.\r\nhttps://t.co/11mCzcbrAB"
         },
         {
-            "slug": "the-call",
-            "name": "The Call",
+            "slug": "platypus-affiliated-society",
+            "name": "Platypus Affiliated Society",
             "tags": [
-                null
+                "socialist"
             ],
-            "short_description": "The Call is the publication of @breadrosesdsa caucus. Learn more at https://t.co/RTE7wEuonA and join @demsocialists at https://t.co/issRDHHRUg! 🍞🌹✊"
+            "short_description": "We organize reading groups, public fora, research and journalism focused on problems and tasks inherited from the Old, New, and post-political Left."
+        },
+        {
+            "slug": "radical-teacher",
+            "name": "Radical Teacher",
+            "tags": [
+                "media",
+                "academic",
+                "education"
+            ],
+            "short_description": "Socialist, feminist, and anti-racist journal dedicated to the theory and practice of teaching."
         },
         {
             "slug": "left-labor-project",
@@ -930,12 +1587,76 @@
             "short_description": "NYC Labor activists getting together for workers' rights and a peaceful, sustainable, democratic future! #1u #p2"
         },
         {
+            "slug": "the-call",
+            "name": "The Call",
+            "tags": [
+                null
+            ],
+            "short_description": "The Call is the publication of @breadrosesdsa caucus. Learn more at https://t.co/RTE7wEuonA and join @demsocialists at https://t.co/issRDHHRUg! 🍞🌹✊"
+        },
+        {
+            "slug": "philly-workers-for-dignity",
+            "name": "Philly Workers for Dignity",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "We're workers in Philly coming together to win dignity on the job. Get in touch with us here or leave us a message at (440) 744-5762."
+        },
+        {
+            "slug": "workers-justice",
+            "name": "Workers Justice",
+            "tags": [
+                null
+            ],
+            "short_description": "A New York City worker center that educates, organizes, and fights for better work conditions and social justice in the workplace"
+        },
+        {
+            "slug": "take-back-the-grid",
+            "name": "Take Back The Grid",
+            "tags": [
+                "utility-justice"
+            ],
+            "short_description": "Democratize, Decarbonize, Decommodify, Decolonize. Massachusetts Ecosocialists Working Group of @Boston_DSA"
+        },
+        {
+            "slug": "grassroots-global-justice-alliance",
+            "name": "Grassroots Global Justice Alliance",
+            "tags": [
+                null
+            ],
+            "short_description": "Many Struggles, One Movement. Follow @ggjalliance on Facebook | Instagram. #NoWarNoWarming #JustTransition #GrassrootsFeminisms #FeministEconomy"
+        },
+        {
             "slug": "socialist-alternative-minnesota",
             "name": "Socialist Alternative - Minnesota",
             "tags": [
                 "socialist"
             ],
             "short_description": "Official account of Socialist Alternative Minnesota. https://t.co/YhHxwFRrGF"
+        },
+        {
+            "slug": "data-for-black-lives",
+            "name": "Data for Black Lives",
+            "tags": [
+                "tech"
+            ],
+            "short_description": "We are a movement of scientists and activists. Data as protest. Data as accountability. Data as collective action."
+        },
+        {
+            "slug": "sf-public-bank-coalition",
+            "name": "SF Public Bank Coalition",
+            "tags": [
+                "finance"
+            ],
+            "short_description": "100% grassroots & volunteer organization pushing SF to establish a public bank for public good. #ReInvestSF #SFPublicBankNow"
+        },
+        {
+            "slug": "cuny-rising-alliance",
+            "name": "CUNY Rising Alliance",
+            "tags": [
+                "academic"
+            ],
+            "short_description": "The CUNY Rising Alliance is a coalition of student, labor, and community groups advocating for a free and quality public higher education at CUNY."
         },
         {
             "slug": "commune-editions",
@@ -954,6 +1675,14 @@
             "short_description": "Worcester Branch the Socialist Alternative. Fighting in our workplaces, communities, and campuses against the exploitation and injustices people face "
         },
         {
+            "slug": "claudia-jones-school-for-political-education",
+            "name": "Claudia Jones School for Political Education",
+            "tags": [
+                null
+            ],
+            "short_description": "EST 2020. We are a popular education institution centered on fighting racism, capitalism, and all forms of exploitation and oppression."
+        },
+        {
             "slug": "corpwatch",
             "name": "CorpWatch",
             "tags": [
@@ -965,9 +1694,9 @@
             "slug": "jacobin",
             "name": "Jacobin",
             "tags": [
-                "media",
+                "socialist",
                 "jacobin",
-                "socialist"
+                "media"
             ],
             "short_description": "Jacobin is a leading voice of the American left, offering socialist perspectives on politics, economics, and culture."
         },
@@ -983,10 +1712,42 @@
             "slug": "unite-all-workers-for-democracy-uaw",
             "name": "Unite All Workers for Democracy",
             "tags": [
-                "union",
-                "labor"
+                "labor",
+                "union"
             ],
             "short_description": "UAWD is a grassroots movement of UAW members advocating for increased democracy and accountability within our union. We proudly endorse @uawmembers th"
+        },
+        {
+            "slug": "voices-of-a-peoples-history",
+            "name": "Voices of a People's History",
+            "tags": [
+                null
+            ],
+            "short_description": "Bringing history to life. Co-founded by Howard Zinn. Giving public expression to rebels, dissenters, and visionaries from past and present."
+        },
+        {
+            "slug": "the-hopbrook-institute",
+            "name": "The Hopbrook Institute",
+            "tags": [
+                null
+            ],
+            "short_description": "Hopbrook is a nonprofit research organization dedicated to the development of progressive policy in collaboration between activists and academic resea"
+        },
+        {
+            "slug": "dc-fair-food",
+            "name": "DC Fair Food",
+            "tags": [
+                "food-justice"
+            ],
+            "short_description": "Community members, students and people of faith organizing in solidarity w/ @CIW to strengthen the @FairFoodProgram #BoycottWendys #FoodJusticeDC"
+        },
+        {
+            "slug": "community-voices-heard",
+            "name": "Community Voices Heard",
+            "tags": [
+                null
+            ],
+            "short_description": "We are the largest Black-led membership org working to build power in Black, brown, and low-income communities across New York State.\n\nSister org: @CV"
         },
         {
             "slug": "young-invincibles",
@@ -1008,8 +1769,8 @@
             "slug": "working-mass",
             "name": "Working Mass: The Massachusetts DSA Labor Outlet",
             "tags": [
-                "media",
-                "dsa"
+                "dsa",
+                "media"
             ],
             "short_description": "Working Mass aims to give a voice to the fighting workers of Massachusetts.\n\nWe believe that every worker deserves a union, and every union deserves p"
         },
@@ -1022,12 +1783,12 @@
             "short_description": "The African American Policy Forum (AAPF) is an innovative think tank that connects academics, activists and policy-makers to promote efforts to disman"
         },
         {
-            "slug": "young-worker-media",
-            "name": "Young Worker Media",
+            "slug": "spectre-journal",
+            "name": "Spectre Journal",
             "tags": [
-                null
+                "media"
             ],
-            "short_description": "Not a millennial blog. An independent project using media to elevate and connect rank-and-file voices. Democratic, uncensored. #RiseNGrind"
+            "short_description": "A new Marxist journal that understands anti-oppression struggles as constitutive of class struggle. Pro-Black, pro-queer, and resolutely international"
         },
         {
             "slug": "valley-labor-report",
@@ -1036,6 +1797,14 @@
                 "radio"
             ],
             "short_description": "Alabama's ONLY union talk radio show. Saturdays 9:30 - 11:00am on 92.5FM/770AM WVNN. Hosted by @JacobM_AL\n and Adam Keller"
+        },
+        {
+            "slug": "young-worker-media",
+            "name": "Young Worker Media",
+            "tags": [
+                null
+            ],
+            "short_description": "Not a millennial blog. An independent project using media to elevate and connect rank-and-file voices. Democratic, uncensored. #RiseNGrind"
         },
         {
             "slug": "on-labor",
@@ -1054,6 +1823,14 @@
             "short_description": "Independent news website dedicated to investigative journalism on politics and empire || En español: @GrayzoneES || https://t.co/aCAMIg54I0"
         },
         {
+            "slug": "union-del-barrio",
+            "name": "Union del Barrio",
+            "tags": [
+                null
+            ],
+            "short_description": "Organización política para impulsar la estrategia, ciencia y estructuras necesarias para revertir la opresión de las mexicana/os y latinoamericana/os "
+        },
+        {
             "slug": "workers-world-party-memphis-tn",
             "name": "Workers World Party - Memphis, TN",
             "tags": [
@@ -1070,11 +1847,44 @@
             "short_description": "The Center for Economic Research and Social Change (CERSC) is a 501(c)3 nonprofit organization. We are dedicated to a better understanding of today’s "
         },
         {
+            "slug": "labor-notes",
+            "name": "Labor Notes",
+            "tags": [
+                "media",
+                "labor"
+            ],
+            "short_description": "Monthly publication covering the labor movement"
+        },
+        {
+            "slug": "new-york-collective-of-radical-educators",
+            "name": "New York Collective of Radical Educators",
+            "tags": [
+                "education"
+            ],
+            "short_description": "...the struggle for justice does not end when the school bell rings. -New York Collective of Radical Educators"
+        },
+        {
+            "slug": "american-friends-service-committee",
+            "name": "American Friends Service Committee",
+            "tags": [
+                "non-violence"
+            ],
+            "short_description": "#Quaker org that includes ppl of various faiths committed to social justice #BlackLivesMatter #DefundHate #SanctuaryEverywhere #NoBanNoWall #GazaUnloc"
+        },
+        {
+            "slug": "wyoming-red-star-coalition",
+            "name": "Wyoming Red Star Coalition",
+            "tags": [
+                null
+            ],
+            "short_description": "The Wyoming Red Star Coalition is a collective of leftists who seek to create community, foster class-consciousness, and organize a revolutionary move"
+        },
+        {
             "slug": "democratic-socialists-of-america-metro-dc",
             "name": "Democratic Socialists of America - Metro DC",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "Bringing democratic socialism to the nation's capital 🌹 Branches: @moco_dsa @dsa_nova Campaigns: @stompslumlords @RentControlDC @NoPepco #DefundMPD +m"
         },
@@ -1090,10 +1900,19 @@
             "slug": "democratic-socialists-of-america-new-york-ny-tech-action",
             "name": "Democratic Socialists of America - New York, NY Tech Action",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "Working Group of the New York City Democratic Socialists of America investigating the political, social, and economic effects of new technology."
+        },
+        {
+            "slug": "democratic-socialists-of-america-madison-wi",
+            "name": "Democratic Socialists of America - Madison, WI",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "short_description": "The Madison, Wisconsin chapter of the Democratic Socialists of America."
         },
         {
             "slug": "left-times",
@@ -1104,13 +1923,23 @@
             "short_description": "What the left is saying. A news feed of nuanced and radical thought."
         },
         {
-            "slug": "democratic-socialists-of-america-madison-wi",
-            "name": "Democratic Socialists of America - Madison, WI",
+            "slug": "progressive-democrats-of-america",
+            "name": "Progressive Democrats of America",
             "tags": [
-                "socialist",
-                "dsa"
+                "electoral",
+                "medicare-for-all",
+                "progressive"
             ],
-            "short_description": "The Madison, Wisconsin chapter of the Democratic Socialists of America."
+            "short_description": "PDA works inside Democratic Party + outside in movements for peace + justice. | Paid for by PDA Not authorized by any candidate or candidate's committ"
+        },
+        {
+            "slug": "democratic-socialists-of-america-atlanta-ga",
+            "name": "Democratic Socialists of America - Atlanta, GA",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "short_description": "Chapter of the Democratic Socialists of America"
         },
         {
             "slug": "yes-magazine",
@@ -1137,6 +1966,22 @@
             "short_description": "Official Twitter of UMass Boston International Socialist Organization"
         },
         {
+            "slug": "philly-tenants-union",
+            "name": "Philly Tenants Union",
+            "tags": [
+                "housing"
+            ],
+            "short_description": "Philly tenants organizing Philly tenants because housing is a human right. Member of @atun_rsia Landlord trouble? Contact us @ 267-289-2102"
+        },
+        {
+            "slug": "bold-nebraska",
+            "name": "Bold Nebraska",
+            "tags": [
+                null
+            ],
+            "short_description": "We are progressive, independent, moderate, populist & everything in between. We are Bold Nebraska--people creating change online & on the ground. #NoK"
+        },
+        {
             "slug": "new-left-review",
             "name": "New Left Review",
             "tags": [
@@ -1145,12 +1990,61 @@
             "short_description": "Left-wing journal of ideas covering world politics, global economy, movements, theory, history, culture and more."
         },
         {
+            "slug": "emergency-workplace-organizing-committee",
+            "name": "Emergency Workplace Organizing Committee",
+            "tags": [
+                "dsa",
+                "labor"
+            ],
+            "short_description": "Supporting all workers organize their workplace — anywhere in the country, in any sector, for any employer | A project of @DemSocialists and @UEUnion"
+        },
+        {
+            "slug": "peoples-power-assemblies",
+            "name": "Peoples Power Assemblies",
+            "tags": [
+                null
+            ],
+            "short_description": "Workers & oppressed people organized for jobs, education, healthcare while fighting police terror, LGBTQ & ableist oppression. Venmo: ppassemblynyc"
+        },
+        {
+            "slug": "15-now",
+            "name": "15 Now",
+            "tags": [
+                "fight-for-fifteen"
+            ],
+            "short_description": "Organizing for minimum wage of $15/hour "
+        },
+        {
+            "slug": "primo-nutmeg",
+            "name": "Primo Nutmeg",
+            "tags": [
+                null
+            ],
+            "short_description": "Politics is pro-wrestling. The CIA has infiltrated all large American corporations. If voting changed anything, it would be illegal."
+        },
+        {
             "slug": "revolutionary-truth",
             "name": "Revolutionary Truth",
             "tags": [
                 null
             ],
             "short_description": "Education. Mass Incarceration. War on Drugs. #StopAndFrisk. Military Industrial Cmplx. Make the Connection, Become the Revolution. Follow @blkagendare"
+        },
+        {
+            "slug": "economic-hardship-reporting-project",
+            "name": "Economic Hardship Reporting Project",
+            "tags": [
+                null
+            ],
+            "short_description": "We support quality journalism about inequality and poverty in America. Edited by @lisquart and @DavidRWallis. Tweets by @rachsanoff."
+        },
+        {
+            "slug": "nation-inside",
+            "name": "Nation Inside",
+            "tags": [
+                null
+            ],
+            "short_description": "Nation Inside is a network of grassroots organizations fighting to end mass incarceration. It's a project of Narrative Arts."
         },
         {
             "slug": "metro-justice-rochester",
@@ -1164,8 +2058,8 @@
             "slug": "democratic-socialists-of-america-omaha-ne",
             "name": "Democratic Socialists of America - Omaha, NE",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "Omaha chapter of @DemSocialists | Time for a different type of Big Red"
         },
@@ -1186,6 +2080,22 @@
             "short_description": "Listener Sponsored, Locally Controlled, Non-Commercial Pacifica Radio in New York -RT≠ endorsements"
         },
         {
+            "slug": "moral-mondays",
+            "name": "Moral Mondays",
+            "tags": [
+                null
+            ],
+            "short_description": "Supporting the efforts of the @NCNAACP.  Official inquiries, please contact info@naacpnc.org"
+        },
+        {
+            "slug": "gravel-institute",
+            "name": "Gravel Institute",
+            "tags": [
+                "electoral"
+            ],
+            "short_description": "Videos about history, economics, politics, the world. WATCH: https://t.co/B7I6k8jvUp"
+        },
+        {
             "slug": "families-for-freedom",
             "name": "Families for Freedom",
             "tags": [
@@ -1202,12 +2112,28 @@
             "short_description": "police/prison abolition - build and strengthen the movement for Black lives in New York City"
         },
         {
+            "slug": "the-spin-report",
+            "name": "The Spin Report",
+            "tags": [
+                null
+            ],
+            "short_description": "A media and political literacy project covering the US empire. • IG: https://t.co/Ka96q2Z3qX • FB: https://t.co/zdVk5DwI3y"
+        },
+        {
             "slug": "waging-nonviolence",
             "name": "Waging Nonviolence",
             "tags": [
                 null
             ],
             "short_description": "News and analysis on movements for justice around the world."
+        },
+        {
+            "slug": "tactical-tech",
+            "name": "Tactical Tech",
+            "tags": [
+                "tech"
+            ],
+            "short_description": "We engage with citizens and civil-society orgs to explore the impacts of technology on society T/RT/Like ≠ endorsement.  https://t.co/jj2eA4Xuby"
         },
         {
             "slug": "socialist-alternative-pacific-northwest",
@@ -1224,6 +2150,14 @@
                 null
             ],
             "short_description": "Worker strikes and protests in China"
+        },
+        {
+            "slug": "socialist-party-usa",
+            "name": "Socialist Party USA",
+            "tags": [
+                null
+            ],
+            "short_description": "Official account of the Socialist Party USA ★ Join us today to continue building independent #LeftUnity beyond the twin parties of capitalism!"
         },
         {
             "slug": "the-michael-brooks-show",
@@ -1250,13 +2184,53 @@
             "short_description": "The labor blog of Democratic Socialists of America"
         },
         {
+            "slug": "kshama-solidarity-campaign",
+            "name": "Kshama Solidarity Campaign",
+            "tags": [
+                null
+            ],
+            "short_description": "Our movement DEFEATED a right-wing, anti-BLM attempt to recall Seattle's socialist, CM Sawant! Follow @cmkshama & her org, @SocialistAlt ✊✊🏾"
+        },
+        {
             "slug": "internationalism-from-below",
             "name": "Internationalism From Below",
             "tags": [
-                "anti-imperialist",
-                "international"
+                "international",
+                "anti-imperialist"
             ],
             "short_description": "An organizing project of a network of socialist activists that seeks to build transnational solidarity with + between movements for social justice + d"
+        },
+        {
+            "slug": "teachers-for-justice",
+            "name": "Teachers for Justice",
+            "tags": [
+                "education"
+            ],
+            "short_description": "TSJ is an organization of teachers, academics, administrators, pre-service teachers, and other educators working for social justice."
+        },
+        {
+            "slug": "brand-new-congress",
+            "name": "Brand New Congress",
+            "tags": [
+                null
+            ],
+            "short_description": "A progressive movement to elect a unified slate of #PeopleFunded #UnBought Representatives to Congress. RT ≠ Endorsements."
+        },
+        {
+            "slug": "popular-resistance",
+            "name": "Popular Resistance",
+            "tags": [
+                null
+            ],
+            "short_description": "It's time to light the spark that sets off a true democratic, nonviolent transition to a world in which people are free to create just and sustainable"
+        },
+        {
+            "slug": "backbone-campaign",
+            "name": "Backbone Campaign",
+            "tags": [
+                null
+            ],
+            "short_description": "When the people lead, the leaders follow. Backbone Campaign provides artful activism & creative organizing tools, training & action support for the 99"
         },
         {
             "slug": "the-dig",
@@ -1275,6 +2249,15 @@
             "short_description": "We are a diverse grassroots group of progressives in the Bronx. We are grassroots activists from the Bronx, committed to working together for the adva"
         },
         {
+            "slug": "democratic-socialists-of-america-libertarian-socialist-caucus",
+            "name": "Democratic Socialists of America - Libertarian Socialist Caucus",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "short_description": "We are Ⓐ group of @DemSocialists members who believe that decentralization, ecology, & radical democracy are at the core of socialist organizing. #BLM"
+        },
+        {
             "slug": "international-socialist-organization-madison-wi",
             "name": "International Socialist Organization - Madison, WI",
             "tags": [
@@ -1283,21 +2266,28 @@
             "short_description": "The Madison district of the International Socialist Organization. Find out more about the ISO at http://t.co/GQanEn1d4T"
         },
         {
-            "slug": "democratic-socialists-of-america-libertarian-socialist-caucus",
-            "name": "Democratic Socialists of America - Libertarian Socialist Caucus",
-            "tags": [
-                "socialist",
-                "dsa"
-            ],
-            "short_description": "We are Ⓐ group of @DemSocialists members who believe that decentralization, ecology, & radical democracy are at the core of socialist organizing. #BLM"
-        },
-        {
             "slug": "communication-workers-of-america",
             "name": "Communication Workers of America",
             "tags": [
                 null
             ],
             "short_description": "CWA represents workers in private and public sector employment in 1,200 chartered CWA local unions. CWA members work in telecommunications and informa"
+        },
+        {
+            "slug": "lucy-parsons-labs",
+            "name": "Lucy Parsons Labs",
+            "tags": [
+                "tech"
+            ],
+            "short_description": "transparency, police accountability and digital security\nFollow us on the fediverse: \nhttps://t.co/H1zbwZRZFJ"
+        },
+        {
+            "slug": "us-campaign-for-palestinian-rights",
+            "name": "US Campaign for Palestinian Rights",
+            "tags": [
+                null
+            ],
+            "short_description": "US Campaign for Palestinian Rights. Collective power for justice. Join us: https://t.co/wXIP1EuwIR"
         },
         {
             "slug": "libcom-dot-org",
@@ -1316,13 +2306,53 @@
             "short_description": "We are entering a period of profound economic, political and cultural \r\ncrisis. In such periods it is essential for society to have the right \r\ntheore"
         },
         {
+            "slug": "soul-fire-farm",
+            "name": "Soul Fire Farm",
+            "tags": [
+                null
+            ],
+            "short_description": "Soul Fire Farm is committed to ending racism and injustice in the food system."
+        },
+        {
+            "slug": "revolutionary-communist-party",
+            "name": "Revolutionary Communist Party",
+            "tags": [
+                "communist"
+            ],
+            "short_description": "Revolutionary communists. Followers of Bob Avakian and the new communism. Fighters for an actual revolution to end all oppression. Emancipators of hum"
+        },
+        {
             "slug": "young-democratic-socialists-bear-creek-high-school",
             "name": "Young Democratic Socialists - Bear Creek High School",
             "tags": [
-                "dsa",
-                "student-youth"
+                "student-youth",
+                "dsa"
             ],
             "short_description": "We are a chapter of the Young Democratic Socialists of America at Bear Creek High School. #TrySocialism"
+        },
+        {
+            "slug": "ragtag",
+            "name": "Ragtag",
+            "tags": [
+                null
+            ],
+            "short_description": "Ragtag is building a movement of technologists to amplify progressive organizing in innovative and high-impact ways. Volunteer with us! https://t.co/z"
+        },
+        {
+            "slug": "peoples-action-institute",
+            "name": "People's Action Institute",
+            "tags": [
+                null
+            ],
+            "short_description": "We fight for racial, economic and gender justice by investing in powerful state and local organizations and campaigns that win real change in people's"
+        },
+        {
+            "slug": "left-action",
+            "name": "Left Action",
+            "tags": [
+                "socialist"
+            ],
+            "short_description": "A network of over 1,000,000 activists committed to making a difference, fighting for progressive causes, and... having some fun while doing it."
         },
         {
             "slug": "socialist-alternative-los-angeles",
@@ -1331,6 +2361,22 @@
                 "socialist"
             ],
             "short_description": "The Los Angeles section of @SocialistAlt, a nationwide organization devoted to revolutionary #socialism. Branches in #BoyleHeights & #TheValley!"
+        },
+        {
+            "slug": "us-federation-of-worker-cooperatives",
+            "name": "US Federation of Worker Cooperatives",
+            "tags": [
+                "solidarity-economy"
+            ],
+            "short_description": "The national grassroots membership organization that supports the growth and development of worker co-ops. Keep up with our latest: https://t.co/mzw5A"
+        },
+        {
+            "slug": "counterpowercontrapoder",
+            "name": "CounterPower/ContraPoder",
+            "tags": [
+                null
+            ],
+            "short_description": "CounterPower is a communist political organization in the U.S. We work to build a movement against capitalist-imperialism and for global socialist rev"
         },
         {
             "slug": "labyrinth",
@@ -1344,10 +2390,26 @@
             "slug": "guerrilla-history-podcast",
             "name": "Guerrilla History Podcast",
             "tags": [
-                "media",
-                "podcast"
+                "podcast",
+                "media"
             ],
             "short_description": "A podcast providing a reconnaissance report of proletarian history in the @RevLeftRadio\n family. "
+        },
+        {
+            "slug": "once-again",
+            "name": "Once Again",
+            "tags": [
+                null
+            ],
+            "short_description": "Our work is not finished. #OnceAgain we are standing up to fight for the better world we know in our hearts is possible.\n\n#VoteForBernie #SuperBernieT"
+        },
+        {
+            "slug": "raise-up-for-15",
+            "name": "NC Raise Up",
+            "tags": [
+                null
+            ],
+            "short_description": "We’re building our union for service workers across the South by any means necessary. Press please DM. #OrganizetheSouth #UnionsforAll"
         },
         {
             "slug": "art-and-labor",
@@ -1358,12 +2420,28 @@
             "short_description": "A podcast hosted by @0KF0X and @titaniumwig covering the on-going struggle to survive as an art or cultural worker. \r\nhttps://t.co/cfsfyNAJm3"
         },
         {
+            "slug": "pennsylvania-poor-peoples-campaign",
+            "name": "Pennsylvania Poor People's Campaign",
+            "tags": [
+                null
+            ],
+            "short_description": "Uniting Pennsylvania to end poverty, the war economy, systemic racism and environmental devastation."
+        },
+        {
             "slug": "permanent-revolution",
             "name": "Permanent Revolution",
             "tags": [
                 null
             ],
             "short_description": "The purpose of this web site is to contribute to Marxist theory as part \r\nof our effort to change the world. We are committed to a fundamental \r\ntrans"
+        },
+        {
+            "slug": "reclaim-the-block",
+            "name": "Reclaim the Block",
+            "tags": [
+                null
+            ],
+            "short_description": "Abolitionists demanding since 2018 that Minneapolis divest from policing and invest in long-term alternatives. Also on FB and IG: @reclaimtheblock."
         },
         {
             "slug": "center-for-community-change-action",
@@ -1380,6 +2458,22 @@
                 "labor"
             ],
             "short_description": "The IWW is a member-run union for all workers, a union dedicated to organizing on the job, in our industries and in our communities."
+        },
+        {
+            "slug": "free-press",
+            "name": "Free Press",
+            "tags": [
+                "media"
+            ],
+            "short_description": "We’re a nonpartisan organization fighting for your rights to connect and communicate."
+        },
+        {
+            "slug": "detroit-water-brigade",
+            "name": "Detroit Water Brigade",
+            "tags": [
+                null
+            ],
+            "short_description": "40% of Detroit is about to have their water shut off. We're stepping up and doing something about it. Join Us - #DetroitWater"
         },
         {
             "slug": "romanoff-backs-medicareforall-hick-doesnt",
@@ -1438,6 +2532,55 @@
             "short_description": "Unlearn everything you thought you knew about economics /// a documentary podcast series produced by @dellazduncan & @robpertray"
         },
         {
+            "slug": "empire-logistics",
+            "name": "Empire Logistics",
+            "tags": [
+                null
+            ],
+            "short_description": "Empire Logistics maps the global supply chain through research that articulates the infrastructure and externalized costs of the international flow of"
+        },
+        {
+            "slug": "way-to-win",
+            "name": "Way To Win",
+            "tags": [
+                null
+            ],
+            "short_description": "Way to Win is a home base for progressive donors and organizers strategically funding to win elections, advance transformative policy, and build lasti"
+        },
+        {
+            "slug": "democratic-socialists-of-america-new-york-ny",
+            "name": "Democratic Socialists of America - New York, NY",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "short_description": "Local chapter of the Democratic Socialists of America"
+        },
+        {
+            "slug": "left-forum",
+            "name": "Left Forum",
+            "tags": [
+                "education"
+            ],
+            "short_description": "Left Forum brings together organizers, intellectuals and the public from across the globe to share ideas for understanding and transforming the world."
+        },
+        {
+            "slug": "youth--young-adult-network-of-the-national-farm-worker-ministry",
+            "name": "Youth & Young Adult Network of the National Farm Worker Ministry",
+            "tags": [
+                null
+            ],
+            "short_description": "YAYA (Youth & Young Adult Network of the National Farm Worker Ministry): Young people supporting farm worker campaigns for justice!"
+        },
+        {
+            "slug": "democratize-comed",
+            "name": "#DemocratizeComEd",
+            "tags": [
+                null
+            ],
+            "short_description": "Our Power. Our Future. A people-powered campaign for democratically-controlled energy in Chicago. #DemocratizeComEd #DemocratizingIsFeasible💡⚡️"
+        },
+        {
             "slug": "dead-pundits-society",
             "name": "Dead Pundits Society",
             "tags": [
@@ -1446,12 +2589,44 @@
             "short_description": "Dead Pundits Society Podcast ¤ Democratic Socialism ¤ Forging a New Left Agenda"
         },
         {
+            "slug": "rising-tide-north-america",
+            "name": "Rising Tide North America",
+            "tags": [
+                "climate"
+            ],
+            "short_description": "Confronting the Root Causes of Climate Change"
+        },
+        {
+            "slug": "roosevelt-institute",
+            "name": "Roosevelt Institute",
+            "tags": [
+                null
+            ],
+            "short_description": "Advancing ideas that rebalance power in our economy and democracy."
+        },
+        {
+            "slug": "the-center-for-media-and-democracy",
+            "name": "The Center for Media and Democracy",
+            "tags": [
+                null
+            ],
+            "short_description": "The Center for Media and Democracy (PRWatch, ALECexposed, SourceWatch) is a national watchdog group that investigates corruption and corporate front g"
+        },
+        {
             "slug": "socialist-alternative-philadelphia-pa",
             "name": "Socialist Alternative - Philadelphia, PA",
             "tags": [
                 "socialist"
             ],
             "short_description": "Philly branch of @SocialistAlt, a fighting organization for working people against oppression around the globe."
+        },
+        {
+            "slug": "united-workers",
+            "name": "United Workers",
+            "tags": [
+                null
+            ],
+            "short_description": "Low-wage workers leading the way to poverty's end."
         },
         {
             "slug": "its-going-down",
@@ -1465,10 +2640,18 @@
             "slug": "democratic-socialists-of-america-immigrants-rights-working-group",
             "name": "Democratic Socialists of America - Immigrants' Rights Working Group",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "@DemSocialists Immigrant Rights Working Group 🌹dsa.immigration@gmail.com | #AbolishICE"
+        },
+        {
+            "slug": "fair",
+            "name": "FAIR",
+            "tags": [
+                "media"
+            ],
+            "short_description": "Fairness & Accuracy In Reporting, holding corporate media accountable for distortions & omissions since 1986. https://t.co/t1GPG9S4pk"
         },
         {
             "slug": "interoccupy",
@@ -1479,12 +2662,77 @@
             "short_description": "IO provides communication channels: Communities, Working Groups & Organizations -  Mass Movement building via conference calls & online organizing pla"
         },
         {
+            "slug": "fair-care-labs",
+            "name": "Fair Care Labs",
+            "tags": [
+                null
+            ],
+            "short_description": "Innovation arm of the @domesticworkers movement. Social lab based in a social movement. Working to transform future of care markets to be fair for all"
+        },
+        {
+            "slug": "democratic-socialists-of-america-health-workers-collective",
+            "name": "Democratic Socialists of America - Health Workers Collective",
+            "tags": [
+                null
+            ],
+            "short_description": "A political home for all health workers building solidarity across disciplines to collectively fight for a health system that values people over profi"
+        },
+        {
+            "slug": "zinn-education-project",
+            "name": "Zinn Education Project",
+            "tags": [
+                null
+            ],
+            "short_description": "Zinn Education Project: Teaching a People’s History offers free resources for teaching outside the textbook. Coordinated by @RethinkSchools & @Teachin"
+        },
+        {
+            "slug": "rupture-magazine",
+            "name": "Rupture",
+            "tags": [
+                null
+            ],
+            "short_description": "Rupture is an Eco Socialist Quarterly Magazine produced by members of @RiseSocialists, a network in @pb4p. Subscribe at https://t.co/tUZhIGltGS"
+        },
+        {
+            "slug": "decolonize-this-place",
+            "name": "Decolonize This Place",
+            "tags": [
+                "anti-imperialist"
+            ],
+            "short_description": "Action-oriented movement on Indigenous struggle, Black liberation, Free Palestine, workers, de-gentrification, dismantling patriarchy ✊"
+        },
+        {
             "slug": "black-alliance-for-peace",
             "name": "Black Alliance for Peace",
             "tags": [
                 null
             ],
             "short_description": "The Black Alliance for Peace (BAP) seeks to recapture and redevelop the historic anti-war, anti-imperialist, and pro-peace positions of the radical bl"
+        },
+        {
+            "slug": "action-network",
+            "name": "Action Network",
+            "tags": [
+                null
+            ],
+            "short_description": "An intuitive, comprehensive online tool set that empowers progressive campaigns to be stronger & more effective. Create a free account: https://t.co/N"
+        },
+        {
+            "slug": "alphabet-workers-union",
+            "name": "Alphabet Workers Union",
+            "tags": [
+                "tech",
+                "labor"
+            ],
+            "short_description": "Union for workers of Alphabet corporation, members of CWA Local 9009"
+        },
+        {
+            "slug": "pcun",
+            "name": "PCUN",
+            "tags": [
+                null
+            ],
+            "short_description": "Pineros Y Campesinos Unidos del Noroeste\r\n\r\nLocated in Woodburn, OR\r\n30+ years fighting for social justice\r\n\r\nLa Union hase la Fuerza!"
         },
         {
             "slug": "communists-in-situ",
@@ -1511,6 +2759,30 @@
             "short_description": "New York Branch of Socialist Alternative and the International Socialist Alternative. Follow Us for Socialist News and Actions from Around the World a"
         },
         {
+            "slug": "advancement-project",
+            "name": "Advancement Project",
+            "tags": [
+                null
+            ],
+            "short_description": "Next generation racial justice, civil rights org. Supporting, inspiring nat'l and local movements toward a just democracy. #PoliceFreeSchools #Movemen"
+        },
+        {
+            "slug": "partnership-for-working-families",
+            "name": "Partnership For Working Families",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "Our network is building people power in cities across the US to transform our country into one rooted in liberation, abundance, and joy for all."
+        },
+        {
+            "slug": "vocal-ny",
+            "name": "VOCAL-NY",
+            "tags": [
+                null
+            ],
+            "short_description": "G'roots organizing for healthy & just communities. HIV, drug policy, incarceration & homelessness. Media requests: media@vocal-ny.org"
+        },
+        {
             "slug": "logic-magazine",
             "name": "Logic",
             "tags": [
@@ -1522,17 +2794,25 @@
             "slug": "young-democratic-socialists-william-paterson-university",
             "name": "Young Democratic Socialists - William Paterson University",
             "tags": [
-                "dsa",
-                "student-youth"
+                "student-youth",
+                "dsa"
             ],
             "short_description": "Young Democratic Socialists of William Paterson University. Meetings every Tuesday at 12:30pm. ✊ Insta: @wpuyds"
+        },
+        {
+            "slug": "roots-action",
+            "name": "Roots Action",
+            "tags": [
+                null
+            ],
+            "short_description": "Progressive group that helped defeat Trump. Now we're pushing Dems to deliver for the multiracial working class & people of color, youths that elected"
         },
         {
             "slug": "young-democratic-socialists-antwerp-local-high-school",
             "name": "Young Democratic Socialists - Antwerp Local High School",
             "tags": [
-                "dsa",
-                "student-youth"
+                "student-youth",
+                "dsa"
             ],
             "short_description": "Antwerp Local High School chapter of YDS."
         },
@@ -1545,12 +2825,68 @@
             "short_description": "Media that promotes total liberation for all from a queer vegan Marxist perspective."
         },
         {
+            "slug": "laborvoices-inc",
+            "name": "LaborVoices, Inc.",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "For a status update see https://t.co/yJg4iIggxy"
+        },
+        {
+            "slug": "union-base",
+            "name": "Union Base",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "Visit UnionBase to keep up with what’s happening in the labor movement including bargaining, strikes, actions and organizing.\n\nUnionBase.eth"
+        },
+        {
+            "slug": "western-massachusetts-medicare-for-all",
+            "name": "Western Massachusetts Medicare for All",
+            "tags": [
+                "medicare-for-all"
+            ],
+            "short_description": "WMM4A is a regional network of groups and individuals advocating for a Single Payer health care system in our state. #mapoli #SinglePayer #MedicareFor"
+        },
+        {
+            "slug": "progressive-change-campaign-committee",
+            "name": "Progressive Change Campaign Committee",
+            "tags": [
+                "progressive"
+            ],
+            "short_description": "Progressive Change Campaign Committee (PCCC). Nearly one million members strong! Join us as we champion bold policies and fight for everyday people."
+        },
+        {
+            "slug": "iww",
+            "name": "Industrial Workers of the World",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "The Industrial Workers of the World (IWW) is a worker-run union dedicated to direct action, industrial democracy, and unrelenting class struggle."
+        },
+        {
+            "slug": "put-people-first-pennsylvania",
+            "name": "Put People First! Pennsylvania",
+            "tags": [
+                null
+            ],
+            "short_description": "Put People First! PA is organizing across typical divisions of race, urban/rural, red/blue to change what’s politically possible in our state."
+        },
+        {
             "slug": "peoples-world",
             "name": "PeoplesWorld",
             "tags": [
                 null
             ],
             "short_description": "Daily news & analysis with class. We take sides...Yours! #Marxism #labor #politics #news #culture"
+        },
+        {
+            "slug": "make-the-road-action",
+            "name": "Make the Road Action",
+            "tags": [
+                null
+            ],
+            "short_description": "Building power, promoting policy solutions, & strengthening the movement for justice for immigrants & working class people of color in CT, NJ, NV, NY,"
         },
         {
             "slug": "iww-incarcerated-workers-organizing-committee",
@@ -1593,13 +2929,62 @@
             "short_description": "Independent, daily global news hour anchored by Amy Goodman & Juan González. Stream M-F 8AM ET https://t.co/qj9euWzTVH. Support independent media—Dona"
         },
         {
+            "slug": "courage-to-change",
+            "name": "Courage to Change",
+            "tags": [
+                null
+            ],
+            "short_description": "Political Action Committee affiliated with Alexandria Ocasio-Cortez"
+        },
+        {
             "slug": "democratic-socialists-of-america-national-tech-committee",
             "name": "Democratic Socialists of America - National Tech Committee",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "A group of DSA member volunteers helping build the Socialism Network."
+        },
+        {
+            "slug": "toward-freedom",
+            "name": "Toward Freedom",
+            "tags": [
+                null
+            ],
+            "short_description": "Global reports. Grassroots perspectives. Founded in 1952."
+        },
+        {
+            "slug": "robin-hood-tax",
+            "name": "Robin Hood Tax",
+            "tags": [
+                "finance"
+            ],
+            "short_description": "The Robin Hood Tax is a tiny tax of  0.5% on Wall Street financial transactions that would generate $300 Billion annually to fund human needs!"
+        },
+        {
+            "slug": "our-revolution",
+            "name": "Our Revolution",
+            "tags": [
+                "bernie",
+                "electoral"
+            ],
+            "short_description": "Campaigns end. Revolutions endure.\n#MedicareForAll #GreenNewDeal #CancelStudentDebt #DefendDemocracy #GoodJobsForAll #CriminalJusticeReform #Immigrant"
+        },
+        {
+            "slug": "living-wage-hawaii",
+            "name": "Living Wage Hawaii",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "Securing a future where all Hawaii workers can afford their basic needs."
+        },
+        {
+            "slug": "netroots-nation",
+            "name": "Netroots Nation",
+            "tags": [
+                "tech"
+            ],
+            "short_description": "The largest progressive gathering in the US. Netroots Nation 2023 will be July 13-15 in Chicago."
         },
         {
             "slug": "adbusters",
@@ -1618,12 +3003,44 @@
             "short_description": "Nonprofit magazine & book publisher dedicated to sustaining & strengthening public education through social justice teaching and education activism."
         },
         {
+            "slug": "the-trillbillies",
+            "name": "The Trillbillies Podcast",
+            "tags": [
+                null
+            ],
+            "short_description": "Born to Work, Forced to Party"
+        },
+        {
             "slug": "disorderly-conduct",
             "name": "Disorderly Conduct",
             "tags": [
                 null
             ],
             "short_description": "Podcast exploring finance and economics... without a permit. With co-hosts @alexisgoldstein and @JAMyerson. Raking muck and rousing rabble with @Tarbe"
+        },
+        {
+            "slug": "sistersong",
+            "name": "SisterSong",
+            "tags": [
+                null
+            ],
+            "short_description": "Southern Based, Black women led national Reproductive Justice Collective."
+        },
+        {
+            "slug": "organizing-20",
+            "name": "Organizing 2.0",
+            "tags": [
+                "tech"
+            ],
+            "short_description": "Teaching and Learning Digital Strategy for Labor & Community. #Org20"
+        },
+        {
+            "slug": "common-dreams",
+            "name": "Common Dreams",
+            "tags": [
+                null
+            ],
+            "short_description": "Breaking news & opinion for the progressive community. Our mission: To inform. To inspire. To ignite change for the common good."
         },
         {
             "slug": "the-american-prospect",
@@ -1653,8 +3070,8 @@
             "slug": "united-steelworkers ",
             "name": "United Steelworkers ",
             "tags": [
-                "union",
-                "medicare-for-all"
+                "medicare-for-all",
+                "union"
             ],
             "short_description": " The United Steelworkers union (USW) represents 850,000 active and retired workers in metals, mining, pulp and paper, rubber, chemicals, glass, auto s"
         },
@@ -1675,6 +3092,22 @@
             "short_description": "Statewide movement of renters and homeless NYers fighting for universal tenants’ rights and safe and affordable homes for all.\n\nhttps://housingjustice"
         },
         {
+            "slug": "coworker-dot-org",
+            "name": "Coworker.org",
+            "tags": [
+                null
+            ],
+            "short_description": "Want to change something at your workplace? Start a campaign. Organize your coworkers. And win."
+        },
+        {
+            "slug": "climate-works-for-all",
+            "name": "Climate Works for All",
+            "tags": [
+                "climate"
+            ],
+            "short_description": "A coalition of environmental justice advocates, community groups, and Labor unions joining together to fight climate change & income inequality in NYC"
+        },
+        {
             "slug": "zero-books",
             "name": "Zer0 Books",
             "tags": [
@@ -1691,13 +3124,46 @@
             "short_description": "News & Views from the People's Struggle! We welcome submissions, letters, and criticisms. Edited by @freedomroadorg"
         },
         {
+            "slug": "theorizing-the-web",
+            "name": "Theorizing the Web",
+            "tags": [
+                null
+            ],
+            "short_description": "We host Theorizing the Web Podcast. Join us over at Discord https://t.co/T5mocCCBXr TtW is a 501(c)3 Non-Profit Org"
+        },
+        {
+            "slug": "labour-start",
+            "name": "Labour Start",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "'Where trade unionists start their day on the net'\nNews & campaigning website of the international labour movement"
+        },
+        {
             "slug": "reclaim-rhode-island",
             "name": "Reclaim RI",
             "tags": [
-                "history",
-                "electoral"
+                "electoral",
+                "history"
             ],
             "short_description": "Building power for the people in Rhode Island.\n\nhttps://www.facebook.com/reclaimrhodeisland"
+        },
+        {
+            "slug": "techsolidarity",
+            "name": "TechSolidarity",
+            "tags": [
+                "tech"
+            ],
+            "short_description": "Contact: maciej@ceglowski.com, or Signal: +1 415 610 0231"
+        },
+        {
+            "slug": "sunrise-movement",
+            "name": "Sunrise Movement",
+            "tags": [
+                "climate",
+                "student-youth"
+            ],
+            "short_description": "We’re building a movement of young people to stop climate change & create millions of good jobs in the process #GreenNewDeal | Text GND to 88504 for u"
         },
         {
             "slug": "team-human",
@@ -1708,12 +3174,45 @@
             "short_description": "The last best hope for peeps. Join the party, find the others, and intervene. Podcast by @Rushkoff. Support: https://t.co/fI4nlasP9q"
         },
         {
+            "slug": "rose-caucus",
+            "name": "Rose Caucus",
+            "tags": [
+                "dsa"
+            ],
+            "short_description": "The Peoples’ Educational Training, Access, and Learning Institute. 👩‍🏫We believe that all children have the right to an #equitable & #accessible educa"
+        },
+        {
+            "slug": "progressive-maryland",
+            "name": "Progressive Maryland",
+            "tags": [
+                null
+            ],
+            "short_description": "Building power for working families through grassroots organizing, leadership development & political action ✊🏾"
+        },
+        {
             "slug": "haymarket-books",
             "name": "Haymarket Books",
             "tags": [
                 null
             ],
             "short_description": "radical publisher of politics, culture, current events | follow @haymarkethouse"
+        },
+        {
+            "slug": "labor-campaign-for-single-payer-health-care",
+            "name": "Labor Campaign for Single-Payer Health Care",
+            "tags": [
+                "labor",
+                "medicare-for-all"
+            ],
+            "short_description": "The national coalition of unions demanding healthcare that works for all. Join the movement! #MedicareForAll #singlepayer #1u #m4a"
+        },
+        {
+            "slug": "movement-strategy",
+            "name": "Movement Strategy",
+            "tags": [
+                null
+            ],
+            "short_description": "MSC provides values-aligned infrastructure for BIPOC & women-led organizations at the intersection of racial & environmental justice. We put love at t"
         },
         {
             "slug": "the-peoples-forum",
@@ -1730,6 +3229,63 @@
                 null
             ],
             "short_description": "Podcast of the Cybernetic Marxists. https://t.co/AdO0Hn8Xp6,  https://t.co/jognNLUEUB\r\n\r\nHosted by @wiegraf_ and @shanekilkelly"
+        },
+        {
+            "slug": "movement-school",
+            "name": "Movement School",
+            "tags": [
+                null
+            ],
+            "short_description": "Cultivating the next generation of leaders and organizers to mobilize grassroots engagement in the democratic process💥✊🏽 Sister org of @justicedems"
+        },
+        {
+            "slug": "act-on-mass",
+            "name": "Act on Mass",
+            "tags": [
+                null
+            ],
+            "short_description": "Fighting for progressive policies + accountability in the MA State House through education and organizing. #mapoli"
+        },
+        {
+            "slug": "people-power-movement-movimiento-poder-popular",
+            "name": "People Power Movement - Movimiento Poder Popular",
+            "tags": [
+                null
+            ],
+            "short_description": "Democratic people's org 4 Popular Control. Identifies w/ poor/working ppl. Anti-racist&sexist struggle central 2 Fundamental Social Change! #PeoplePow"
+        },
+        {
+            "slug": "align",
+            "name": "ALIGN",
+            "tags": [
+                null
+            ],
+            "short_description": "Organizing labor and community for a just and sustainable New York."
+        },
+        {
+            "slug": "defund-sfpd-now",
+            "name": "Defund SFPD Now",
+            "tags": [
+                "defund-the-police",
+                "prison-abolition"
+            ],
+            "short_description": "Part of the collective pursuit to defund San Francisco Police Department into abolition, and ultimately abolish the prison industrial complex"
+        },
+        {
+            "slug": "center-for-popular-democracy-action",
+            "name": "Center for Popular Democracy Action",
+            "tags": [
+                null
+            ],
+            "short_description": "We're building a popular movement of people fighting for opportunity, equality, and inclusion. Trouble-making action sibling of @popdemoc."
+        },
+        {
+            "slug": "rick-smith-show",
+            "name": "Rick Smith Show",
+            "tags": [
+                null
+            ],
+            "short_description": "By working people. For working people. Welcome to The Rick Smith Show.\n\nWeeknights 9p-11p EST/8p-10p Central.\n\nCall 1-866-416-RICK (7425) to join the "
         },
         {
             "slug": "in-these-times",
@@ -1756,12 +3312,36 @@
             "short_description": "We can win big when directly affected people wield power through community organizing, big ideas, and the ballot box. Action arm of @CommunityChange 🗳"
         },
         {
+            "slug": "background-briefing-w-ian-masters",
+            "name": "Background Briefing w/ Ian Masters",
+            "tags": [
+                null
+            ],
+            "short_description": "Rational, informed, & progressive analysis of national & international news and issues"
+        },
+        {
             "slug": "new-york-taxi-workers-alliance",
             "name": "New York Taxi Workers Alliance",
             "tags": [
                 "union"
             ],
             "short_description": "Founded in 1998, the New York Taxi Workers Alliance (NYTWA) is the 21,000-member strong union of NYC yellow cab, green car, black car, livery and app-"
+        },
+        {
+            "slug": "soltysik-walker-2016",
+            "name": "Soltysik/Walker 2016",
+            "tags": [
+                null
+            ],
+            "short_description": "The official Twitter for the Socialist Party USA's Soltysik/Walker 2016 Presidential Campaign"
+        },
+        {
+            "slug": "type-investigations",
+            "name": "Type Investigations",
+            "tags": [
+                null
+            ],
+            "short_description": "A nonprofit newsroom for independent investigative journalists. Seeking comment from a corporation near you. \n✉️: https://t.co/m8Yt8UCvGi  | 🎙️: https"
         },
         {
             "slug": "dream-defenders",
@@ -1788,6 +3368,14 @@
             "short_description": "❄️⚖️ @willmenaker @cushbomb @virgiltexas @ByYourLogic Amber Frost. Producer @saywhatagain. Customer service lines: 800-583-1315, chapotraphouse @ gmai"
         },
         {
+            "slug": "socialism-conference",
+            "name": "Socialism Conference",
+            "tags": [
+                "socialist"
+            ],
+            "short_description": "#Socialism2023 will take place in Chicago, September 1-4. Updates and further information at https://t.co/rNLUNIOPIf."
+        },
+        {
             "slug": "500-women-scientists",
             "name": "500 Women Scientists",
             "tags": [
@@ -1807,8 +3395,8 @@
             "slug": "democratic-socialists-of-america-san-diego-ca",
             "name": "Democratic Socialists of America - San Diego, CA",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "San Diego’s chapter of @DemSocialists. https://t.co/2SjWZXARdf • https://t.co/RfACvlo7eD • https://t.co/Pmm9rpeFWu"
         },
@@ -1829,6 +3417,22 @@
             "short_description": "Rational, informed, & progressive analysis of national & international news and issues\r\nKPFK FM 90.7-Los Angeles\r\nMon-Thurs 5pm\r\nSun 11am"
         },
         {
+            "slug": "organizing-upgrade",
+            "name": "Organizing Upgrade",
+            "tags": [
+                null
+            ],
+            "short_description": "Convergence works with organizers and activists on the frontlines to produce content that sharpens our collective practice and promotes strategic deba"
+        },
+        {
+            "slug": "ecosocialist-horizons",
+            "name": "Ecosocialist Horizons",
+            "tags": [
+                "socialist"
+            ],
+            "short_description": "Ecosocialist Horizons: advancing ecosocialism as a worldview & movement capable of offering real answers to the crises caused by capitalism. #ecosocia"
+        },
+        {
             "slug": "action-corps",
             "name": "Action Corps",
             "tags": [
@@ -1837,12 +3441,52 @@
             "short_description": "What is Action Corps? Action\n Corps is a grassroots initiative to build people power in solidarity \nwith people around the world. The organization is "
         },
         {
+            "slug": "justice-democrats",
+            "name": "Justice Democrats",
+            "tags": [
+                "electoral"
+            ],
+            "short_description": "Building The Bloc. We helped elect @AOC, @JamaalBowmanNY, @CoriBush, and more because we need a Democratic Party that fights for voters, not corporate"
+        },
+        {
+            "slug": "building-the-commune-group",
+            "name": "Building the Commune Group",
+            "tags": [
+                null
+            ],
+            "short_description": "A discussion and film series on radical politics.   buildingthecommune@riseup.net"
+        },
+        {
+            "slug": "byp100",
+            "name": "BYP100",
+            "tags": [
+                null
+            ],
+            "short_description": "✨National Convening: JULY 13-16✨\nBYP100 is a national organization of Black 18-35 year olds dedicated to creating freedom & justice for all Black peop"
+        },
+        {
             "slug": "open-source",
             "name": "Open Source",
             "tags": [
                 null
             ],
             "short_description": "An independent radio show about ideas, ideas, and politics hosted by Christopher Lydon. Since 2003.\r\n\r\nSupport us! https://t.co/lXdZoTAP7x"
+        },
+        {
+            "slug": "reclaim-uc",
+            "name": "reclaim UC",
+            "tags": [
+                null
+            ],
+            "short_description": "\"Major Influencer\""
+        },
+        {
+            "slug": "socialist-revolution",
+            "name": "Socialist Revolution",
+            "tags": [
+                "socialist"
+            ],
+            "short_description": "Magazine for Marxist theory, world revolution & socialism.\nFor a mass socialist party of the working class!\nUS section of @marxistcom IMT\nretweet ≠ en"
         },
         {
             "slug": "jackson-rising",
@@ -1861,6 +3505,14 @@
             "short_description": "\n\n        \n                \n\n                        \n\n        \n                A Community Voice (ACV) is an affiliate of ACORN\n and a non-profit com"
         },
         {
+            "slug": "midwest-socialist",
+            "name": "Midwest Socialist",
+            "tags": [
+                null
+            ],
+            "short_description": "A down-to-earth publication covering socialism in the Midwest. Pitch us at midwestsocialist@gmail.com"
+        },
+        {
             "slug": "boston-review",
             "name": "Boston Review",
             "tags": [
@@ -1869,11 +3521,35 @@
             "short_description": "A political and literary forum, independent and nonprofit since 1975. \r\nNEWSLETTER: https://t.co/QgX6oQ4Eor MEMBERSHIP: https://t.co/BZ3iwQ0n0y"
         },
         {
+            "slug": "maine-green-independent-party",
+            "name": "Maine Green Independent Party",
+            "tags": [
+                "electoral"
+            ],
+            "short_description": "Official account - Maine Green Independent Party: 1st #GPUS state party 1984-now. #MaineGreens #greenparty #gp #p2 #MEpolitics #MGIP #democracy #ecolo"
+        },
+        {
+            "slug": "working-class-history",
+            "name": "Working Class History",
+            "tags": [
+                null
+            ],
+            "short_description": "#OtD tweets & podcast. History isn't made by kings or politicians, it's made by billions of ordinary people. Support us: https://t.co/BfXZmiqe8a"
+        },
+        {
+            "slug": "moorehead/lilly-16",
+            "name": "Moorehead/Lilly '16",
+            "tags": [
+                null
+            ],
+            "short_description": "2016 Workers World Party Election Campaign: Monica Moorehead for President and Lamont Lilly for Vice President - the candidates of revolutionary socia"
+        },
+        {
             "slug": "democratic-socialists-of-america-los-angeles-ca",
             "name": "Democratic Socialists of America - Los Angeles, CA",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "@DemSocialists of America, Los Angeles 🌹 @NOlympicsLA + @streetwatchla https://t.co/soxXnFWtmz https://t.co/QT3hWmNFyW\n\nThe Los Angeles Chapter of the"
         },
@@ -1886,11 +3562,19 @@
             "short_description": "The New York local of @CODEPINK Women for Peace"
         },
         {
+            "slug": "action-center-on-race-and-the-economy",
+            "name": "Action Center on Race and the Economy",
+            "tags": [
+                null
+            ],
+            "short_description": "We fight for racial-economic justice by challenging financial & political actors who profit at the expense of BIPOC communities. Press: media@acrecamp"
+        },
+        {
             "slug": "young-democratic-socialists-northampton-community-college",
             "name": "Young Democratic Socialists - Northampton Community College",
             "tags": [
-                "dsa",
-                "student-youth"
+                "student-youth",
+                "dsa"
             ],
             "short_description": "The Northampton Community College chapter of the YDS. #TrySocialism Skype: ydsoflv @YDS_NCC Lehigh Valley (Allentown, Easton, Bethlehem, etc), PA"
         },
@@ -1898,8 +3582,8 @@
             "slug": "red-radio",
             "name": "Red Radio",
             "tags": [
-                "radio",
-                "communist"
+                "communist",
+                "radio"
             ],
             "short_description": "Red Radio features news, commentary, and music from a left perspective created and hosted by John Prusinski. \n\nWednesday, 4:30-5:30, WBCR 97.7 FM\n\nhtt"
         },
@@ -1928,6 +3612,31 @@
             "short_description": "ColorOfChange.org exists to strengthen Black America's political voice. Our goal is to empower our members - Black Americans and our allies - to make "
         },
         {
+            "slug": "right-to-the-city-alliance",
+            "name": "Right To The City Alliance",
+            "tags": [
+                null
+            ],
+            "short_description": "We’re a national alliance of orgs fighting for the rights of working class & communities of color to remain in, reclaim & rebuild our cities ⚡️ᴊᴏɪɴ ᴜs"
+        },
+        {
+            "slug": "race-forward",
+            "name": "Race Forward",
+            "tags": [
+                null
+            ],
+            "short_description": "We advance racial justice via research, media & practice. We publish @Colorlines news & present #FacingRace. https://t.co/2EbsIS269T"
+        },
+        {
+            "slug": "democratic-socialists-of-america-philadelphia-pa",
+            "name": "Democratic Socialists of America - Philadelphia, PA",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "short_description": "The Philadelphia Local of the Democratic Socialists of America https://t.co/BhRx5c7F6I"
+        },
+        {
             "slug": "the-north-star",
             "name": "The North Star",
             "tags": [
@@ -1936,22 +3645,29 @@
             "short_description": "Compass for socialism"
         },
         {
-            "slug": "democratic-socialists-of-america-philadelphia-pa",
-            "name": "Democratic Socialists of America - Philadelphia, PA",
+            "slug": "howard-zinn-bookfair",
+            "name": "Howard Zinn Bookfair",
             "tags": [
-                "socialist",
-                "dsa"
+                "education"
             ],
-            "short_description": "The Philadelphia Local of the Democratic Socialists of America https://t.co/BhRx5c7F6I"
+            "short_description": "Annual Book Fair Celebrating the People’s History. Sunday, Dec. 8 San Francisco #zinn2019"
         },
         {
             "slug": "democratic-socialists-of-america",
             "name": "Democratic Socialists of America",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "At the root of our socialism is a profound commitment to democracy, as means and end. As we are unlikely to see an immediate end to capitalism tomorro"
+        },
+        {
+            "slug": "incite",
+            "name": "INCITE!",
+            "tags": [
+                null
+            ],
+            "short_description": "radical feminists of color advancing a movement to end violence against women of color, trans people of color, & our communities. https://t.co/EXsWXKn"
         },
         {
             "slug": "socialist-alternative-mobile-al",
@@ -1962,6 +3678,14 @@
             "short_description": "Mobile, AL branch of Socialist Alternative"
         },
         {
+            "slug": "ruckus-society",
+            "name": "Ruckus Society",
+            "tags": [
+                null
+            ],
+            "short_description": "providing the tools, tactics and strategy for the movement through direct action training and action support"
+        },
+        {
             "slug": "mu-socialists",
             "name": "MU Socialists",
             "tags": [
@@ -1970,20 +3694,68 @@
             "short_description": "The official account of MU Socialists"
         },
         {
+            "slug": "brandworkers",
+            "name": "Brandworkers",
+            "tags": [
+                null
+            ],
+            "short_description": "We are Food & Brewery factory workers building a solidarity union with the IWW ✊🍩🍺 #UnionStrong @brandworkers on IG"
+        },
+        {
+            "slug": "repairers-of-the-breach",
+            "name": "Repairers of the Breach",
+            "tags": [
+                null
+            ],
+            "short_description": "Building a #MoralMovement"
+        },
+        {
+            "slug": "critical-resistance",
+            "name": "Critical Resistance",
+            "tags": [
+                "prison-abolition"
+            ],
+            "short_description": "A US-based, national grassroots organization working to build an international movement to abolish the prison industrial complex (PIC). #AbolitionNow"
+        },
+        {
+            "slug": "movement-generation",
+            "name": "Movement Generation",
+            "tags": [
+                null
+            ],
+            "short_description": "MG inspires and engages in transformative action towards the liberation & restoration of land, labor, and culture. https://t.co/Q9Choa8GbU"
+        },
+        {
+            "slug": "black-and-pink-massachusetts",
+            "name": "Black and Pink Massachusetts",
+            "tags": [
+                null
+            ],
+            "short_description": "We're abolitionists building community between incarcerated LGBTQI2S+ppl/PLWH and freeworlders while actively working to dismantle the PIC."
+        },
+        {
             "slug": "young-democratic-socialists-lindsey-wilson-college",
             "name": "Young Democratic Socialists - Lindsey Wilson College",
             "tags": [
-                "dsa",
-                "student-youth"
+                "student-youth",
+                "dsa"
             ],
             "short_description": "The Lindsey Wilson College chapter of @ydsusa. #socialism"
+        },
+        {
+            "slug": "los-angeles-alliance-for-a-new-economy",
+            "name": "Los Angeles Alliance for a New Economy",
+            "tags": [
+                null
+            ],
+            "short_description": "Los Angeles Alliance for a New Economy. @FairWorkweekLA @LBCoalition @ReclaimLASchls @RePower_LA @WaterJusticeLA"
         },
         {
             "slug": "democratic-socialists-of-america-san-francisco-ca",
             "name": "Democratic Socialists of America - San Francisco, CA",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "@DemSocialists of San Francisco, CA"
         },
@@ -2012,11 +3784,51 @@
             "short_description": "Du Bois Review is a scholarly, multidisciplinary and multicultural journal devoted to social science research & criticism about race. Lawrence D. Bobo"
         },
         {
+            "slug": "community-change",
+            "name": "Community Change",
+            "tags": [
+                null
+            ],
+            "short_description": "Building the power of low-income people of color to fight for a society where everyone can thrive. Since 1968.\n\nSister organization of @CommChangeAct"
+        },
+        {
+            "slug": "young-democratic-socialists-of-america-columbia-university",
+            "name": "Young Democratic Socialists of America - Columbia University",
+            "tags": [
+                null
+            ],
+            "short_description": "@YDSA_ chapter organizing for socialism and democracy in Morningside Heights. \n\nJoin our movement: https://t.co/djsMszqL1e"
+        },
+        {
+            "slug": "independent-drivers-guild",
+            "name": "Independent Drivers Guild",
+            "tags": [
+                null
+            ],
+            "short_description": "Independent Drivers Guild is a @MachinistsUnion affiliate of app-based drivers. We're Uber and Lyft workers united for a fair industry. #1u"
+        },
+        {
+            "slug": "roc-united",
+            "name": "ROC United",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "We're a national restaurant worker rights' group. To get involved, DM us or text ROC to 40817."
+        },
+        {
+            "slug": "recomposition",
+            "name": "Recomposition",
+            "tags": [
+                null
+            ],
+            "short_description": "Revolutionaries from diverse traditions with a common practice of workplace organizing. We want to reflect, share our views, and develop ideas via dis"
+        },
+        {
             "slug": "movement-for-black-lives",
             "name": "The Movement for Black Lives",
             "tags": [
-                "blm",
-                "black-liberation"
+                "black-liberation",
+                "blm"
             ],
             "short_description": "The Movement for Black Lives (M4BL) formed in December of 2014, was created as a space for Black organizations across the country to debate and discus"
         },
@@ -2024,9 +3836,9 @@
             "slug": "industrial-worker",
             "name": "Industrial Worker",
             "tags": [
-                "labor",
+                "union",
                 "media",
-                "union"
+                "labor"
             ],
             "short_description": "The official publication of @iww\r\nContact/Submit: iw@iww.org\r\nSubscribe/back issues: https://t.co/5xOqnZUSml\r\n#wobblies #iww #1u"
         },
@@ -2047,6 +3859,22 @@
             "short_description": "#BasicIncome is an amount of money given to citizens universally, sufficient to cover basic needs & free of conditions. Add a hashtag: https://t.co/CP"
         },
         {
+            "slug": "democratize-the-enterprise",
+            "name": "Democratize the Enterprise",
+            "tags": [
+                "solidarity-economy"
+            ],
+            "short_description": "A People's Lobby for Economic Democracy. We are a non-partisan group of citizens actively lobbying for employee-ownership and structural democracy.  J"
+        },
+        {
+            "slug": "global-women-strike",
+            "name": "Global Women Strike",
+            "tags": [
+                "feminist"
+            ],
+            "short_description": "Int'l network campaigning for living wage for mothers & carers & #CareIncomeNow. Co-ordinated by #WagesForHousework Campaign & #SelmaJames"
+        },
+        {
             "slug": "bold-type-books",
             "name": "Bold Type Books",
             "tags": [
@@ -2055,13 +3883,77 @@
             "short_description": "Challenging power, one book at a time"
         },
         {
+            "slug": "occupy-theory",
+            "name": "Occupy Theory",
+            "tags": [
+                "occupy"
+            ],
+            "short_description": "TIDAL conversations launch theories and strategies towards ACTION - online and in print."
+        },
+        {
+            "slug": "acorn-international",
+            "name": "Acorn International",
+            "tags": [
+                null
+            ],
+            "short_description": "Official twitter page of  ACORN International. Home of the Commonwealth Games & Remittance Justice Campaigns."
+        },
+        {
+            "slug": "woodbine",
+            "name": "Woodbine",
+            "tags": [
+                "anarchism"
+            ],
+            "short_description": "An experimental hub for developing the practices, skills, and tools needed to build autonomy. 585 Woodward Ave. Contribute: https://t.co/UfI7ZFhieD"
+        },
+        {
             "slug": "dsa-fund",
             "name": "DSA Fund",
             "tags": [
-                "dsa",
-                "socialist"
+                "socialist",
+                "dsa"
             ],
             "short_description": "The Democratic Socialists of America Fund was originally established in 1978 as the Institute for Democratic Socialism (IDS). Michael Harrington, who "
+        },
+        {
+            "slug": "mijente-support-committee",
+            "name": "Mijente Support Committee",
+            "tags": [
+                "latinx"
+            ],
+            "short_description": "We are a digital and grassroots hub for Latinx and Chicanx movement building. Pro-Black, Pro-Queer, Pro-Mujer, Pro-Indigenous, Pro-Worker. Follow @con"
+        },
+        {
+            "slug": "metropolitan-anarchist-coordinating-council",
+            "name": "Metropolitan Anarchist Coordinating Council",
+            "tags": [
+                "anarchism"
+            ],
+            "short_description": "Metropolitan Anarchist Coordinating Council NYC. Building a bottom up anarchist movement. https://t.co/a8TtWjT4UB press@macc.nyc"
+        },
+        {
+            "slug": "freedom-to-thrive",
+            "name": "Freedom to Thrive",
+            "tags": [
+                null
+            ],
+            "short_description": "#FreedomtoThrive works to create safety by investing in people & planet, & ending punishment based criminal & immigration systems"
+        },
+        {
+            "slug": "socialist-alternative",
+            "name": "Socialist Alternative",
+            "tags": [
+                "socialist"
+            ],
+            "short_description": "Official Twitter account for Socialist Alternative, party of @CMKshama Sawant. Follow us for the latest socialist news, reports, analysis, and events."
+        },
+        {
+            "slug": "graduate-workers-of-columbia",
+            "name": "Graduate Workers of Columbia",
+            "tags": [
+                null
+            ],
+            "short_description": "A Union for Instructors, TAs and Researchers at Columbia University | @UAW Local 2710 | RTs ≠ endorsements. Text JOIN to 512-675-1811 for SWC updates."
         },
         {
             "slug": "socialist-party-usa-st-louis-mo",
@@ -2070,6 +3962,14 @@
                 "socialist"
             ],
             "short_description": "Local Chapter of the Socialist Party USA. Your voice for Democratic Socialism.  #UniteTheFight #blacklivesmatter"
+        },
+        {
+            "slug": "giniw-collective",
+            "name": "giniw collective",
+            "tags": [
+                null
+            ],
+            "short_description": "Indigenous womxn, 2-spirit led frontline resistance to protect our Mother, defend the sacred and live in balance. We stand unafraid. Prayers into acti"
         },
         {
             "slug": "truthdig",
@@ -2088,6 +3988,14 @@
             "short_description": "A journal of contemporary Marxist thought focused on the abolition of gender and the liberation of feminised subjects. contact[at]invertjournal[dot]or"
         },
         {
+            "slug": "occupywallstnyc",
+            "name": "OccupyWallStNYC",
+            "tags": [
+                "occupy"
+            ],
+            "short_description": "Born Sep 17, 2011. #Antifa & standing w/global #OccupyWallSt. https://t.co/YQ8p5nQAKr #GeneralStrike #CloseTheCamps #FreeThemAll #blacklivesmatter"
+        },
+        {
             "slug": "red-wedge-magazine",
             "name": "Red Wedge Magazine",
             "tags": [
@@ -2099,10 +4007,37 @@
             "slug": "black-lives-matter",
             "name": "Black Lives Matter",
             "tags": [
-                "blm",
-                "black-liberation"
+                "black-liberation",
+                "blm"
             ],
             "short_description": "#BlackLivesMatter was created in 2012 after Trayvon Martin’s murderer, George Zimmerman, was acquitted for his crime, and dead 17-year old Trayvon was"
+        },
+        {
+            "slug": "black-socialists-in-america",
+            "name": "Black Socialists in America",
+            "tags": [
+                "co-op",
+                "tech",
+                "socialist",
+                "black-liberation"
+            ],
+            "short_description": "EST. 2018, we are an org of Black Americans who believe people should control production in a democratic + decentralized way. @blacksocialists@kolekti"
+        },
+        {
+            "slug": "mass-strike-for-reproductive-freedom",
+            "name": "Mass Strike For Reproductive Freedom",
+            "tags": [
+                "feminist"
+            ],
+            "short_description": "We are @DemSocialists #MassStrike for Repro Freedom! Help fight back against attacks on our rights by organizing worker power https://t.co/oiZNeU8ZFp "
+        },
+        {
+            "slug": "reclaim-philadelphia",
+            "name": "Reclaim Philadelphia",
+            "tags": [
+                null
+            ],
+            "short_description": "Reclaiming and building people power for the multiracial working class and working poor in Philadelphia. Join us!\n\nVOTE TODAY PHILLY! Polls are open 7"
         },
         {
             "slug": "9to5",
@@ -2137,6 +4072,14 @@
             "short_description": "The Burlington VT branch of the International Socialist Organization."
         },
         {
+            "slug": "industrial-workers-of-the-world-pittsburgh,-pa",
+            "name": "Industrial Workers of the World - Pittsburgh, PA",
+            "tags": [
+                null
+            ],
+            "short_description": "The IWW is a member-run union for all workers, a union dedicated to organizing on the job, in our industries and in our communities."
+        },
+        {
             "slug": "the-frontline",
             "name": "The Frontline",
             "tags": [
@@ -2161,12 +4104,44 @@
             "short_description": "Covering strikes in the Boston area. Run by labor sympathizers, not organizers. @ us if you want publicity for your actions."
         },
         {
+            "slug": "liberation-library",
+            "name": "Liberation Library",
+            "tags": [
+                "education"
+            ],
+            "short_description": "We provide books to youth in prison to encourage imagination, self-determination & connection to the outside worlds of their choosing. #FreeThemAll"
+        },
+        {
             "slug": "notes-from-below",
             "name": "Notes from Below",
             "tags": [
                 null
             ],
             "short_description": "Socialism 🚩✊\r\nWorkers' Inquiry 🔎📕 \r\nClass Power ⚒️ 💪\r\nSupport us: https://t.co/NDx0ssSv2E"
+        },
+        {
+            "slug": "the-peoples-lobby",
+            "name": "The People's Lobby",
+            "tags": [
+                null
+            ],
+            "short_description": "Organizing in Illinois to reclaim democracy from the billionaire class. #EndMoneyBond"
+        },
+        {
+            "slug": "decarcerate-pennsylvania",
+            "name": "Decarcerate Pennsylvania",
+            "tags": [
+                null
+            ],
+            "short_description": "Decarcerate PA is a grassroots organization working to end #MassIncarceration in PA.   \n\nOur campaigns: #No215Jail #AbolishDBI #DecarcerateDA #EndCash"
+        },
+        {
+            "slug": "national-bail-out",
+            "name": "National Bail Out",
+            "tags": [
+                null
+            ],
+            "short_description": "We’re reuniting families and resisting mass incarceration by fighting to end money bail and pretrial detention. Join us 👇🏾"
         },
         {
             "slug": "science-and-society",
@@ -2180,11 +4155,19 @@
             "slug": "no-cold-war",
             "name": "No Cold War",
             "tags": [
-                "international",
+                "china",
                 "coalition",
-                "china"
+                "international"
             ],
             "short_description": "\nA New Cold War against China is against the interests of humanity\n\nWe note the increasingly aggressive statements and actions being taken by the US g"
+        },
+        {
+            "slug": "reply-guys-podcast",
+            "name": "Reply Guys Podcast",
+            "tags": [
+                null
+            ],
+            "short_description": "The leftist comedy podcast for the rest of us with @katewillett and @MohanadElshieky. // New episodes every Weds."
         },
         {
             "slug": "ferguson-action",
@@ -2198,10 +4181,19 @@
             "slug": "democratic-socialists-of-america-mobile-al",
             "name": "Democratic Socialists of America - Mobile, AL",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "Democratic Socialists of America - Mobile, AL #OrganizeTheSouth #BlackLivesMatter #MedicareForAll @DemSocialists"
+        },
+        {
+            "slug": "democratic-socialists-of-america-tuscaloosa-al",
+            "name": "Democratic Socialists of America - Tuscaloosa, AL",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "short_description": "Tuscaloosa Organizing Committee of the Democratic Socialists of America! Join up to help #organizethesouth."
         },
         {
             "slug": "breakthrough-news",
@@ -2212,15 +4204,6 @@
             "short_description": "BreakThrough News is a nonprofit media and educational organization dedicated to independent, fact-based reporting and commentary on a diverse range o"
         },
         {
-            "slug": "democratic-socialists-of-america-tuscaloosa-al",
-            "name": "Democratic Socialists of America - Tuscaloosa, AL",
-            "tags": [
-                "socialist",
-                "dsa"
-            ],
-            "short_description": "Tuscaloosa Organizing Committee of the Democratic Socialists of America! Join up to help #organizethesouth."
-        },
-        {
             "slug": "critical-reading",
             "name": "Critical Reading",
             "tags": [
@@ -2229,12 +4212,46 @@
             "short_description": "For the ruthless criticism of all that exists."
         },
         {
+            "slug": "international-peoples-assembly",
+            "name": "International Peoples' Assembly",
+            "tags": [
+                "coalition",
+                "international",
+                "labor"
+            ],
+            "short_description": "Network of over 200 people’s organizations, social movements, political parties and trade unions. "
+        },
+        {
             "slug": "partners-for-dignity--rights",
             "name": "Partners for Dignity & Rights",
             "tags": [
                 null
             ],
             "short_description": "We envision a just world where everyone is \ntreated with dignity, everyone’s human needs are met, and everyone can \nthrive and reach their full potent"
+        },
+        {
+            "slug": "survived-and-punished",
+            "name": "Survived And Punished",
+            "tags": [
+                null
+            ],
+            "short_description": "Organizes to de-criminalize efforts to survive domestic and sexual violence, support and free criminalized survivors, and abolish gender violence, pol"
+        },
+        {
+            "slug": "mass-care",
+            "name": "Mass-Care",
+            "tags": [
+                "medicare-for-all"
+            ],
+            "short_description": "Mass-Care’s mission is to establish a Single Payer Health Care System in Massachusetts, because health care is basic to life and human dignity."
+        },
+        {
+            "slug": "clean-slate-for-worker-power",
+            "name": "Clean Slate for Worker Power",
+            "tags": [
+                null
+            ],
+            "short_description": "Building a new labor law that empowers workers to demand an equitable economy and democracy. A project of @CLJEHarvard."
         },
         {
             "slug": "souciant-magazine",
@@ -2261,12 +4278,28 @@
             "short_description": "Facilitating community organizing in Providence communities for social, political, and economic justice since 1986."
         },
         {
+            "slug": "students-for-a-democratic-society",
+            "name": "Students for a Democratic Society",
+            "tags": [
+                "student-youth"
+            ],
+            "short_description": "Students for a Democratic Society is a radical, multi-issue organization leading campaigns to win progressive change on campuses & build the student m"
+        },
+        {
             "slug": "world-socialist-website",
             "name": "World Socialist Web Site",
             "tags": [
                 null
             ],
             "short_description": "The World Socialist Web Site is a daily source of news and analysis published by the International Committee of the Fourth International. #socialism"
+        },
+        {
+            "slug": "the-workers-circle",
+            "name": "The Workers Circle",
+            "tags": [
+                null
+            ],
+            "short_description": "Cultivating a proudly progressive, diverse, and inclusive community rooted in Jewish culture and social action for more than a century."
         },
         {
             "slug": "roosevelt-forward",
@@ -2309,20 +4342,28 @@
             "short_description": "To save the planet, we need more than one solution. Inspired by the \nclassic non-violent movement text 198 methods we're an incubator for all\n the kin"
         },
         {
+            "slug": "uniteblue",
+            "name": "UniteBlue",
+            "tags": [
+                "electoral"
+            ],
+            "short_description": "Uniting progressive activists & organizations with Democratic politics."
+        },
+        {
+            "slug": "demand-climate-justice",
+            "name": "Demand Climate Justice",
+            "tags": [
+                "climate"
+            ],
+            "short_description": "We are movements & peoples engaged in many struggles for a new world. #climatejustice #reclaimpower #systemchange"
+        },
+        {
             "slug": "the-antifada",
             "name": "The Antifada",
             "tags": [
                 null
             ],
             "short_description": "A family-friendly satirical and parodical communist podcast w @as_a_worker @jamie_elizabeth @spaceprole https://t.co/nOMn11G2rB antifadamindset@gmail."
-        },
-        {
-            "slug": "revolution-news",
-            "name": "Revolution News",
-            "tags": [
-                null
-            ],
-            "short_description": "Human Struggle for Freedom, in a World Divided by Nations"
         },
         {
             "slug": "dissent-magazine",
@@ -2333,13 +4374,45 @@
             "short_description": "The oldest democratic socialist magazine in the United States."
         },
         {
+            "slug": "revolution-news",
+            "name": "Revolution News",
+            "tags": [
+                null
+            ],
+            "short_description": "Human Struggle for Freedom, in a World Divided by Nations"
+        },
+        {
             "slug": "venceremos-arkansas",
             "name": "Venceremos Arkansas",
             "tags": [
-                "latinx",
-                "labor"
+                "labor",
+                "latinx"
             ],
             "short_description": "Venceremos is a worker-based organization in Arkansas whose mission is to ensure the human rights of poultry workers. Press inquiries: venceremos.ar@g"
+        },
+        {
+            "slug": "center-for-biological-diversity",
+            "name": "Center for Biological Diversity",
+            "tags": [
+                null
+            ],
+            "short_description": "Over 1 mil. species could soon be lost to the #ExtinctionCrisis. We use law & science to secure a future for all creatures hovering on the brink of ex"
+        },
+        {
+            "slug": "studentfarmworker-alliance",
+            "name": "Student/Farmworker Alliance",
+            "tags": [
+                "student-youth"
+            ],
+            "short_description": "National youth network organizing with the Coalition of Immokalee Workers (@ciw) to build a food system based on justice, respect & dignity for farmwo"
+        },
+        {
+            "slug": "turkopticon",
+            "name": "Turkopticon",
+            "tags": [
+                null
+            ],
+            "short_description": "Created in 2012. Organizing mutual aid, resources, and advocacy to #makeMTurkbetter for everyone, improving conditions for all workers."
         },
         {
             "slug": "new-york-year-zero",
@@ -2350,12 +4423,53 @@
             "short_description": "AFFECT is a reservoir of libido for revolutionaries in NYC"
         },
         {
+            "slug": "popular-democracy",
+            "name": "Popular Democracy",
+            "tags": [
+                null
+            ],
+            "short_description": "We're building the strength & capacity of grassroots organizations to envision & advance a pro-worker, pro-immigrant, racial justice agenda."
+        },
+        {
+            "slug": "afl-cio",
+            "name": "AFL-CIO",
+            "tags": [
+                "union",
+                "labor"
+            ],
+            "short_description": "Coalition of labor unions in the USA."
+        },
+        {
             "slug": "international-socialist-organization-seattle-wa",
             "name": "International Socialist Organization - Seattle, WA",
             "tags": [
                 "socialist"
             ],
             "short_description": "The ISO is committed to building a left alternative to a world of racism,  poverty, war, and environmental destruction."
+        },
+        {
+            "slug": "red-emmas",
+            "name": "Red Emma's",
+            "tags": [
+                null
+            ],
+            "short_description": "Worker owned radical bookstore, fair trade coffeehouse, community events space, and vegan/vegetarian restaurant. Certainly not on mastodon too."
+        },
+        {
+            "slug": "pa-stands-up",
+            "name": "PA Stands Up",
+            "tags": [
+                null
+            ],
+            "short_description": "At PA Stands Up, we organize for power. Across race, place, and generation, we are building a Pennsylvania that works for #AllOfUs."
+        },
+        {
+            "slug": "blue-america",
+            "name": "Blue America",
+            "tags": [
+                null
+            ],
+            "short_description": "We want to replace Conservatives in Congress with a strong and active progressive movement for ordinary American families, not the 1%. https://t.co/Qb"
         },
         {
             "slug": "leading-light",
@@ -2366,12 +4480,20 @@
             "short_description": "The Leading Light Communist Organization is today's vanguard organization for global communist revolution."
         },
         {
-            "slug": "east-bay-majority",
-            "name": "Majority",
+            "slug": "mediajustice",
+            "name": "MediaJustice",
+            "tags": [
+                "media"
+            ],
+            "short_description": "Fighting for racial, economic, and gender justice in a digital age. Give: https://t.co/BwjYqyCFaK Sign up: https://t.co/z92a16FiVc"
+        },
+        {
+            "slug": "united-for-respect",
+            "name": "United for Respect",
             "tags": [
                 null
             ],
-            "short_description": "News for the East Bay's diverse, working-class majority. A publication of the East Bay chapter of the Democratic Socialists of America (@DSAEastBay)."
+            "short_description": "We are a movement of people working at Walmart, Amazon and Wall Street owned retail companies fighting to live with dignity and respect."
         },
         {
             "slug": "intransigence-journal",
@@ -2382,22 +4504,62 @@
             "short_description": "Intransigence aims at the regroupment of the communist left in North America. https://t.co/0JZA3mD4vZ | Klasbatalo • IWG"
         },
         {
+            "slug": "east-bay-majority",
+            "name": "Majority",
+            "tags": [
+                null
+            ],
+            "short_description": "News for the East Bay's diverse, working-class majority. A publication of the East Bay chapter of the Democratic Socialists of America (@DSAEastBay)."
+        },
+        {
             "slug": "democratic-socialists-of-america-quiet-corner-ct",
             "name": "Democratic Socialists of America - Quiet Corner, CT",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "@DemSocialists chapter in the Northeast corner of Connecticut // thequietcornerdsa@gmail.com"
+        },
+        {
+            "slug": "money-on-the-left",
+            "name": "Money on the Left",
+            "tags": [
+                null
+            ],
+            "short_description": "Editorial Collective advancing #LeftMMT & intersectional praxis. In association with @monthly_review. @superstruc @mediumfemme"
+        },
+        {
+            "slug": "international-action-center",
+            "name": "International Action Center",
+            "tags": [
+                "anti-imperialist"
+            ],
+            "short_description": "Our goal is the liberation and freedom of all peoples living in the U.S. and around the world."
         },
         {
             "slug": "democratic-socialists-of-america-pioneer-valley-ma",
             "name": "Democratic Socialists of America - Pioneer Valley, MA",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "Official DSA Chapter of the Pioneer Valley/Western MA.  Hampshire, Hampden, and Franklin Counties. All hail the chickadee."
+        },
+        {
+            "slug": "international-youth-and-students-for-social-equality",
+            "name": "International Youth and Students for Social Equality",
+            "tags": [
+                "student-youth"
+            ],
+            "short_description": "International Youth and Students for Social Equality in the US, youth and student section of @SEP_US"
+        },
+        {
+            "slug": "climate-justice-alliance",
+            "name": "Climate Justice Alliance",
+            "tags": [
+                "climate"
+            ],
+            "short_description": "Uniting frontline communities and organizations. ✊🏿✊🏾✊🏽"
         },
         {
             "slug": "raise-up-massachusetts",
@@ -2419,8 +4581,8 @@
             "slug": "democratic-socialists-of-america-momentum-slate",
             "name": "Democratic Socialists of America - Momentum Slate",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "We're a slate of leaders within DSA running for national leadership! We seek to build off our momentum and transform DSA into a mass political org."
         },
@@ -2433,6 +4595,22 @@
             "short_description": "Ever since 1996, the Yes Men have used humor and trickery to highlight \nthe corporate takeover of society, the neoliberal delusion that allows \nit, th"
         },
         {
+            "slug": "ella-baker-center",
+            "name": "Ella Baker Center",
+            "tags": [
+                null
+            ],
+            "short_description": "We organize people-powered campaigns to reinvest resources into communities most harmed by policing."
+        },
+        {
+            "slug": "this-changes-everything",
+            "name": "This Changes Everything",
+            "tags": [
+                null
+            ],
+            "short_description": "This Changes Everything: Capitalism vs the Climate. The new book by @NaomiaKlein. Documentary by @AviLewis."
+        },
+        {
             "slug": "dollars-and-sense",
             "name": "Dollars & Sense",
             "tags": [
@@ -2441,12 +4619,37 @@
             "short_description": "D&S is a non-profit publisher of critical economic news and analysis in a bimonthly magazine, textbooks, & anthologies."
         },
         {
+            "slug": "massachusetts-public-banking",
+            "name": "Massachusetts Public Banking",
+            "tags": [
+                "finance"
+            ],
+            "short_description": "Statewide volunteer group working to promote public banking in Massachusetts"
+        },
+        {
+            "slug": "system-change-not-climate-change",
+            "name": "System Change Not Climate Change",
+            "tags": [
+                "socialist",
+                "climate"
+            ],
+            "short_description": "System Change Not Climate Change is a global community fighting for a world that puts planet and people before profits. \n\nhttps://t.co/nYhGoloea7"
+        },
+        {
             "slug": "verso-books",
             "name": "Verso Books",
             "tags": [
                 null
             ],
             "short_description": "Verso Books is the largest independent, radical publishing house in the English speaking world."
+        },
+        {
+            "slug": "solutionary-rail",
+            "name": "Solutionary Rail",
+            "tags": [
+                null
+            ],
+            "short_description": "Proposes a strategy for shifting the economics of rail AWAY from dependence on moving heavy fossil fuel commodities and freight for exclusively large "
         },
         {
             "slug": "fight-for-15",
@@ -2473,12 +4676,52 @@
             "short_description": "‘Leftist futures’ working + organizing group, coming publication, and weekly live show w/ @iheartcomix 🌹#blacklivesmatter #abolishthepolice"
         },
         {
+            "slug": "isaiahmn",
+            "name": "ISAIAHMN",
+            "tags": [
+                null
+            ],
+            "short_description": "We are a statewide multiracial group of faith communities, Black barbershops, childcare centers, and more fighting for racial and economic justice in "
+        },
+        {
+            "slug": "modern-money-network",
+            "name": "Modern Money Network",
+            "tags": [
+                "finance"
+            ],
+            "short_description": "A student-driven initiative promoting public understanding of money, finance, law, and the economy."
+        },
+        {
             "slug": "dare-tenant-homeowners-association",
             "name": "DARE Tenant Homeowners Association",
             "tags": [
                 "housing"
             ],
             "short_description": "The Tenant and Homeowner Association (THA) is a group of renters and low-income homeowners fighting evictions and gentrification."
+        },
+        {
+            "slug": "next-system-project",
+            "name": "Next System Project",
+            "tags": [
+                "solidarity-economy"
+            ],
+            "short_description": "Systemic problems require systemic solutions | a project of @DemocracyCollab | co-chaired by @GarAlperovitz and James Gustave Speth"
+        },
+        {
+            "slug": "mijente",
+            "name": "Mijente",
+            "tags": [
+                "latinx"
+            ],
+            "short_description": "Mijente = Gente + Justice. A new political home for Latinx & Chicanx organizing. My people. #ChingaLaMigra #EyesOnICE"
+        },
+        {
+            "slug": "united-for-peace-and-justice",
+            "name": "United for Peace and Justice",
+            "tags": [
+                "peace"
+            ],
+            "short_description": "United For Peace and Justice is a network of more than 1,000 groups nationwide who have joined together to protest militarism and organize for peace!"
         },
         {
             "slug": "left-voice",
@@ -2489,6 +4732,14 @@
             "short_description": "Socialism's resurgent in the United States. Left Voice is a new publication that argues for a revolutionary and internationalist strategy. contact@lef"
         },
         {
+            "slug": "progressive-global-commons",
+            "name": "Progressive Global Commons",
+            "tags": [
+                "progressive"
+            ],
+            "short_description": "PROGRESSIVE GLOBAL COMMONS - Engine of Solidarity & Empowerment for Global Progressive/Left/Socialist Activist, DSA, DiEM25 & the PROGRESSIVE INTERNAT"
+        },
+        {
             "slug": "flood-wall-street",
             "name": "Flood Wall Street",
             "tags": [
@@ -2497,13 +4748,37 @@
             "short_description": "On Monday, September 22nd at 9:00 am, thousands of people will gather at Battery Park in Lower Manhattan to confront the root cause of the climate cri"
         },
         {
+            "slug": "0debtzone",
+            "name": "0debtzone",
+            "tags": [
+                null
+            ],
+            "short_description": "\"If you're comfortable in your coalition, it's not big enough.\" -MLK"
+        },
+        {
+            "slug": "beautiful-solutions",
+            "name": "Beautiful Solutions",
+            "tags": [
+                null
+            ],
+            "short_description": "Beautiful Solutions gathers the most promising and contagious strategies for building the just, democratic, and resilient world we need."
+        },
+        {
             "slug": "monthly-review",
             "name": "Monthly Review",
             "tags": [
-                "media",
-                "socialist"
+                "socialist",
+                "media"
             ],
             "short_description": "The official twitter account of Monthly Review, MR Press and MR Online"
+        },
+        {
+            "slug": "world-cant-wait",
+            "name": "World Can't Wait",
+            "tags": [
+                "peace"
+            ],
+            "short_description": "People living in the United States, acting to stop the crimes of our government. Director is @debra__sweet. #closegitmo #refusefascism"
         },
         {
             "slug": "protean-magazine",
@@ -2530,6 +4805,14 @@
             "short_description": "Motion to Resist! is a podcast produced by the National Lawyers Guild on legal advocacy and movement law."
         },
         {
+            "slug": "symbiosis",
+            "name": "Symbiosis",
+            "tags": [
+                null
+            ],
+            "short_description": "A confederation of community organizations across North America, building a democratic and ecological society from the ground up."
+        },
+        {
             "slug": "alliance-for-global-justice",
             "name": "Alliance for Global Justice",
             "tags": [
@@ -2554,6 +4837,22 @@
             "short_description": "Pilsen Community Books was founded in 2016 as a general interest used bookstore in Chicago’s beloved Pilsen neighborhood. In March 2020, Pilsen Commun"
         },
         {
+            "slug": "bad-faith-podcast",
+            "name": "Bad Faith",
+            "tags": [
+                null
+            ],
+            "short_description": "A sometimes panel show with fmr Bernie press secretary @briebriejoy and @virgiltexas. Subscribe at https://t.co/9NvsmdiKEs badfaithpodcast@gmail.com"
+        },
+        {
+            "slug": "solidarity-research-center",
+            "name": "Solidarity Research Center",
+            "tags": [
+                null
+            ],
+            "short_description": "Solidarity Research Center is a nonprofit organization that builds solidarity economies through data science, story-based strategy, and action researc"
+        },
+        {
             "slug": "debs-jones-douglass-institute",
             "name": "Debs-Jones-Douglass Institute",
             "tags": [
@@ -2568,6 +4867,30 @@
                 "socialist"
             ],
             "short_description": "We are dedicated to fighting all forms of oppression and exploitation!"
+        },
+        {
+            "slug": "the-base",
+            "name": "The Base",
+            "tags": [
+                "anarchism"
+            ],
+            "short_description": "The Base is a revolutionary anarchist center in Brooklyn committed to the spreading of anarchist ideas and organizing. We will establish a growing mod"
+        },
+        {
+            "slug": "sankofaorg",
+            "name": "Sankofa.org",
+            "tags": [
+                null
+            ],
+            "short_description": "A social justice organization founded by @HarryBelafonte that elevates the voices of the disenfranchised and promotes peace & equality."
+        },
+        {
+            "slug": "tricontinental-institute-for-social-research",
+            "name": "Tricontinental Institute for Social Research",
+            "tags": [
+                "anti-imperialist"
+            ],
+            "short_description": "We produce forward-thinking research in conjunction with movements across the Global South.\nSpanish: @tricon_es | Portuguese: @tricon_pt"
         },
         {
             "slug": "our-future",
@@ -2586,6 +4909,14 @@
             "short_description": "act.tv is a progressive media company, and we specialize in next generation live streaming and digital strategy. Come join us on Facebook, Twitter, In"
         },
         {
+            "slug": "poor-peoples-campaign",
+            "name": "Poor People's Campaign",
+            "tags": [
+                null
+            ],
+            "short_description": "A movement against systemic racism, poverty, ecological devastation and the war economy."
+        },
+        {
             "slug": "state-of-the-unions-podcast",
             "name": "State of the Unions Podcast",
             "tags": [
@@ -2594,12 +4925,28 @@
             "short_description": "Join @MrsJGCollier, @SOTUTimmy and their guests as they talk fearlessly and insightfully about the labor movement, politics and activism."
         },
         {
+            "slug": "jobs-with-justice",
+            "name": "Jobs with Justice",
+            "tags": [
+                "labor"
+            ],
+            "short_description": "Fighting for workers' rights and an economy that works for everyone."
+        },
+        {
             "slug": "communiquene",
             "name": "CommuniqueNE",
             "tags": [
                 null
             ],
             "short_description": "New England's newest radical clearinghouse. Socialism. Labor. The Future. Proving once and for all even leftists can have fun (sometimes)."
+        },
+        {
+            "slug": "asheville-socialists",
+            "name": "Asheville Socialists",
+            "tags": [
+                null
+            ],
+            "short_description": "a revolutionary Marxist organization dedicated to raising class consciousness and organizing on UNCA’s campus and in the community"
         },
         {
             "slug": "nacla-report",
@@ -2618,6 +4965,14 @@
             "short_description": "Your source for commercial-free, viewer supported, independent media & live video streams. Redistributable under CC-BY-NC-SA. Support our work, tax-de"
         },
         {
+            "slug": "progressive-labor-party",
+            "name": "Progressive Labor Party",
+            "tags": [
+                null
+            ],
+            "short_description": "PLP is an international party fighting to smash capitalism & build a communist world! We fight racism, sexism, & imperialism. Workers of the world, un"
+        },
+        {
             "slug": "boricuas-unidos-en-la-diaspora",
             "name": "Boricuas Unidos en la Diaspora",
             "tags": [
@@ -2634,12 +4989,93 @@
             "short_description": "An independent forum for analysis and debate on the socialist left. Against capitalism and all authoritarianism, we are democratic revolutionary socia"
         },
         {
+            "slug": "international-bolshevik-tendency",
+            "name": "International Bolshevik Tendency",
+            "tags": [
+                null
+            ],
+            "short_description": "The IBT is a Marxist organisation standing for global working-class revolution\n\n#Marxism #Leninism #Trotskyism #Socialism #Communism"
+        },
+        {
+            "slug": "asian-peoples-movement-on-debt-and-development",
+            "name": "Asian Peoples’ Movement on Debt and Development",
+            "tags": [
+                null
+            ],
+            "short_description": "The Asian Peoples' Movement on Debt and Development is a regional alliance of peoples’ movements, community organizations, coalitions, NGOs and networ"
+        },
+        {
+            "slug": "western-states-center",
+            "name": "Western States Center",
+            "tags": [
+                null
+            ],
+            "short_description": "Based in the Pacific Northwest and Mountain States, Western States Center works nationwide to strengthen inclusive democracy. ✊🏿✊🏻✊🏽✊🏾✊🏼"
+        },
+        {
+            "slug": "the-natural-history-museum",
+            "name": "The Natural History Museum",
+            "tags": [
+                "climate"
+            ],
+            "short_description": "The Natural History Museum inquires into what we see, how we see, and what remains excluded from our seeing."
+        },
+        {
             "slug": "means-tv",
             "name": "MEANS TV",
             "tags": [
                 null
             ],
             "short_description": "TV & Movies for the 99% ✨ Worker-owned, people-funded. \r\n\r\nSUBSCRIBE: https://t.co/MKbTWSgjT0"
+        },
+        {
+            "slug": "veterans-for-peace",
+            "name": "Veterans for Peace",
+            "tags": [
+                "peace"
+            ],
+            "short_description": "Exposing the True Costs of War and Militarism Since 1985. #PeaceIsPossible"
+        },
+        {
+            "slug": "socialist-equality-party",
+            "name": "Socialist Equality Party",
+            "tags": [
+                "socialist"
+            ],
+            "short_description": "Twitter feed of the Socialist Equality Party in the US. Join today! https://t.co/0gZOSH89zO"
+        },
+        {
+            "slug": "type-media-center",
+            "name": "Type Media Center",
+            "tags": [
+                null
+            ],
+            "short_description": "A home for fearless, impactful journalism for 50+ years. Projects include @boldtypebooks, @typeinvestigate, and @tomdispatch. \n🎙️: https://t.co/la1Kxb"
+        },
+        {
+            "slug": "movement-voter-project",
+            "name": "Movement Voter Project",
+            "tags": [
+                null
+            ],
+            "short_description": "We connect donors to local grassroots organizations fighting for justice through movement building & voter engagement."
+        },
+        {
+            "slug": "solidarity-a-socialist-feminist-anti-racist-organization",
+            "name": "Solidarity: a socialist, feminist, anti-racist organization",
+            "tags": [
+                "socialist"
+            ],
+            "short_description": "Independent socialist organization dedicated to forming a broad regrouping of the U.S. left"
+        },
+        {
+            "slug": "new-york-times-guild",
+            "name": "New York Times Guild",
+            "tags": [
+                "union",
+                "media"
+            ],
+            "short_description": "We are the union of over 1,400 media workers at The New York Times.\nnyguild.org"
         },
         {
             "slug": "in-defence-of-marxism",
@@ -2650,13 +5086,12 @@
             "short_description": "In Defence of Marxism, a premiere source of Marxist theory, analysis of current events and revolutionary history https://t.co/rd36f1YFbr"
         },
         {
-            "slug": "new-york-times-guild",
-            "name": "New York Times Guild",
+            "slug": "industrial-workers-of-the-world",
+            "name": "Industrial Workers of the World",
             "tags": [
-                "media",
                 "union"
             ],
-            "short_description": "We are the union of over 1,400 media workers at The New York Times.\nnyguild.org"
+            "short_description": "The Official Twitter Page of the Industrial Workers of the World: General Headquarters"
         },
         {
             "slug": "the-debt-collective",
@@ -2665,6 +5100,14 @@
                 "debt"
             ],
             "short_description": "The Debt Collective is a militant debtor-powered organization. https://t.co/LzRegqdRl3 admin at debtcollective dot org. More: @0debtzone"
+        },
+        {
+            "slug": "gods--radicals",
+            "name": "Gods & Radicals",
+            "tags": [
+                null
+            ],
+            "short_description": "A Site of Beautiful Resistance and Pagan Anti-Capitalism"
         },
         {
             "slug": "pasadena-tenants-union",
@@ -2678,10 +5121,26 @@
             "slug": "democratic-socialists-of-america-memphis-tn",
             "name": "Democratic Socialists of America - Memphis, TN",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "We're the Memphis-MidSouth Democratic Socialists of America. Let's make the Mid-South the right shade of red"
+        },
+        {
+            "slug": "peoples-dispatch",
+            "name": "Peoples Dispatch",
+            "tags": [
+                null
+            ],
+            "short_description": "An international media project with the mission of bringing you voices from people's movements and organizations across the globe."
+        },
+        {
+            "slug": "left-pocket-project",
+            "name": "Left POCket Project",
+            "tags": [
+                null
+            ],
+            "short_description": "Bringing you the history of leftists of color one swipe at a time."
         },
         {
             "slug": "cultural-logic",
@@ -2695,10 +5154,18 @@
             "slug": "rampant-magazine",
             "name": "Rampant Magazine",
             "tags": [
-                "media",
-                "socialist"
+                "socialist",
+                "media"
             ],
             "short_description": "Rampant Magazine is firmly grounded in the need to strengthen and expand the self-reliance of social movements and worker organizing. We are unapologe"
+        },
+        {
+            "slug": "liberation-road",
+            "name": "Liberation Road",
+            "tags": [
+                null
+            ],
+            "short_description": "A revolutionary organization fighting for socialism and self-determination."
         },
         {
             "slug": "international-socialist-organization-boston-ma",
@@ -2725,11 +5192,19 @@
             "short_description": "The Baltimore General Membership Branch of the Industrial Workers of the World (IWW), a democratic labor union for all workers."
         },
         {
+            "slug": "the-red-nation",
+            "name": "The Red Nation",
+            "tags": [
+                null
+            ],
+            "short_description": "All relatives forever. Native liberation via revolutionary socialism, anti-imperialism, and queer indigenous feminism. Support us: https://t.co/7fIWRG"
+        },
+        {
             "slug": "dsa-marxist-unity-group",
             "name": "Marxist Unity Group",
             "tags": [
-                "dsa",
-                "marxism"
+                "marxism",
+                "dsa"
             ],
             "short_description": "A group working to unite Marxists in DSA around programmatic communist politics and the goal of a mass socialist party-movement."
         },
@@ -2737,17 +5212,25 @@
             "slug": "richmond-fo-all",
             "name": "Richmond For All",
             "tags": [
-                "electoral",
-                "progressive"
+                "progressive",
+                "electoral"
             ],
             "short_description": "Our members are an inspiring body of over 500 organizers, families, workers, advocates, students, and residents fighting to ensure grassroots power ci"
+        },
+        {
+            "slug": "science-for-the-people",
+            "name": "Science for the People",
+            "tags": [
+                "media"
+            ],
+            "short_description": "Activist organization dedicated to building a radical political movement in science and society. Read our publication @sftpmag"
         },
         {
             "slug": "nyc-progressive-caucus",
             "name": "NYC Progressive Caucus",
             "tags": [
-                "progressive",
-                "elected"
+                "elected",
+                "progressive"
             ],
             "short_description": "The New York City Council Progressive Caucus. Working toward a more just and equal New York City.\n\nhttps://council.nyc.gov/caucuses/progressive-caucus"
         },
@@ -2758,6 +5241,14 @@
                 null
             ],
             "short_description": "Streaming LIVE and archived online, listener-sponsored radio of peace and social justice since 1949. 94.1FM and 89.3FM in Berkeley, California."
+        },
+        {
+            "slug": "commonomics-usa",
+            "name": "Commonomics USA",
+            "tags": [
+                null
+            ],
+            "short_description": "Commonomics USA is about #economicjustice, defending the #commons #postalbanking #publicbanking #basicincome #jubilee. Partner with us!"
         },
         {
             "slug": "make-the-road-new-york",
@@ -2784,6 +5275,14 @@
             "short_description": "Local of the @SPofUSA for Mercer, Middlesex, Monmouth, & Ocean counties in Central New Jersey since 2011 ★ Presidential nominee @HowieHawkins"
         },
         {
+            "slug": "socialist-rifle-association-southern-new-england",
+            "name": "Socialist Rifle Association - Southern New England",
+            "tags": [
+                null
+            ],
+            "short_description": "The Southern New England region of the Socialist Rifle Association.\n@ct_sra, @sra_mass, and RI (tbd)"
+        },
+        {
             "slug": "socialist-action-buffalo-ny",
             "name": "Socialist Action - Buffalo, NY",
             "tags": [
@@ -2792,11 +5291,19 @@
             "short_description": "We are the Buffalo / WNY Branch of Socialist Action."
         },
         {
+            "slug": "war-resisters-league-aj-muste-memorial-institute",
+            "name": "War Resisters League (A.J. Muste Memorial Institute)",
+            "tags": [
+                "non-violence"
+            ],
+            "short_description": "Antiwar, antimilitarist org resisting war at home & abroad thru revolutionary nonviolence since 1923. https://t.co/wMAsAfCRCf Address PMB229, 30 E. 12"
+        },
+        {
             "slug": "young-democratic-socialists-eatern-kansas",
             "name": "Young Democratic Socialists - Eatern Kansas",
             "tags": [
-                "dsa",
-                "student-youth"
+                "student-youth",
+                "dsa"
             ],
             "short_description": "A group devoted to educating those unaware of Democratic Socialism and its implementations, as well as changing the current status quo through activis"
         },
@@ -2804,8 +5311,8 @@
             "slug": "marxist-institute-for-research",
             "name": "Marxist Institute for Research",
             "tags": [
-                "academic",
-                "marxism"
+                "marxism",
+                "academic"
             ],
             "short_description": "Launched in 2022, the Marxist Institute for Research (MIR) is an initiative to support University of California faculty and graduate students engaged "
         },
@@ -2826,12 +5333,44 @@
             "short_description": "a nonprofit organization fighting to improve working conditions for new york's restaurant workers"
         },
         {
+            "slug": "springfield-no-one-leaves",
+            "name": "Springfield No One Leaves",
+            "tags": [
+                null
+            ],
+            "short_description": "We organize Springfield residents to resist displacement by foreclosure, eviction, to fight back against banks/LL and demand housing for people NOT pr"
+        },
+        {
             "slug": "black-agenda-report",
             "name": "Black Agenda Report",
             "tags": [
                 null
             ],
             "short_description": "News, analysis and commentary from the Black Left."
+        },
+        {
+            "slug": "public-citizen",
+            "name": "Public Citizen",
+            "tags": [
+                "medicare-for-all"
+            ],
+            "short_description": "Public Citizen has been standing up to corporate power and holding government accountable for 50 years. We're people-powered and accept no corporate m"
+        },
+        {
+            "slug": "researchaction",
+            "name": "Research|Action",
+            "tags": [
+                null
+            ],
+            "short_description": "A collective of researchers working to advance the solidarity economy and labor movement."
+        },
+        {
+            "slug": "left-in-la",
+            "name": "Left In LA",
+            "tags": [
+                null
+            ],
+            "short_description": "Building community. Building autonomy. Building Communism. Abolishing ICE!"
         },
         {
             "slug": "the-forge",
@@ -2845,8 +5384,8 @@
             "slug": "democratic-socialists-of-america-providence-ri",
             "name": "Democratic Socialists of America - Providence, RI",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "We're organizing for Energy Justice, Single Payer, Livable Wages, Fair Housing and Fair Representation in RI. 🌹 #NationalizeGrid"
         },
@@ -2875,12 +5414,28 @@
             "short_description": "Submissions: editors@damagemag.com https://t.co/lSbmQKOiih"
         },
         {
+            "slug": "occupy-wall-street",
+            "name": "Occupy Wall Street",
+            "tags": [
+                "occupy"
+            ],
+            "short_description": "We've inspired people around the world to fight for bottom-up change since 2011, when we liberated a square block of Manhattan's Financial District."
+        },
+        {
             "slug": "left-in-the-bay",
             "name": "Left in the Bay",
             "tags": [
                 null
             ],
             "short_description": "Histories of people's struggles in the San Francisco Bay Area.                                            \nig: leftinthebay\nemail: leftinthebay@gmail."
+        },
+        {
+            "slug": "red-may-seattle",
+            "name": "Red May Seattle",
+            "tags": [
+                "socialist"
+            ],
+            "short_description": "Red May is a month-long spree of red arts, red theory, and red politics where we discuss ways toward a world in common: a world beyond capitalism"
         },
         {
             "slug": "science-for-the-people-new-york-ny",
@@ -2899,13 +5454,37 @@
             "short_description": "[null]"
         },
         {
+            "slug": "democracy-for-america",
+            "name": "Democracy for America",
+            "tags": [
+                null
+            ],
+            "short_description": "With over a million members nationwide, DFA is a grassroots powerhouse on a mission to build & empower a New American Majority fighting for inclusive "
+        },
+        {
+            "slug": "moveonorg",
+            "name": "Moveon.org",
+            "tags": [
+                null
+            ],
+            "short_description": "For 25 years, MoveOn members have come together to build an America where everyone can thrive. Join us in this celebration & in our continued work ⬇️"
+        },
+        {
             "slug": "democratic-socialists-of-america-queens-ny",
             "name": "Democratic Socialists of America - Queens, NY",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "@nycdsa‘s Queens Branch of @demsocialists. | El Queens filial de la sección neoyorquina de los @demsocialists. ¡El pueblo unido jamás será vencido!"
+        },
+        {
+            "slug": "lux-magainze",
+            "name": "Lux Magazine",
+            "tags": [
+                null
+            ],
+            "short_description": "A socialist feminist mag for the masses. It's sex, with class"
         },
         {
             "slug": "breaking-the-chains",
@@ -2916,13 +5495,63 @@
             "short_description": "A Socialist Perspective on Women’s Liberation. Order our latest issue at the link below."
         },
         {
+            "slug": "monthly-review-foundation",
+            "name": "Monthly Review Foundation",
+            "tags": [
+                "socialist",
+                "media"
+            ],
+            "short_description": "Publishes books as Monthly Review Press and a monthly magazine called Monthly Review."
+        },
+        {
+            "slug": "democratic-socialists-of-america-detroit-mi",
+            "name": "Democratic Socialists of America - Detroit, MI",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "short_description": "Local chapter of the Democratic Socialists of America"
+        },
+        {
+            "slug": "payday-report",
+            "name": "Payday Report",
+            "tags": [
+                null
+            ],
+            "short_description": "Covering Labor in News Deserts. Founded by @MikeElk & crowdfunded by thousands of readers"
+        },
+        {
+            "slug": "the-people-for-nina",
+            "name": "The People For Nina",
+            "tags": [
+                null
+            ],
+            "short_description": "We are the OFFICIAL People for Nina. Account managed by personal friends of TNT--The Nina Turner. #HelloSomebody"
+        },
+        {
             "slug": "democratic-socialists-of-america-central-indiana",
             "name": "Democratic Socialists of America - Central Indiana",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "The Central Indiana, Powers and Mary Hapgood Local of @demsocialists. For questions email centralindsa@gmail.com."
+        },
+        {
+            "slug": "cooperation-jackson",
+            "name": "Cooperation Jackson",
+            "tags": [
+                "solidarity-economy"
+            ],
+            "short_description": "Cooperation Jackson is an emerging cooperative network in Jackson, MS. We help ppl start co-ops, get into it."
+        },
+        {
+            "slug": "the-working-class",
+            "name": "The Working Class",
+            "tags": [
+                null
+            ],
+            "short_description": "The upper class does nothing but rob, exploit and usurp the power of the people."
         },
         {
             "slug": "dsa-afrosocialists-and-socialists-of-color-caucus",
@@ -2944,10 +5573,18 @@
             "slug": "democratic-socialists-of-america-accountability-task-force",
             "name": "Democratic Socialists of America - Accountability Task Force",
             "tags": [
-                "socialist",
-                "dsa"
+                "dsa",
+                "socialist"
             ],
             "short_description": "The DSA Accountability Task Force is a team of DSA members pushing for transparency and reform for the org! Tweets by @TitusAaronicus and @cruciverber"
+        },
+        {
+            "slug": "communist-student-group",
+            "name": "Communist Student Group",
+            "tags": [
+                "communist"
+            ],
+            "short_description": "A Marxist-Leninist-Maoist reading group at The New School"
         },
         {
             "slug": "cleveland-state-university-student-socialist-society",
@@ -2966,12 +5603,36 @@
             "short_description": "We are recruiting, educating, and supporting a new generation of activists who will join the fight for working class power by taking union jobs. We ai"
         },
         {
+            "slug": "project-nia",
+            "name": "Project NIA",
+            "tags": [
+                null
+            ],
+            "short_description": "Project NIA's mission is to dramatically reduce the reliance on arrest, detention, and incarceration for addressing youth crime and violence."
+        },
+        {
             "slug": "earth-guardians",
             "name": "Earth Guardians",
             "tags": [
                 "climate"
             ],
             "short_description": "The Earth Guardians guard the earth."
+        },
+        {
+            "slug": "peoples-action",
+            "name": "People's Action",
+            "tags": [
+                null
+            ],
+            "short_description": "National grassroots organizing network. We build power for the multiracial working class."
+        },
+        {
+            "slug": "no-more-deaths",
+            "name": "No More Deaths",
+            "tags": [
+                "immigration"
+            ],
+            "short_description": "humanitarian aid + solidarity in the Sonoran borderlands | against militarization and for the free movement of people. https://t.co/7UW1bXiCPn"
         },
         {
             "slug": "the-laura-flanders-show",
@@ -2990,6 +5651,22 @@
             "short_description": "📺 📰🎙🚩 New media for a different politics."
         },
         {
+            "slug": "emma-goldman-papers",
+            "name": "Emma Goldman Papers",
+            "tags": [
+                "anarchism"
+            ],
+            "short_description": "The Emma Goldman Papers collects, organizes, and edits tens of thousands of documents from around the world written by and about Emma Goldman."
+        },
+        {
+            "slug": "citizen-action-of-new-york",
+            "name": "Citizen Action of New York",
+            "tags": [
+                null
+            ],
+            "short_description": "We look for opportunities to create big changes in NY and the U.S. Our power comes from the grassroots people coming together to push the edge of the "
+        },
+        {
             "slug": "religious-socialism",
             "name": "Religious Socialism",
             "tags": [
@@ -3004,6 +5681,14 @@
                 null
             ],
             "short_description": "Welcome to NYC chapter of @AF3IRM! A freedom-loving, transnational feminist, women's organization! Join us at our next New Member Meet-up. nynj@af3irm"
+        },
+        {
+            "slug": "newark-students-union",
+            "name": "Newark Students Union",
+            "tags": [
+                "student-youth"
+            ],
+            "short_description": "Newark Students Union was founded to create a political/ social platform for students in Newark to have a say in their education. newarkstudentsunion@"
         }
     ]
 }

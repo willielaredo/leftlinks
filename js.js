@@ -32,7 +32,7 @@ fetch('./orgs.json')
             const card = document.createElement("article")
             card.classList.add("card")
             card.innerHTML = 
-                '<img src="./images/twit_pics/' + screen_name + '.jpg" /><div><h2>' + name + '</h2></div><div class="content"><p>' + description + '</p></div><footer><div class="tag">' + profile_tags_str.replaceAll(",",'</div><div class="tag">') + '</div></footer>'
+                '<div><h2>' + name + '</h2></div><img src="./images/twit_pics/' + screen_name + '.jpg" /><div class="content"><p>' + description + '</p></div><footer><div class="tag">' + profile_tags_str.replaceAll(",",'</div><div class="tag">') + '</div></footer>'
                     // .replaceAll(',', '</div><div>') + '</div>
             document.getElementById('cards').appendChild(card)
         }

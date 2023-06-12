@@ -92,11 +92,11 @@ legend {
 
 #cards {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     grid-gap: 20px;
-    margin-top: 20px;
+    /* margin-top: 20px;
     padding-left: 15px;
-    padding-right: 15px;
+    padding-right: 15px; */
 }
 
 article {
@@ -105,28 +105,24 @@ article {
     border-radius: 30px;
 }
 
-article img {
-    width: 100%;
-}
-
 article p {
     font-family: 'Lato';
 }
 
 .card {
     display: grid;
-    /* grid-template-rows: max-content 180px 1fr; */
+    grid-template-rows: max-content 230px 1fr;
     background-color: #fff;
     /* padding: 10px; */
 }
 
 .card img {
     object-fit: cover;
-    width: 100%;
-    height: 100%;
-    padding: 12px;
-    /* padding-bottom: 10px; */
     border-radius: 10%;
+    /* width: 100%;
+    height: 100%; */
+    padding: 12px;
+
 }
 
 .content {

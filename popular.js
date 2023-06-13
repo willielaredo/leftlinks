@@ -4,7 +4,8 @@ fetch('./popular.json')
     .then((response) => response.json())
     .then((json) => {
         const arr = json.popular
-
+        const start_date = arr[0].start_date
+        document.getElementById('start_date').innerHTML = '<span>' + start_date + '</span>'
         for (var i = 0; i < arr.length; i++) {
             var obj = arr[i];
             const name = obj.name

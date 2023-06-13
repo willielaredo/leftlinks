@@ -17,11 +17,16 @@ header {
     position: sticky;
     top: 0;
     z-index: 999;
-    padding-top: 5px
+    padding-top: 5px;
+
 }
 
 header nav {
     padding-bottom: 15px;
+}
+
+header nav ol {
+    padding-left: 25px;
 }
 
 
@@ -35,12 +40,15 @@ header nav {
 }
 
 nav {
-    /* padding: 0; */
-    vertical-align: middle;
+    padding: 0;
+    /* vertical-align: middle; */
+    height: 100px;
+    line-height: 100px;
 }
 
 nav img {
     display: inline;
+    vertical-align: middle;
 }
 
 nav ol {

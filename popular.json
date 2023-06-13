@@ -1,0 +1,804 @@
+{
+    "2023-05-13_2023-06-12": [
+        {
+            "name": "Progressive Maryland",
+            "count": 5742,
+            "increase": 422,
+            "percent": 7.93,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "The Debt Collective",
+            "count": 94846,
+            "increase": 4768,
+            "percent": 5.29,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Red May Seattle",
+            "count": 2557,
+            "increase": 95,
+            "percent": 3.86,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Primo Nutmeg",
+            "count": 47750,
+            "increase": 1620,
+            "percent": 3.51,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "The Century Foundation",
+            "count": 36124,
+            "increase": 1171,
+            "percent": 3.35,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Emergency Workplace Organizing Committee",
+            "count": 22500,
+            "increase": 538,
+            "percent": 2.45,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Communists in situ",
+            "count": 8688,
+            "increase": 205,
+            "percent": 2.42,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Asian Peoples’ Movement on Debt and Development",
+            "count": 3545,
+            "increase": 82,
+            "percent": 2.37,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Lux Magazine",
+            "count": 11973,
+            "increase": 253,
+            "percent": 2.16,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Hampton Institute",
+            "count": 46106,
+            "increase": 769,
+            "percent": 1.7,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Freedom Road Socialist Organization",
+            "count": 7159,
+            "increase": 106,
+            "percent": 1.5,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Corporate Accountability",
+            "count": 9504,
+            "increase": 139,
+            "percent": 1.48,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "INCITE!",
+            "count": 17429,
+            "increase": 247,
+            "percent": 1.44,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Working Class History",
+            "count": 148739,
+            "increase": 2035,
+            "percent": 1.39,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Demand Climate Justice",
+            "count": 4056,
+            "increase": 53,
+            "percent": 1.32,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Organizing Upgrade",
+            "count": 2366,
+            "increase": 29,
+            "percent": 1.24,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "United Electrical, Radio & Machine Workers of America",
+            "count": 7295,
+            "increase": 88,
+            "percent": 1.22,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "CUNY Rising Alliance",
+            "count": 2497,
+            "increase": 29,
+            "percent": 1.18,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Way To Win",
+            "count": 6567,
+            "increase": 69,
+            "percent": 1.06,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Workers Justice",
+            "count": 6954,
+            "increase": 72,
+            "percent": 1.05,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Students for a Democratic Society",
+            "count": 1904,
+            "increase": 19,
+            "percent": 1.01,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "NC Raise Up",
+            "count": 16874,
+            "increase": 169,
+            "percent": 1.01,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "BreakThrough News",
+            "count": 85640,
+            "increase": 836,
+            "percent": 0.99,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "National Domestic Workers Alliance",
+            "count": 43568,
+            "increase": 425,
+            "percent": 0.99,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Tricontinental Institute for Social Research",
+            "count": 31784,
+            "increase": 295,
+            "percent": 0.94,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Platypus Affiliated Society",
+            "count": 3702,
+            "increase": 34,
+            "percent": 0.93,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Communist Party USA",
+            "count": 64739,
+            "increase": 581,
+            "percent": 0.91,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Peoples Dispatch",
+            "count": 23669,
+            "increase": 206,
+            "percent": 0.88,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Socialist Alternative - New York, NY",
+            "count": 2494,
+            "increase": 21,
+            "percent": 0.85,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "The People's Forum",
+            "count": 23726,
+            "increase": 179,
+            "percent": 0.76,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Climate Justice Alliance",
+            "count": 23114,
+            "increase": 167,
+            "percent": 0.73,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Democratic Socialists of America - Atlanta, GA",
+            "count": 10175,
+            "increase": 72,
+            "percent": 0.71,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Solidarity Research Center",
+            "count": 1132,
+            "increase": 8,
+            "percent": 0.71,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "AFL-CIO",
+            "count": 160901,
+            "increase": 1099,
+            "percent": 0.69,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "World Beyond War",
+            "count": 12796,
+            "increase": 87,
+            "percent": 0.68,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Working Families - New York",
+            "count": 35847,
+            "increase": 241,
+            "percent": 0.68,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Left Reckoning",
+            "count": 9100,
+            "increase": 58,
+            "percent": 0.64,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Independent Drivers Guild",
+            "count": 2770,
+            "increase": 17,
+            "percent": 0.62,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Alliance for Global Justice",
+            "count": 2432,
+            "increase": 15,
+            "percent": 0.62,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Socialism Conference",
+            "count": 4877,
+            "increase": 30,
+            "percent": 0.62,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Democratic Socialists of America - New York, NY",
+            "count": 45286,
+            "increase": 280,
+            "percent": 0.62,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "RISE: Revolutionary Internationalist Socialist Environmentalist",
+            "count": 2946,
+            "increase": 18,
+            "percent": 0.61,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Ohio Student Association",
+            "count": 5208,
+            "increase": 30,
+            "percent": 0.58,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Reclaim Philadelphia",
+            "count": 6135,
+            "increase": 35,
+            "percent": 0.57,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Code Pink",
+            "count": 109809,
+            "increase": 572,
+            "percent": 0.52,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Woodbine",
+            "count": 3485,
+            "increase": 18,
+            "percent": 0.52,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Clean Slate for Worker Power",
+            "count": 1570,
+            "increase": 8,
+            "percent": 0.51,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Global Women Strike",
+            "count": 2861,
+            "increase": 14,
+            "percent": 0.49,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "ISAIAHMN",
+            "count": 7415,
+            "increase": 36,
+            "percent": 0.49,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Bertha Foundation",
+            "count": 6348,
+            "increase": 29,
+            "percent": 0.46,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Spectre Journal",
+            "count": 8595,
+            "increase": 39,
+            "percent": 0.46,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "System Change Not Climate Change",
+            "count": 1303,
+            "increase": 6,
+            "percent": 0.46,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Momentum Community",
+            "count": 1999,
+            "increase": 9,
+            "percent": 0.45,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Inequality.org",
+            "count": 13837,
+            "increase": 61,
+            "percent": 0.44,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Movement Strategy",
+            "count": 1715,
+            "increase": 7,
+            "percent": 0.41,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Industrial Workers of the World",
+            "count": 1016,
+            "increase": 4,
+            "percent": 0.4,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Jews for Racial & Economic Justice",
+            "count": 36479,
+            "increase": 144,
+            "percent": 0.4,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Socialist Revolution",
+            "count": 12802,
+            "increase": 49,
+            "percent": 0.38,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Socialist Alternative - Chicago, IL",
+            "count": 1862,
+            "increase": 7,
+            "percent": 0.38,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Red Emma's",
+            "count": 18349,
+            "increase": 65,
+            "percent": 0.36,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Industrial Workers of the World",
+            "count": 101013,
+            "increase": 357,
+            "percent": 0.35,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "SF Public Bank Coalition",
+            "count": 2827,
+            "increase": 10,
+            "percent": 0.35,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "National Bail Out",
+            "count": 10069,
+            "increase": 34,
+            "percent": 0.34,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Partnership For Working Families",
+            "count": 4453,
+            "increase": 15,
+            "percent": 0.34,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Healthcare-NOW!",
+            "count": 6404,
+            "increase": 21,
+            "percent": 0.33,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Turkopticon",
+            "count": 1862,
+            "increase": 6,
+            "percent": 0.32,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Money on the Left",
+            "count": 6564,
+            "increase": 20,
+            "percent": 0.31,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Community Change",
+            "count": 17810,
+            "increase": 55,
+            "percent": 0.31,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Committee in Solidarity with the Central America People",
+            "count": 5160,
+            "increase": 16,
+            "percent": 0.31,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "The Center for Artistic Activism",
+            "count": 3850,
+            "increase": 11,
+            "percent": 0.29,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Background Briefing w/ Ian Masters",
+            "count": 3400,
+            "increase": 10,
+            "percent": 0.29,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Rosa Luxemburg Stiftung, Inc.",
+            "count": 10911,
+            "increase": 32,
+            "percent": 0.29,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Local Progress",
+            "count": 10236,
+            "increase": 29,
+            "percent": 0.28,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "International Youth and Students for Social Equality",
+            "count": 2614,
+            "increase": 7,
+            "percent": 0.27,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "SisterSong",
+            "count": 58372,
+            "increase": 153,
+            "percent": 0.26,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "The Workers Lab",
+            "count": 3495,
+            "increase": 9,
+            "percent": 0.26,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Center for Biological Diversity",
+            "count": 141917,
+            "increase": 350,
+            "percent": 0.25,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "National Lawyers Guild",
+            "count": 35867,
+            "increase": 86,
+            "percent": 0.24,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Zinn Education Project",
+            "count": 63531,
+            "increase": 149,
+            "percent": 0.24,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "CorpWatch",
+            "count": 5830,
+            "increase": 14,
+            "percent": 0.24,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Common Dreams",
+            "count": 86819,
+            "increase": 207,
+            "percent": 0.24,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Science for the People",
+            "count": 5492,
+            "increase": 12,
+            "percent": 0.22,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Pennsylvania Poor People's Campaign",
+            "count": 1819,
+            "increase": 4,
+            "percent": 0.22,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Economic Hardship Reporting Project",
+            "count": 12143,
+            "increase": 25,
+            "percent": 0.21,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "California Public Banking Alliance",
+            "count": 2050,
+            "increase": 4,
+            "percent": 0.2,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Progressive Global Commons",
+            "count": 3463,
+            "increase": 7,
+            "percent": 0.2,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "ALIGN",
+            "count": 6840,
+            "increase": 13,
+            "percent": 0.19,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "China Labor Bulletin Strike Map",
+            "count": 1589,
+            "increase": 3,
+            "percent": 0.19,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Jobs with Justice",
+            "count": 44393,
+            "increase": 82,
+            "percent": 0.19,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Working Families Party",
+            "count": 90602,
+            "increase": 171,
+            "percent": 0.19,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Progressive Labor Party",
+            "count": 1133,
+            "increase": 2,
+            "percent": 0.18,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Roosevelt Institute",
+            "count": 32458,
+            "increase": 54,
+            "percent": 0.17,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Project NIA",
+            "count": 37101,
+            "increase": 61,
+            "percent": 0.16,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Toward Freedom",
+            "count": 3163,
+            "increase": 5,
+            "percent": 0.16,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Tactical Tech",
+            "count": 49890,
+            "increase": 80,
+            "percent": 0.16,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "MayDay Space",
+            "count": 1251,
+            "increase": 2,
+            "percent": 0.16,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Cooperation Jackson",
+            "count": 26479,
+            "increase": 40,
+            "percent": 0.15,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Center for Popular Democracy Action",
+            "count": 27388,
+            "increase": 40,
+            "percent": 0.15,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Payday Report",
+            "count": 4846,
+            "increase": 7,
+            "percent": 0.14,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        },
+        {
+            "name": "Democratic Socialists of America - Detroit, MI",
+            "count": 6927,
+            "increase": 10,
+            "percent": 0.14,
+            "start_date": "2023-05-13",
+            "end_date": "2023-06-12"
+        }
+    ]
+}

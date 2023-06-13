@@ -1,17 +1,17 @@
 // show/hide filter options
 
-var button = document.getElementById('toggle-filters'); // Assumes element with id='button'
+// var button = document.getElementById('toggle-filters'); // Assumes element with id='button'
 
-button.onclick = function() {
-    var div = document.getElementById('filters');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    }
-    else {
-        div.style.display = 'block';
-    }
-};
-var issues = []
+// button.onclick = function() {
+//     var div = document.getElementById('filters');
+//     if (div.style.display !== 'none') {
+//         div.style.display = 'none';
+//     }
+//     else {
+//         div.style.display = 'block';
+//     }
+// };
+
 // create cards
 fetch('./orgs.json')
     .then((response) => response.json())

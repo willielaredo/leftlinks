@@ -13,7 +13,7 @@
 // };
 
 var this_url = window.location.href
-var issue_type_file = this_url.split('/')[3].split('.')[0]
+var issue_type_file = this_url.split('/')[4].split('.')[0]
 var issue_type_display = issue_type_file.replace('-',' ').toLowerCase()
 console.log(issue_type_file)
 console.log(issue_type_display)

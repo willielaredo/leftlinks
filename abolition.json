@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "slug": "abolitionist-law-center",
+            "name": "Abolitionist Law Center",
+            "tags": [
+                "abolition"
+            ],
+            "screen_name": "AbolitionistLC",
+            "short_description": "ALC is a nonprofit law firm fighting to defend prisoners and abolitionists, and a community organizing project aiming to",
+            "issues": [
+                "Abolition"
+            ]
+        },
+        {
+            "slug": "critical-resistance",
+            "name": "Critical Resistance",
+            "tags": [
+                "prison-abolition"
+            ],
+            "screen_name": "C_Resistance",
+            "short_description": "A US-based, national grassroots organization working to build an international movement to abolish the prison industrial",
+            "issues": [
+                "Abolition"
+            ]
+        },
+        {
+            "slug": "decriminalize-seattle-coalition",
+            "name": "Decriminalize Seattle Coalition",
+            "tags": [
+                "abolition"
+            ],
+            "screen_name": "DecrimSeattle",
+            "short_description": "We are a BIPOC-led coalition that builds power in Seattle to invest in pro-community, pro-people initiatives & divest fr",
+            "issues": [
+                "Abolition"
+            ]
+        },
+        {
+            "slug": "defund-sfpd-now",
+            "name": "Defund SFPD Now",
+            "tags": [
+                "prison-abolition",
+                "defund-the-police"
+            ],
+            "screen_name": "DefundSFPDnow",
+            "short_description": "Part of the collective pursuit to defund San Francisco Police Department into abolition, and ultimately abolish the pris",
+            "issues": [
+                "Abolition",
+                "Abolition"
+            ]
+        },
+        {
+            "slug": "revolutionary-abolitionist-movement",
+            "name": "Revolutionary Abolitionist Movement",
+            "tags": [
+                "abolition"
+            ],
+            "screen_name": "RevAbolition",
+            "short_description": "The Revolutionary Abolitionist Movement is a political movement dedicated to freeing people from bondage and building re",
+            "issues": [
+                "Abolition"
+            ]
+        },
+        {
+            "slug": "revolutionary-abolitionist-movement",
+            "name": "Revolutionary Abolitionist Movement",
+            "tags": [
+                "abolition"
+            ],
+            "screen_name": "RevAbolitionNYC",
+            "short_description": "The Revolutionary Abolitionist Movement is a political movement dedicated to freeing people from bondage and building re",
+            "issues": [
+                "Abolition"
+            ]
+        }
+    ]
+}

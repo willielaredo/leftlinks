@@ -64,7 +64,8 @@ nav li {
     vertical-align: middle;
 }
 
-.top-nav li a {
+.top-nav li a,
+.sub-nav li a {
     text-decoration: none;
     color: inherit
 }

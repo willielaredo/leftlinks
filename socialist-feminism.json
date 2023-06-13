@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "slug": "global-women-strike",
+            "name": "Global Women Strike",
+            "tags": [
+                "feminist"
+            ],
+            "screen_name": "WomenStrike",
+            "short_description": "Int'l network campaigning for living wage for mothers & carers & #CareIncomeNow. Co-ordinated by #WagesForHousework Camp",
+            "issues": [
+                "Socialist Feminism"
+            ]
+        },
+        {
+            "slug": "mass-strike-for-reproductive-freedom",
+            "name": "Mass Strike For Reproductive Freedom",
+            "tags": [
+                "feminist"
+            ],
+            "screen_name": "mass_strike",
+            "short_description": "We are @DemSocialists #MassStrike for Repro Freedom! Help fight back against attacks on our rights by organizing worker ",
+            "issues": [
+                "Socialist Feminism"
+            ]
+        }
+    ]
+}

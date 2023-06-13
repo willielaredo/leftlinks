@@ -12,7 +12,7 @@ fetch('./issues.json')
             const issue = document.createElement("div")
             issue.classList.add("issue")
             issue.innerHTML = 
-                '<h2>' + issue_name + ' (' + issue_count + ')</h2>'
+                '<a href="'+ issue_name.toLowerCase().replace(' ','-') + '.html"><h2>' + issue_name + ' (' + issue_count + ')</h2></a>'
                     // .replaceAll(',', '</div><div>') + '</div>
             document.getElementById('issues').appendChild(issue)
         }

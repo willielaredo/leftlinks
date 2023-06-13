@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "slug": "movimiento-cosecha",
+            "name": "Movimiento Cosecha",
+            "tags": [
+                "immigration"
+            ],
+            "screen_name": "CosechaMovement",
+            "short_description": "We are 11 million undocumented immigrants fighting for permanent protection, dignity, and respect.",
+            "issues": [
+                "Immigration"
+            ]
+        },
+        {
+            "slug": "no-more-deaths",
+            "name": "No More Deaths",
+            "tags": [
+                "immigration"
+            ],
+            "screen_name": "NoMoreDeaths",
+            "short_description": "humanitarian aid + solidarity in the Sonoran borderlands | against militarization and for the free movement of people. h",
+            "issues": [
+                "Immigration"
+            ]
+        }
+    ]
+}

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Left Links</title>
+    <title>Popular Left Links</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Rubik&family=Lato">
@@ -15,31 +15,29 @@
         <a href="/leftlinks"><img src="img/logo.png" width="100"></a>
             <ol class="top-nav">
                 <li>
-                    Browse by Issues
+                    <a href="issues.html">Browse by Issues</a>
                 </li>
                 <!-- <li>
                     Recent Listings
                 </li> -->
                 <li>
-                    <a href="popular.html">Popular Left Links</a>
+                    Popular Left Links
                 </li>
             </ol>
         </nav>
     </header>
-    <h1>Browse by Issues</h1>
-    <p>Select a topic or issue to find a list of left organizations</p>
-    <div id="issues">
-        <!-- <article class="card">
-            <header>
-                <h2>United Electrical Workers (UE)</h2>
-            </header>
+    <h1>Popular This Month</h1>
+    <p>Links that have had the highest growth in twitter followers the last 30 days</p>
+    <table id="popular">
+        <thead>
+            <td>Name</td>
+            <td>Twitter Followers</td>
+            <td>Percent Growth</td> 
+        </thead>
+        <tbody id="popular_links">
             
-            <div class="content">
-                <p>This is the description</p>
-            </div>
-            <footer>I have a footer!</footer>
-        </article> -->
-    </div>
-    <script type="module" src="issues.js"></script>
+        </tbody>
+    </table>
+    <script type="module" src="popular.js"></script>
 </body>
 </html>

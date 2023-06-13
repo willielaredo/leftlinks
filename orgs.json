@@ -11,7 +11,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-bds-and-palestine-solidarity",
-            "name": "Democratic Socialists of America - BDS and Palestine Solidarity",
+            "name": "DSA - BDS and Palestine Solidarity",
             "tags": [
                 null
             ],
@@ -102,7 +102,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-omaha-ne",
-            "name": "Democratic Socialists of America - Omaha, NE",
+            "name": "DSA - Omaha, NE",
             "tags": [
                 "dsa",
                 "socialist"
@@ -121,7 +121,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-los-angeles-ca",
-            "name": "Democratic Socialists of America - Los Angeles, CA",
+            "name": "DSA - Los Angeles, CA",
             "tags": [
                 "dsa",
                 "socialist"
@@ -184,6 +184,16 @@
             "short_description": "Official account of Socialist Alternative Minnesota. https://t.co/YhHxwFRrGF"
         },
         {
+            "slug": "democratic-socialists-of-america-mobile-al",
+            "name": "DSA - Mobile, AL",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "screen_name": "MobileDSA",
+            "short_description": "Democratic Socialists of America - Mobile, AL #OrganizeTheSouth #BlackLivesMatter #MedicareForAll @DemSocialists"
+        },
+        {
             "slug": "no-more-deaths",
             "name": "No More Deaths",
             "tags": [
@@ -191,16 +201,6 @@
             ],
             "screen_name": "NoMoreDeaths",
             "short_description": "humanitarian aid + solidarity in the Sonoran borderlands | against militarization and for the free movement of people. h"
-        },
-        {
-            "slug": "democratic-socialists-of-america-mobile-al",
-            "name": "Democratic Socialists of America - Mobile, AL",
-            "tags": [
-                "dsa",
-                "socialist"
-            ],
-            "screen_name": "MobileDSA",
-            "short_description": "Democratic Socialists of America - Mobile, AL #OrganizeTheSouth #BlackLivesMatter #MedicareForAll @DemSocialists"
         },
         {
             "slug": "the-working-class",
@@ -221,15 +221,6 @@
             "short_description": "To change society and end oppression, we need a plan to get from where we are now to liberation - a strategy that will w"
         },
         {
-            "slug": "social-movement-technologies",
-            "name": "Social Movement Technologies",
-            "tags": [
-                "tech"
-            ],
-            "screen_name": "SocialMoveTech",
-            "short_description": "Campaign support for people power movements and groups across the world. Find us also on #Mastodon: @socialmovetech@camp"
-        },
-        {
             "slug": "china-labor-bulletin-strike-map",
             "name": "China Labor Bulletin Strike Map",
             "tags": [
@@ -239,8 +230,17 @@
             "short_description": "Worker strikes and protests in China"
         },
         {
+            "slug": "social-movement-technologies",
+            "name": "Social Movement Technologies",
+            "tags": [
+                "tech"
+            ],
+            "screen_name": "SocialMoveTech",
+            "short_description": "Campaign support for people power movements and groups across the world. Find us also on #Mastodon: @socialmovetech@camp"
+        },
+        {
             "slug": "democratic-socialists-of-america-libertarian-socialist-caucus",
-            "name": "Democratic Socialists of America - Libertarian Socialist Caucus",
+            "name": "DSA - Libertarian Socialist Caucus",
             "tags": [
                 "dsa",
                 "socialist"
@@ -385,7 +385,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-san-diego-ca",
-            "name": "Democratic Socialists of America - San Diego, CA",
+            "name": "DSA - San Diego, CA",
             "tags": [
                 "dsa",
                 "socialist"
@@ -440,7 +440,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-atlanta-ga",
-            "name": "Democratic Socialists of America - Atlanta, GA",
+            "name": "DSA - Atlanta, GA",
             "tags": [
                 "dsa",
                 "socialist"
@@ -593,6 +593,15 @@
             "short_description": "Activist organization dedicated to building a radical political movement in science and society. Read our publication @s"
         },
         {
+            "slug": "democratic-socialists-of-america-health-workers-collective",
+            "name": "DSA - Health Workers Collective",
+            "tags": [
+                null
+            ],
+            "screen_name": "DSA_HWC",
+            "short_description": "A political home for all health workers building solidarity across disciplines to collectively fight for a health system"
+        },
+        {
             "slug": "independent-drivers-guild",
             "name": "Independent Drivers Guild",
             "tags": [
@@ -602,17 +611,8 @@
             "short_description": "Independent Drivers Guild is a @MachinistsUnion affiliate of app-based drivers. We're Uber and Lyft workers united for a"
         },
         {
-            "slug": "democratic-socialists-of-america-health-workers-collective",
-            "name": "Democratic Socialists of America - Health Workers Collective",
-            "tags": [
-                null
-            ],
-            "screen_name": "DSA_HWC",
-            "short_description": "A political home for all health workers building solidarity across disciplines to collectively fight for a health system"
-        },
-        {
             "slug": "democratic-socialists-of-america-eugene-or",
-            "name": "Democratic Socialists of America - Eugene, OR",
+            "name": "DSA - Eugene, OR",
             "tags": [
                 "dsa",
                 "socialist"
@@ -760,7 +760,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-memphis-tn",
-            "name": "Democratic Socialists of America - Memphis, TN",
+            "name": "DSA - Memphis, TN",
             "tags": [
                 "dsa",
                 "socialist"
@@ -815,15 +815,6 @@
             "short_description": "We are 11 million undocumented immigrants fighting for permanent protection, dignity, and respect."
         },
         {
-            "slug": "decolonize-this-place",
-            "name": "Decolonize This Place",
-            "tags": [
-                "anti-imperialist"
-            ],
-            "screen_name": "decolonize_this",
-            "short_description": "Action-oriented movement on Indigenous struggle, Black liberation, Free Palestine, workers, de-gentrification, dismantli"
-        },
-        {
             "slug": "democratize-comed",
             "name": "#DemocratizeComEd",
             "tags": [
@@ -833,8 +824,17 @@
             "short_description": "Our Power. Our Future. A people-powered campaign for democratically-controlled energy in Chicago. #DemocratizeComEd #Dem"
         },
         {
+            "slug": "decolonize-this-place",
+            "name": "Decolonize This Place",
+            "tags": [
+                "anti-imperialist"
+            ],
+            "screen_name": "decolonize_this",
+            "short_description": "Action-oriented movement on Indigenous struggle, Black liberation, Free Palestine, workers, de-gentrification, dismantli"
+        },
+        {
             "slug": "democratic-socialists-of-america-cleveland-oh",
-            "name": "Democratic Socialists of America - Cleveland, OH",
+            "name": "DSA - Cleveland, OH",
             "tags": [
                 "dsa",
                 "socialist"
@@ -934,7 +934,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-stockton-ca",
-            "name": "Democratic Socialists of America - Stockton, CA",
+            "name": "DSA - Stockton, CA",
             "tags": [
                 "dsa",
                 "socialist"
@@ -1080,7 +1080,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-immigrants-rights-working-group",
-            "name": "Democratic Socialists of America - Immigrants' Rights Working Group",
+            "name": "DSA - Immigrants' Rights Working Group",
             "tags": [
                 "dsa",
                 "socialist"
@@ -1190,7 +1190,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-new-york-ny",
-            "name": "Democratic Socialists of America - New York, NY",
+            "name": "DSA - New York, NY",
             "tags": [
                 "dsa",
                 "socialist"
@@ -1317,7 +1317,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-communist-caucus",
-            "name": "Democratic Socialists of America - Communist Caucus",
+            "name": "DSA - Communist Caucus",
             "tags": [
                 "communist",
                 "dsa",
@@ -1373,7 +1373,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-detroit-mi",
-            "name": "Democratic Socialists of America - Detroit, MI",
+            "name": "DSA - Detroit, MI",
             "tags": [
                 "dsa",
                 "socialist"
@@ -1456,7 +1456,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-quiet-corner-ct",
-            "name": "Democratic Socialists of America - Quiet Corner, CT",
+            "name": "DSA - Quiet Corner, CT",
             "tags": [
                 "dsa",
                 "socialist"
@@ -1538,7 +1538,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-berkeley-ca",
-            "name": "Democratic Socialists of America - Berkeley, CA",
+            "name": "DSA - Berkeley, CA",
             "tags": [
                 "dsa",
                 "socialist"
@@ -1696,7 +1696,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-tuscaloosa-al",
-            "name": "Democratic Socialists of America - Tuscaloosa, AL",
+            "name": "DSA - Tuscaloosa, AL",
             "tags": [
                 "dsa",
                 "socialist"
@@ -1787,7 +1787,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-washington-dc",
-            "name": "Democratic Socialists of America - Washington, DC",
+            "name": "DSA - Washington, DC",
             "tags": [
                 "dsa",
                 "socialist"
@@ -1869,7 +1869,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-queens-ny",
-            "name": "Democratic Socialists of America - Queens, NY",
+            "name": "DSA - Queens, NY",
             "tags": [
                 "dsa",
                 "socialist"
@@ -2015,7 +2015,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-momentum-slate",
-            "name": "Democratic Socialists of America - Momentum Slate",
+            "name": "DSA - Momentum Slate",
             "tags": [
                 "dsa",
                 "socialist"
@@ -2034,7 +2034,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-metro-dc",
-            "name": "Democratic Socialists of America - Metro DC",
+            "name": "DSA - Metro DC",
             "tags": [
                 "dsa",
                 "socialist"
@@ -2144,7 +2144,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-build-caucus",
-            "name": "Democratic Socialists of America - Build Caucus",
+            "name": "DSA - Build Caucus",
             "tags": [
                 "dsa",
                 "socialist"
@@ -2338,7 +2338,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-new-york-ny-tech-action",
-            "name": "Democratic Socialists of America - New York, NY Tech Action",
+            "name": "DSA - New York, NY Tech Action",
             "tags": [
                 "dsa",
                 "socialist"
@@ -2410,15 +2410,6 @@
             "short_description": "#Quaker org that includes ppl of various faiths committed to social justice #BlackLivesMatter #DefundHate #SanctuaryEver"
         },
         {
-            "slug": "blue-america",
-            "name": "Blue America",
-            "tags": [
-                null
-            ],
-            "screen_name": "Blue__America",
-            "short_description": "We want to replace Conservatives in Congress with a strong and active progressive movement for ordinary American familie"
-        },
-        {
             "slug": "the-spin-report",
             "name": "The Spin Report",
             "tags": [
@@ -2426,6 +2417,15 @@
             ],
             "screen_name": "TheSpinReport",
             "short_description": "A media and political literacy project covering the US empire. • IG: https://t.co/Ka96q2Z3qX • FB: https://t.co/zdVk5DwI"
+        },
+        {
+            "slug": "blue-america",
+            "name": "Blue America",
+            "tags": [
+                null
+            ],
+            "screen_name": "Blue__America",
+            "short_description": "We want to replace Conservatives in Congress with a strong and active progressive movement for ordinary American familie"
         },
         {
             "slug": "international-week-of-anti-imperialist-struggle",
@@ -2609,7 +2609,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-capital-district-ny",
-            "name": "Democratic Socialists of America - Capital District, NY",
+            "name": "DSA - Capital District, NY",
             "tags": [
                 "dsa",
                 "socialist"
@@ -2719,7 +2719,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-democratic-socialist-labor-commission",
-            "name": "Democratic Socialists of America - Democratic Socialist Labor Commission",
+            "name": "DSA - Democratic Socialist Labor Commission",
             "tags": [
                 "dsa",
                 "socialist"
@@ -3019,7 +3019,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-accountability-task-force",
-            "name": "Democratic Socialists of America - Accountability Task Force",
+            "name": "DSA - Accountability Task Force",
             "tags": [
                 "dsa",
                 "socialist"
@@ -3056,15 +3056,6 @@
             "short_description": "Abolitionists demanding since 2018 that Minneapolis divest from policing and invest in long-term alternatives. Also on F"
         },
         {
-            "slug": "techsolidarity",
-            "name": "TechSolidarity",
-            "tags": [
-                "tech"
-            ],
-            "screen_name": "TechSolidarity",
-            "short_description": "Contact: maciej@ceglowski.com, or Signal: +1 415 610 0231"
-        },
-        {
             "slug": "the-peoples-forum",
             "name": "The People's Forum",
             "tags": [
@@ -3072,6 +3063,15 @@
             ],
             "screen_name": "PeoplesForumNYC",
             "short_description": "We are a movement incubator for working class and marginalized communities to build unity across historic lines of divis"
+        },
+        {
+            "slug": "techsolidarity",
+            "name": "TechSolidarity",
+            "tags": [
+                "tech"
+            ],
+            "screen_name": "TechSolidarity",
+            "short_description": "Contact: maciej@ceglowski.com, or Signal: +1 415 610 0231"
         },
         {
             "slug": "labour-start",
@@ -3102,7 +3102,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-madison-wi",
-            "name": "Democratic Socialists of America - Madison, WI",
+            "name": "DSA - Madison, WI",
             "tags": [
                 "dsa",
                 "socialist"
@@ -3422,7 +3422,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-san-francisco-ca",
-            "name": "Democratic Socialists of America - San Francisco, CA",
+            "name": "DSA - San Francisco, CA",
             "tags": [
                 "dsa",
                 "socialist"
@@ -3486,7 +3486,7 @@
         },
         {
             "slug": "young-democratic-socialists-of-america-columbia-university",
-            "name": "Young Democratic Socialists of America - Columbia University",
+            "name": "Young DSA - Columbia University",
             "tags": [
                 null
             ],
@@ -3567,6 +3567,16 @@
             "short_description": "Gig Workers Rising is a community of app and platform workers organizing for better wages, working conditions, and jobs."
         },
         {
+            "slug": "democratic-socialists-of-america-national-tech-committee",
+            "name": "DSA - National Tech Committee",
+            "tags": [
+                "dsa",
+                "socialist"
+            ],
+            "screen_name": "DSATechCmte",
+            "short_description": "A group of DSA member volunteers helping build the Socialism Network."
+        },
+        {
             "slug": "system-change-not-climate-change",
             "name": "System Change Not Climate Change",
             "tags": [
@@ -3577,18 +3587,8 @@
             "short_description": "System Change Not Climate Change is a global community fighting for a world that puts planet and people before profits. "
         },
         {
-            "slug": "democratic-socialists-of-america-national-tech-committee",
-            "name": "Democratic Socialists of America - National Tech Committee",
-            "tags": [
-                "dsa",
-                "socialist"
-            ],
-            "screen_name": "DSATechCmte",
-            "short_description": "A group of DSA member volunteers helping build the Socialism Network."
-        },
-        {
             "slug": "democratic-socialists-of-america-providence-ri",
-            "name": "Democratic Socialists of America - Providence, RI",
+            "name": "DSA - Providence, RI",
             "tags": [
                 "dsa",
                 "socialist"
@@ -3598,7 +3598,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-sacramento-ca",
-            "name": "Democratic Socialists of America - Sacramento, CA",
+            "name": "DSA - Sacramento, CA",
             "tags": [
                 "dsa",
                 "socialist"
@@ -3625,15 +3625,6 @@
             "short_description": "Newark Students Union was founded to create a political/ social platform for students in Newark to have a say in their e"
         },
         {
-            "slug": "350-bay-area-action",
-            "name": "350 Bay Area Action",
-            "tags": [
-                null
-            ],
-            "screen_name": "350BAAction",
-            "short_description": "SF Bay Area grassroots climate movement pushing to eliminate carbon pollution. We press for socially equitable solutions"
-        },
-        {
             "slug": "workers-world-party-memphis-tn",
             "name": "Workers World Party - Memphis, TN",
             "tags": [
@@ -3641,6 +3632,15 @@
             ],
             "screen_name": "MemWorkersWorld",
             "short_description": "Workers World Party is a revolutinary communist party working to build a better world for all oppressed peoples."
+        },
+        {
+            "slug": "350-bay-area-action",
+            "name": "350 Bay Area Action",
+            "tags": [
+                null
+            ],
+            "screen_name": "350BAAction",
+            "short_description": "SF Bay Area grassroots climate movement pushing to eliminate carbon pollution. We press for socially equitable solutions"
         },
         {
             "slug": "midwest-socialist",
@@ -3671,7 +3671,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-pioneer-valley-ma",
-            "name": "Democratic Socialists of America - Pioneer Valley, MA",
+            "name": "DSA - Pioneer Valley, MA",
             "tags": [
                 "dsa",
                 "socialist"
@@ -4178,7 +4178,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-philadelphia-pa",
-            "name": "Democratic Socialists of America - Philadelphia, PA",
+            "name": "DSA - Philadelphia, PA",
             "tags": [
                 "dsa",
                 "socialist"
@@ -4215,7 +4215,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-buffalo-ny",
-            "name": "Democratic Socialists of America - Buffalo, NY",
+            "name": "DSA - Buffalo, NY",
             "tags": [
                 "dsa",
                 "socialist"
@@ -4234,15 +4234,6 @@
             "short_description": "The BU Young Democratic Socialists (YDS) seeks to serve as a platform for student voices to address issues affecting Bos"
         },
         {
-            "slug": "new-york-collective-of-radical-educators",
-            "name": "New York Collective of Radical Educators",
-            "tags": [
-                "education"
-            ],
-            "screen_name": "NYCoRE3000",
-            "short_description": "...the struggle for justice does not end when the school bell rings. -New York Collective of Radical Educators"
-        },
-        {
             "slug": "poor-peoples-campaign",
             "name": "Poor People's Campaign",
             "tags": [
@@ -4250,6 +4241,15 @@
             ],
             "screen_name": "UniteThePoor",
             "short_description": "A movement against systemic racism, poverty, ecological devastation and the war economy."
+        },
+        {
+            "slug": "new-york-collective-of-radical-educators",
+            "name": "New York Collective of Radical Educators",
+            "tags": [
+                "education"
+            ],
+            "screen_name": "NYCoRE3000",
+            "short_description": "...the struggle for justice does not end when the school bell rings. -New York Collective of Radical Educators"
         },
         {
             "slug": "progressive-maryland",
@@ -4307,7 +4307,7 @@
         },
         {
             "slug": "democratic-socialists-of-america-central-indiana",
-            "name": "Democratic Socialists of America - Central Indiana",
+            "name": "DSA - Central Indiana",
             "tags": [
                 "dsa",
                 "socialist"

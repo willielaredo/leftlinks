@@ -13,7 +13,8 @@
 // };
 
 var this_url = window.location.href
-console.log(this_url.substring(0,10))
+console.log(this_url)
+console.log(this_url.substring(0, 10))
 if (this_url.substring(0, 10) == 'http://127') {
     var issue_type_file = this_url.split('/')[3].split('.')[0]
 }

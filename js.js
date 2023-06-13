@@ -11,7 +11,7 @@ button.onclick = function() {
         div.style.display = 'block';
     }
 };
-
+var issues = []
 // create cards
 fetch('./orgs.json')
     .then((response) => response.json())

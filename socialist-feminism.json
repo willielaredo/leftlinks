@@ -10,7 +10,21 @@
             "short_description": "Int'l network campaigning for living wage for mothers & carers & #CareIncomeNow. Co-ordinated by #WagesForHousework Camp",
             "issues": [
                 "Socialist Feminism"
-            ]
+            ],
+            "url": "https://t.co/0Ap37gVOvY"
+        },
+        {
+            "slug": "lux-magazine",
+            "name": "Lux Magazine",
+            "tags": [
+                "feminist"
+            ],
+            "screen_name": "readlux",
+            "short_description": "A socialist feminist mag for the masses. It's sex, with class",
+            "issues": [
+                "Socialist Feminism"
+            ],
+            "url": "https://t.co/dgHqMz61IK"
         },
         {
             "slug": "mass-strike-for-reproductive-freedom",
@@ -22,7 +36,8 @@
             "short_description": "We are @DemSocialists #MassStrike for Repro Freedom! Help fight back against attacks on our rights by organizing worker ",
             "issues": [
                 "Socialist Feminism"
-            ]
+            ],
+            "url": "https://t.co/8nVjVFLMHV"
         }
     ]
 }

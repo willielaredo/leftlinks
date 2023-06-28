@@ -10,7 +10,8 @@
             "short_description": "Organizing for minimum wage of $15/hour ",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "http://t.co/hqNqRMsBpy"
         },
         {
             "slug": "32bj-seiu",
@@ -22,7 +23,8 @@
             "short_description": "This is the mission.",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/caioWTESAa"
         },
         {
             "slug": "afl-cio",
@@ -36,7 +38,21 @@
             "issues": [
                 "Labor",
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/tOIkfMNPJJ"
+        },
+        {
+            "slug": "afl-cio-colorado",
+            "name": "AFL-CIO - Colorado",
+            "tags": [
+                "union"
+            ],
+            "screen_name": "AFLCIOCO",
+            "short_description": "Representing Colorado's unions and working class",
+            "issues": [
+                "Labor"
+            ],
+            "url": "https://t.co/ivZOJ353Ib"
         },
         {
             "slug": "alphabet-workers-union",
@@ -48,7 +64,8 @@
             "short_description": "Union for workers of Alphabet corporation, members of CWA Local 9009",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/6DVSrdMAga"
         },
         {
             "slug": "amazon-labor-union",
@@ -60,7 +77,8 @@
             "short_description": "A worker-led movement to put power back in the hands of Amazon employees and establish our right to negotiate for a bett",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/N1HEYlkwOF"
         },
         {
             "slug": "amazon-workers-international",
@@ -72,7 +90,21 @@
             "short_description": "We are workers at Amazon in different countries. We think, we must go beyond borders to beat Amazon! Do you share this? ",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/BprO9584HH"
+        },
+        {
+            "slug": "brandworkers",
+            "name": "Brandworkers",
+            "tags": [
+                "labor"
+            ],
+            "screen_name": "brandworkers",
+            "short_description": "We are Food & Brewery factory workers building a solidarity union with the IWW ✊🍩🍺 #UnionStrong @brandworkers on IG",
+            "issues": [
+                "Labor"
+            ],
+            "url": "https://t.co/Vb65kAYCxU"
         },
         {
             "slug": "brooklyn-museum-union",
@@ -84,7 +116,8 @@
             "short_description": "Local 2110 UAW",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/KhllOIeN9h"
         },
         {
             "slug": "chicago-teachers-union",
@@ -96,7 +129,8 @@
             "short_description": "AFT-IFT Local 1. 25,000+ educators dedicated to the schools Chicago students deserve. Living rent-free in education refo",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/ajSTFVOHrF"
         },
         {
             "slug": "coalition-of-immokalee-workers",
@@ -108,7 +142,8 @@
             "short_description": "The Coalition of Immokalee Workers (CIW) is a worker-based human rights organization internationally recognized for its ",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/nO6y2Ergzm"
         },
         {
             "slug": "dsa-union",
@@ -120,7 +155,8 @@
             "short_description": "The union of the staff of Democratic Socialists of America. Fighting for all workers. \n\nPart of Washington-Baltimore New",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": null
         },
         {
             "slug": "emergency-workplace-organizing-committee",
@@ -132,7 +168,8 @@
             "short_description": "Supporting all workers organize their workplace — anywhere in the country, in any sector, for any employer | A project o",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/GkALWhcjOU"
         },
         {
             "slug": "farm-labor-organizing-committee",
@@ -144,7 +181,8 @@
             "short_description": "FLOC has built a membership of thousands of migrant farmworkers by incorporating two key principles:\n\n1. Farmworkers nee",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/Ynh0bVBYsB"
         },
         {
             "slug": "fight-for-15",
@@ -156,7 +194,21 @@
             "short_description": "The Fight for $15 started with just a few hundred fast food workers in New York City, striking for $15 an hour and union",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/aUK0DiQIcL"
+        },
+        {
+            "slug": "gig-workers-rising",
+            "name": "Gig Workers Rising",
+            "tags": [
+                "labor"
+            ],
+            "screen_name": "GigWorkersRise",
+            "short_description": "Gig Workers Rising is a community of app and platform workers organizing for better wages, working conditions, and jobs.",
+            "issues": [
+                "Labor"
+            ],
+            "url": "https://t.co/W9KAoV3zxB"
         },
         {
             "slug": "good-jobs-nation",
@@ -168,35 +220,64 @@
             "short_description": "The mission of Good Jobs Nation is to hold the president and all \npoliticians – whether Democrat or Republican – account",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/UKykNbun8Q"
         },
         {
             "slug": "greater-se-mass-labor-council",
             "name": "Greater SE Massachusetts Labor Council",
             "tags": [
-                "union",
-                "labor"
+                "labor",
+                "union"
             ],
             "screen_name": "GsmLabor",
             "short_description": "The GSM Labor Council, AFL-CIO is a coalition of over 40 affiliated unions and 40,000 affiliated members across Southcoa",
             "issues": [
                 "Labor",
                 "Labor"
-            ]
+            ],
+            "url": null
+        },
+        {
+            "slug": "gritty",
+            "name": "Gritty",
+            "tags": [
+                "labor"
+            ],
+            "screen_name": "FellowGritty",
+            "short_description": "It me! Manifestation/Mascot. Not an official IWW account because they refuse to accept my dues in Philly pretzels.",
+            "issues": [
+                "Labor"
+            ],
+            "url": "https://t.co/GfoJ5tGkud"
+        },
+        {
+            "slug": "independent-drivers-guild",
+            "name": "Independent Drivers Guild",
+            "tags": [
+                "union"
+            ],
+            "screen_name": "DrivingGuild",
+            "short_description": "Independent Drivers Guild is a @MachinistsUnion affiliate of app-based drivers. We're Uber and Lyft workers united for a",
+            "issues": [
+                "Labor"
+            ],
+            "url": "https://t.co/7OKGL4QlLD"
         },
         {
             "slug": "industrial-worker",
             "name": "Industrial Worker",
             "tags": [
-                "union",
-                "labor"
+                "labor",
+                "union"
             ],
             "screen_name": "IndustrialWrkr",
             "short_description": "The official publication of @iww\r\nContact/Submit: iw@iww.org\r\nSubscribe/back issues: https://t.co/5xOqnZUSml\r\n#wobblies ",
             "issues": [
                 "Labor",
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/QDeYXs3ufY"
         },
         {
             "slug": "industrial-workers-of-the-world",
@@ -208,7 +289,8 @@
             "short_description": "The Industrial Workers of the World (IWW) is a worker-run union dedicated to direct action, industrial democracy, and un",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/GcSzafGRvV"
         },
         {
             "slug": "industrial-workers-of-the-world",
@@ -220,7 +302,21 @@
             "short_description": "The Official Twitter Page of the Industrial Workers of the World: General Headquarters",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "http://t.co/vhsg48EbTd"
+        },
+        {
+            "slug": "industrial-workers-of-the-world-pittsburgh,-pa",
+            "name": "Industrial Workers of the World - Pittsburgh, PA",
+            "tags": [
+                "union"
+            ],
+            "screen_name": "PittsburghIWW",
+            "short_description": "The IWW is a member-run union for all workers, a union dedicated to organizing on the job, in our industries and in our ",
+            "issues": [
+                "Labor"
+            ],
+            "url": "https://t.co/w2gVCAmwvH"
         },
         {
             "slug": "international-association-of-machinists",
@@ -232,7 +328,8 @@
             "short_description": "The International Association of Machinists & Aerospace Workers. 600,000 working-class heroes making North America move.",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/z1BxencRO4"
         },
         {
             "slug": "international-peoples-assembly",
@@ -244,7 +341,8 @@
             "short_description": "Network of over 200 people’s organizations, social movements, political parties and trade unions. ",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/17fr77YFnc"
         },
         {
             "slug": "iww-albuquerque-nm",
@@ -256,7 +354,8 @@
             "short_description": "The working class and the employing class have nothing in common. Serio, bro!",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/2L1z8pm9le"
         },
         {
             "slug": "iww-baltimore-md",
@@ -268,7 +367,8 @@
             "short_description": "The Baltimore General Membership Branch of the Industrial Workers of the World (IWW), a democratic labor union for all w",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": null
         },
         {
             "slug": "iww-cleveland-oh",
@@ -280,7 +380,8 @@
             "short_description": "The @IWW is a revolutionary, democratic, rank-and-file union for all workers. CLE GMB account is maintained by @tribe_xx",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/GLmtGRPmuL"
         },
         {
             "slug": "iww-incarcerated-workers-organizing-committee",
@@ -292,7 +393,8 @@
             "short_description": "We are the Incarcerated Workers Organizing Committee - an abolitionist, inside-outside network aiding prisoners in organ",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/JM0wWCjxfb"
         },
         {
             "slug": "iww-research",
@@ -304,7 +406,8 @@
             "short_description": "The Survey & Research Committee of the Industrial Workers of the World.",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": null
         },
         {
             "slug": "jobs-with-justice",
@@ -316,7 +419,8 @@
             "short_description": "Fighting for workers' rights and an economy that works for everyone.",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/ufG6bRVw0f"
         },
         {
             "slug": "labor-campaign-for-single-payer-health-care",
@@ -328,7 +432,8 @@
             "short_description": "The national coalition of unions demanding healthcare that works for all. Join the movement! #MedicareForAll #singlepaye",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/tAKC7eap80"
         },
         {
             "slug": "laborlab",
@@ -340,7 +445,8 @@
             "short_description": "Research, reporting, and advocacy in the service of protecting the right to unionize.",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/JQaKDOzNx6"
         },
         {
             "slug": "labor-notes",
@@ -352,7 +458,8 @@
             "short_description": "Monthly publication covering the labor movement",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "http://t.co/AZdQba3Xco"
         },
         {
             "slug": "laborvoices-inc",
@@ -364,7 +471,8 @@
             "short_description": "For a status update see https://t.co/yJg4iIggxy",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/yJg4iIggxy"
         },
         {
             "slug": "labour-start",
@@ -376,7 +484,8 @@
             "short_description": "'Where trade unionists start their day on the net'\nNews & campaigning website of the international labour movement",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/RMYo2gOGZe"
         },
         {
             "slug": "laundry-workers-center",
@@ -388,7 +497,8 @@
             "short_description": "LWC addresses the need for community-based leadership development, improving the living & working conditions of workers ",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "http://t.co/mI1igmYzfr"
         },
         {
             "slug": "left-labor-project",
@@ -400,7 +510,8 @@
             "short_description": "NYC Labor activists getting together for workers' rights and a peaceful, sustainable, democratic future! #1u #p2",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "http://t.co/D6rAzafSZs"
         },
         {
             "slug": "living-wage-hawaii",
@@ -412,7 +523,8 @@
             "short_description": "Securing a future where all Hawaii workers can afford their basic needs.",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/Xv3BwMUQdT"
         },
         {
             "slug": "missouri-workers-center",
@@ -424,7 +536,8 @@
             "short_description": "We are low-wage workers, Black, white and brown, urban and rural standing together across the state of Missouri to fight",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": null
         },
         {
             "slug": "national-domestic-workers-alliance",
@@ -436,35 +549,38 @@
             "short_description": "NDWA works for the respect, recognition, and inclusion in labor protections for domestic workers. The national alliance ",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/4h0pZMhvP8"
         },
         {
             "slug": "national-labor-relations-board-union",
             "name": "National Labor Relations Board Union",
             "tags": [
-                "union",
-                "labor"
+                "labor",
+                "union"
             ],
             "screen_name": "TheNLRBU",
             "short_description": "Repping the NLRB rank-and-file since 1936. Advocating for those few civil servants who protect the public's right to org",
             "issues": [
                 "Labor",
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/RQX7z87iqK"
         },
         {
             "slug": "national-nurses-united",
             "name": "National Nurses United",
             "tags": [
-                "labor",
-                "union"
+                "union",
+                "labor"
             ],
             "screen_name": "NationalNurses",
             "short_description": "National Nurses United: The largest RN union in U.S. history, with nearly 225,000 nurses nationwide. Executive Director ",
             "issues": [
                 "Labor",
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/ARKm2GWuMS"
         },
         {
             "slug": "new-york-taxi-workers-alliance",
@@ -476,7 +592,8 @@
             "short_description": "Founded in 1998, the New York Taxi Workers Alliance (NYTWA) is the 21,000-member strong union of NYC yellow cab, green c",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "http://t.co/EjmuryIKFI"
         },
         {
             "slug": "new-york-times-guild",
@@ -488,7 +605,21 @@
             "short_description": "We are the union of over 1,400 media workers at The New York Times.\nnyguild.org",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/hxhVXoiMho"
+        },
+        {
+            "slug": "organizing-work",
+            "name": "Organizing Work",
+            "tags": [
+                "labor"
+            ],
+            "screen_name": "OrganizingWork",
+            "short_description": "Twitter account for the website https://t.co/JMnnG6H6MZ, which looks at the nuts and bolts of organizing and debates uni",
+            "issues": [
+                "Labor"
+            ],
+            "url": "https://t.co/X4XbmRRQsx"
         },
         {
             "slug": "partnership-for-working-families",
@@ -500,7 +631,34 @@
             "short_description": "Our network is building people power in cities across the US to transform our country into one rooted in liberation, abu",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/wV96eh8uAE"
+        },
+        {
+            "slug": "payday-report",
+            "name": "Payday Report",
+            "tags": [
+                "labor"
+            ],
+            "screen_name": "PaydayReport",
+            "short_description": "Covering Labor in News Deserts. Founded by @MikeElk & crowdfunded by thousands of readers",
+            "issues": [
+                "Labor"
+            ],
+            "url": "https://t.co/MISNyWWDJF"
+        },
+        {
+            "slug": "pcun",
+            "name": "PCUN",
+            "tags": [
+                "union"
+            ],
+            "screen_name": "PCUN",
+            "short_description": "Pineros Y Campesinos Unidos del Noroeste\r\n\r\nLocated in Woodburn, OR\r\n30+ years fighting for social justice\r\n\r\nLa Union h",
+            "issues": [
+                "Labor"
+            ],
+            "url": "http://t.co/AvJlLwheX7"
         },
         {
             "slug": "philly-workers-for-dignity",
@@ -512,7 +670,8 @@
             "short_description": "We're workers in Philly coming together to win dignity on the job. Get in touch with us here or leave us a message at (4",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/6SONbTwAT0"
         },
         {
             "slug": "pro-labor-alliance",
@@ -524,7 +683,8 @@
             "short_description": "Pro Labor Alliance Inc. supports organized labor & its members through education, organizing, & member actions, 2 preser",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": null
         },
         {
             "slug": "railroad-workers-united",
@@ -536,7 +696,21 @@
             "short_description": "RWU is an inter-union, cross-craft solidarity \"caucus\" of railroad workers from all crafts, all carriers, and all unions",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/dDYupK5ieS"
+        },
+        {
+            "slug": "raise-up-for-15",
+            "name": "NC Raise Up",
+            "tags": [
+                "fight-for-fifteen"
+            ],
+            "screen_name": "RaiseUptheSouth",
+            "short_description": "We’re building our union for service workers across the South by any means necessary. Press please DM. #OrganizetheSouth",
+            "issues": [
+                "Labor"
+            ],
+            "url": "https://t.co/7S84czwoOU"
         },
         {
             "slug": "rank-and-file-project",
@@ -548,7 +722,8 @@
             "short_description": "We are recruiting, educating, and supporting a new generation of activists who will join the fight for working class pow",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/gmzq2tMaXS"
         },
         {
             "slug": "roc-united",
@@ -560,7 +735,8 @@
             "short_description": "We're a national restaurant worker rights' group. To get involved, DM us or text ROC to 40817.",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/CZ4xn9BQ2Q"
         },
         {
             "slug": "roc-united-new-york-ny",
@@ -572,21 +748,23 @@
             "short_description": "a nonprofit organization fighting to improve working conditions for new york's restaurant workers",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/U3ml42ReAB"
         },
         {
             "slug": "save-ohio-higher-ed",
             "name": "Save Ohio Higher Ed",
             "tags": [
-                "labor",
-                "union"
+                "union",
+                "labor"
             ],
             "screen_name": "saveohiohigher1",
             "short_description": "Save Ohio Higher Ed (SOHE) is a coalition of AAUP faculty and students in Ohio. We seek to protect higher education as a",
             "issues": [
                 "Labor",
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/64jIDgORj0"
         },
         {
             "slug": "secure-jobs-nyc",
@@ -598,7 +776,8 @@
             "short_description": "We're a coalition of workers, organizers, and unions fighting to pass the Secure Jobs Act Intro 837 + #EndUnjustFirings ",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/BeUHPNlhRb"
         },
         {
             "slug": "solidarity-center",
@@ -610,7 +789,21 @@
             "short_description": "Promoting worker rights and just economic development worldwide.",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/gHocb9XzfF"
+        },
+        {
+            "slug": "strikewave",
+            "name": "Strikewave",
+            "tags": [
+                "labor"
+            ],
+            "screen_name": "strikewave",
+            "short_description": "@strikewave is a publication bringing you the latest in worker struggle. Pitch us at news@thestrikewave.com. Get our new",
+            "issues": [
+                "Labor"
+            ],
+            "url": "https://t.co/FXULC0yEKS"
         },
         {
             "slug": "trader-joes-united",
@@ -624,7 +817,8 @@
             "issues": [
                 "Labor",
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/hXvGrL4boE"
         },
         {
             "slug": "union-base",
@@ -636,7 +830,8 @@
             "short_description": "Visit UnionBase to keep up with what’s happening in the labor movement including bargaining, strikes, actions and organi",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/ZzAuEeJUdm"
         },
         {
             "slug": "union-musicians-allied-workers",
@@ -648,7 +843,8 @@
             "short_description": "United Musicians and Allied Workers (UMAW). Join us!",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/yOTcsccUvO"
         },
         {
             "slug": "unite-all-workers-for-democracy-uaw",
@@ -662,7 +858,8 @@
             "issues": [
                 "Labor",
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/cMxVHDhond"
         },
         {
             "slug": "united-auto-workers",
@@ -672,11 +869,12 @@
                 "labor"
             ],
             "screen_name": "UAW",
-            "short_description": "The International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW) | feedback@uaw",
+            "short_description": "The International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW) | Email: feedb",
             "issues": [
                 "Labor",
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/HDCDrRjQPE"
         },
         {
             "slug": "united-mine-workers",
@@ -688,7 +886,8 @@
             "short_description": "The official Twitter page of the United Mine Workers of America",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/Abx9zwQcFM"
         },
         {
             "slug": "venceremos-arkansas",
@@ -700,7 +899,8 @@
             "short_description": "Venceremos is a worker-based organization in Arkansas whose mission is to ensure the human rights of poultry workers. Pr",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/SRF4HtOH3Y"
         },
         {
             "slug": "warehouse-workers",
@@ -712,7 +912,8 @@
             "short_description": "Warehouse Worker Resource Center is dedicated to empowering logistics sector workers in Southern California through educ",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/KWFHwh6b96"
         },
         {
             "slug": "washington-baltimore-news-guild",
@@ -724,7 +925,8 @@
             "short_description": "The union for more than 3,000 news, information and non-profit employees in the mid-Atlantic and beyond. Part of @newsgu",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/uCMZ658y8O"
         },
         {
             "slug": "western-mass-area-labor-federation",
@@ -736,7 +938,8 @@
             "short_description": "We're a coalition of local unions from across Western Mass dedicated to building power and a better world for the workin",
             "issues": [
                 "Labor"
-            ]
+            ],
+            "url": "https://t.co/Q8biv45Jdb"
         }
     ]
 }

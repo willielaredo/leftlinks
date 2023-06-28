@@ -10,7 +10,8 @@
             "short_description": "ALC is a nonprofit law firm fighting to defend prisoners and abolitionists, and a community organizing project aiming to",
             "issues": [
                 "Abolition"
-            ]
+            ],
+            "url": "https://t.co/nQKWiBHYI1"
         },
         {
             "slug": "critical-resistance",
@@ -22,7 +23,8 @@
             "short_description": "A US-based, national grassroots organization working to build an international movement to abolish the prison industrial",
             "issues": [
                 "Abolition"
-            ]
+            ],
+            "url": "https://t.co/yIMpz5z3VT"
         },
         {
             "slug": "decriminalize-seattle-coalition",
@@ -34,7 +36,8 @@
             "short_description": "We are a BIPOC-led coalition that builds power in Seattle to invest in pro-community, pro-people initiatives & divest fr",
             "issues": [
                 "Abolition"
-            ]
+            ],
+            "url": null
         },
         {
             "slug": "defund-sfpd-now",
@@ -48,7 +51,21 @@
             "issues": [
                 "Abolition",
                 "Abolition"
-            ]
+            ],
+            "url": "https://t.co/pCrCZerMUc"
+        },
+        {
+            "slug": "nyc-books-through-bars",
+            "name": "NYC Books Through Bars",
+            "tags": [
+                "abolition"
+            ],
+            "screen_name": "BtBsNYC",
+            "short_description": "Volunteers sending donated, radical books to people in prisons in 40 states. 🕊💕📚 Currently, we are not hosting volunteer",
+            "issues": [
+                "Abolition"
+            ],
+            "url": "https://t.co/yYKJhOLjV5"
         },
         {
             "slug": "revolutionary-abolitionist-movement",
@@ -60,7 +77,8 @@
             "short_description": "The Revolutionary Abolitionist Movement is a political movement dedicated to freeing people from bondage and building re",
             "issues": [
                 "Abolition"
-            ]
+            ],
+            "url": "https://t.co/dp0ggU7ArW"
         },
         {
             "slug": "revolutionary-abolitionist-movement",
@@ -72,7 +90,8 @@
             "short_description": "The Revolutionary Abolitionist Movement is a political movement dedicated to freeing people from bondage and building re",
             "issues": [
                 "Abolition"
-            ]
+            ],
+            "url": "https://t.co/06KTofn7W8"
         }
     ]
 }

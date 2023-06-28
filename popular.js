@@ -12,10 +12,12 @@ fetch('./popular.json')
             const count = obj.count
             const increase = obj.increase
             const percent = obj.percent
+            const url = obj.url
+            const screen_name = obj.screen_name
             const popular_link = document.createElement("tr")
             // issue.classList.add("issue")
             popular_link.innerHTML = 
-                '<td>' + name + '</td><td class="align-right">' + count + '</td><td>' + percent + '% (+' + increase + ')</td>'
+                '<td><a href="' + url + '">' + name + '</a></td><td class="align-right"><a href="https://twitter.com/' + screen_name + '">' + count + '</a></td><td>' + percent + '% (+' + increase + ')</td>'
                     // .replaceAll(',', '</div><div>') + '</div>
             document.getElementById('popular_links').appendChild(popular_link)
         }

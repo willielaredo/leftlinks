@@ -65,7 +65,8 @@ nav li {
 }
 
 .top-nav li a,
-.sub-nav li a {
+.sub-nav li a,
+.links-container a {
     text-decoration: none;
     color: inherit
 }
@@ -149,7 +150,44 @@ article p {
 
 .content {
     font-size: .95em;
-    padding-bottom: 8px;
+    padding-bottom: 15px;
+}
+
+.tags {
+    margin-bottom: 15px;
+}
+
+.links-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    height: 3em;
+}
+
+.links-container a {
+    padding: 15px;
+}
+
+.links-container a:first-child {
+    /* padding: 15px; */
+    border-right: 1px solid #9999
+}
+
+.links-container a:hover {
+    background-color: #dae4ff;
+}
+
+.links {
+    text-align: center;
+}
+
+
+
+.w-5,
+.h-5 {
+    width: 1.25rem;
+    height: 1.25rem;
 }
 
 .tag {

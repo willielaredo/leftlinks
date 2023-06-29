@@ -248,3 +248,19 @@ article p {
 .align-right {
     text-align: right;
 }
+
+@media (max-width: 1100px) {
+    .nav-2 {
+        display: none;
+    }
+}
+
+@media (max-width: 450px) {
+    nav li:not(:first-child) {
+        display: none;
+    }
+
+    span.header-details {
+        display: none;
+    }
+}

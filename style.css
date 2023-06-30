@@ -9,7 +9,8 @@
 body {
     font-family: 'Rubik', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, apple color emoji, segoe ui emoji, Segoe UI Symbol, noto color emoji;
     background-color: #eaeff1;
-    padding: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 header {
@@ -22,28 +23,16 @@ header {
 }
 
 header nav {
-    padding-bottom: 15px;
+    padding-bottom: 50px;
+    padding-top: 25px;
 }
 
 header nav ol {
     padding-left: 25px;
 }
 
-
-.search {
-    font-size: 1.5em;
-}
-
-.search input {
-    font-size: .8em;
-    padding-left: 5px;
-}
-
 nav {
     padding: 0;
-    /* vertical-align: middle; */
-    height: 100px;
-    line-height: 100px;
 }
 
 nav img {
@@ -61,7 +50,6 @@ nav ol {
 nav li {
     display: inline-block;
     padding-right: 15px;
-    vertical-align: middle;
 }
 
 .top-nav li a,
@@ -71,7 +59,6 @@ nav li {
     color: inherit
 }
 
-.search,
 .sub-nav {
     height: 40px;
     display: flex;
@@ -249,14 +236,26 @@ article p {
     text-align: right;
 }
 
+
+.is-hidden {
+    display: none;
+}
+
 @media (max-width: 1100px) {
     .nav-2 {
         display: none;
     }
 }
 
-@media (max-width: 450px) {
-    nav li:not(:first-child) {
+@media (max-width: 740px) {
+    .search {
+        display: block;
+        padding-top: 30px;
+    }
+}
+
+@media (max-width: 482px) {
+    nav li:not(:first-child):not(:last-child) {
         display: none;
     }
 

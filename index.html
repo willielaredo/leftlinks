@@ -27,9 +27,9 @@
                  <label for="searchbox">Search</label>
                 <input 
                 type="search" 
-                oninput="liveSearch()" 
                 id="searchbox" 
                 >
+                <button onclick="liveSearch()">Search</button>
             </li>
         </ol>
        
@@ -182,14 +182,14 @@
   }
 }
 
-let typingTimer;        
-let typeInterval = 500; // Half a second
-let searchInput = document.getElementById('searchbox');
+// let typingTimer;        
+// let typeInterval = 500; // Half a second
+// let searchInput = document.getElementById('searchbox');
 
-searchInput.addEventListener('keyup', () => {
-  clearTimeout(typingTimer);
-  typingTimer = setTimeout(liveSearch, typeInterval);
-});
+// searchInput.addEventListener('keyup', () => {
+//   clearTimeout(typingTimer);
+//   typingTimer = setTimeout(liveSearch, typeInterval);
+// });
     </script>
 </body>
 </html>

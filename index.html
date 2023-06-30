@@ -9,7 +9,7 @@
           href="https://fonts.googleapis.com/css2?family=Rubik&family=Lato">
     
 </head>
-<body>
+<body id="load">
     <header>
         <nav>
         <a href="/"><img src="img/logo.png" width="100"></a>
@@ -182,14 +182,18 @@
   }
 }
 
-// let typingTimer;        
-// let typeInterval = 500; // Half a second
-// let searchInput = document.getElementById('searchbox');
-
-// searchInput.addEventListener('keyup', () => {
-//   clearTimeout(typingTimer);
-//   typingTimer = setTimeout(liveSearch, typeInterval);
-// });
+// document.onreadystatechange = function () {
+//   var state = document.readyState
+//   if (state == 'interactive') {
+//        document.getElementById('cards').style.visibility="hidden";
+//   } else if (state == 'complete') {
+//       setTimeout(function(){
+//          document.getElementById('interactive');
+//          document.getElementById('load').style.visibility="hidden";
+//          document.getElementById('contents').style.visibility="visible";
+//       },1000);
+//   }
+// }
     </script>
 </body>
 </html>

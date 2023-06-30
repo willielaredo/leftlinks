@@ -13,6 +13,14 @@ body {
     padding-right: 15px;
 }
 
+/* #load {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 9999;
+    background: url("https://i.stack.imgur.com/pHHzT.gif") no-repeat center center rgba(0, 0, 0, 0.25)
+} */
+
 header {
     background-color: #eaeff1;
     position: sticky;

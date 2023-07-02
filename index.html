@@ -51,28 +51,28 @@
         <nav class="sub-nav">
             <ol>
                 <li>
-                    <a href="abolition.html">Abolition</a>
+                    <a href="/?tag=abolition">Abolition</a>
                 </li>
                 <li>
-                    <a href="socialist-feminism.html">Feminism</a>
+                    <a href="/?tag=feminist">Feminism</a>
                 </li>
                 <li>
-                    <a href="housing.html">Housing</a>
+                    <a href="/?tag=housing">Housing</a>
                 </li>
                 <li>
-                    <a href="international.html">Internationalist</a>
+                    <a href="/?tag=international">Internationalist</a>
                 </li>
                 <li>
-                    <a href="ecosocialism.html">Ecosocialism</a>
+                    <a href="/?tag=ecosocialism">Ecosocialism</a>
                 </li>
                 <li>
-                    <a href="immigration.html">Immigration</a>
+                    <a href="/?tag=immigration">Immigration</a>
                 </li>
                 <li>
-                    <a href="health-justice.html">Health Justice</a>
+                    <a href="/?tag=health-justice">Health Justice</a>
                 </li>
                 <li>
-                    <a href="labor.html">Labor</a>
+                    <a href="/?tag=labor">Labor</a>
                 </li>
             </ol>
         </nav>
@@ -148,8 +148,9 @@
             </fieldset>
         </div>-->
     </div> 
-    
+    <h2 class="filter-context"></h2>
     <div id="cards">
+        
         <!-- <article class="card">
             <header>
                 <h2>United Electrical Workers (UE)</h2>
@@ -164,24 +165,26 @@
     <script type="module" src="js.js"></script>
     <script>
         function liveSearch() {
-  // Locate the card elements
-  let cards = document.querySelectorAll('.card')
-  // Locate the search input
-  let search_query = document.getElementById("searchbox").value;
-  // Loop through the cards
-  for (var i = 0; i < cards.length; i++) {
-    // If the text is within the card...
-    if(cards[i].innerText.toLowerCase()
-      // ...and the text matches the search query...
-      .includes(search_query.toLowerCase())) {
-        // ...remove the `.is-hidden` class.
-        cards[i].classList.remove("is-hidden");
-    } else {
-      // Otherwise, add the class.
-      cards[i].classList.add("is-hidden");
-    }
-  }
-}
+            // Locate the card elements
+            let cards = document.querySelectorAll('.card')
+            let titles = document.querySelectorAll('.card-title')
+            // Locate the search input
+            let search_query = document.getElementById("searchbox").value;
+            // Loop through the cards
+            for (var i = 0; i < cards.length; i++) {
+                // If the text is within the card...
+                if(titles[i].innerText.toLowerCase()
+                // ...and the text matches the search query...
+                .includes(search_query.toLowerCase())) {
+                    // ...remove the `.is-hidden` class.
+                    cards[i].classList.remove("is-hidden");
+                } else {
+                // Otherwise, add the class.
+                cards[i].classList.add("is-hidden");
+                }
+            }
+        }
+
 
 // document.onreadystatechange = function () {
 //   var state = document.readyState

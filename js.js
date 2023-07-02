@@ -37,4 +37,27 @@ fetch('./orgs.json')
                     // .replaceAll(',', '</div><div>') + '</div>
             document.getElementById('cards').appendChild(card)
         }
+        
+        function filterCards() {
+            var params = new Proxy(new URLSearchParams(window.location.search), {
+            get: (searchParams, prop) => searchParams.get(prop),
+            });
+            var tag = params.tag;
+            let orgs = document.querySelectorAll('.card')
+            let tags = document.querySelectorAll('.tags')
+            
+            for (var i = 0; i < orgs.length; i++) {
+                // If the text is within the tags... 
+                if(tags[i].innerText.toLowerCase()
+                // ...and the text matches the url parameter...
+                .includes(tag.toLowerCase())) {
+                    // ...remove the `.is-hidden` class.
+                    orgs[i].classList.remove("is-hidden");
+                } else {
+                // Otherwise, add the class.
+                orgs[i].classList.add("is-hidden");
+                }
+            }
+            }
+            filterCards()
     });

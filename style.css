@@ -255,10 +255,14 @@ article p {
     }
 }
 
-@media (max-width: 740px) {
-    .search {
+@media (max-width: 750px) {
+    /* .search {
         display: block;
         padding-top: 30px;
+    } */
+
+    li.search {
+        display: none;
     }
 }
 

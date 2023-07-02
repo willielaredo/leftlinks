@@ -271,9 +271,7 @@ article p {
         display: none;
     }
 
-    span.header-details,
-    img,
-    .card-image {
+    span.header-details {
         display: none;
     }
 

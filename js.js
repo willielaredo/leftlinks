@@ -32,11 +32,40 @@ fetch('./orgs.json')
             const profile_tags_str = profile_tags.toString()
             const card = document.createElement("article")
             card.classList.add("card")
-            card.innerHTML = 
-                '<div><h2 class="card-title">' + name + '</h2></div> <div class="card-image"><img src="./images/twit_pics/' + screen_name + '.jpeg" /></div> <div class="content"><p>' + description + '</p></div> <div class="tags"><div class="tag">' + profile_tags_str.replaceAll(",",'</div><div class="tag">') + '</div> </div><div class="links-container"> <a href="' + url + '"><div class="links"> <i class="fa-light fa-arrow-up-right-from-square"></i>Website </div></a> <a href="https://twitter.com/' + screen_name + '"</a><div class="links"> Twitter </div> </div>'
-                    // .replaceAll(',', '</div><div>') + '</div>
+            const nameDiv = document.createElement("div")
+            const imgDiv = document.createElement("div")
+            const descDiv = document.createElement("div")
+            const tagsDiv = document.createElement("div")
+            const linksDiv = document.createElement("div")
+            const websiteDiv = document.createElement("div")
+            const twitterDiv = document.createElement("div")
+            const newh2 = document.createElement("h2")
+            const newimg = document.createElement("img")
+            const website = document.createElement("a")
+            const twitter = document.createElement("a")
+            const newP = document.createElement("p")
+            card.append(nameDiv, imgDiv, descDiv, tagsDiv, linksDiv)
+            tagsDiv.classList.add("tags")
+            nameDiv.appendChild(newh2).textContent += name
+            newh2.classList.add("card-title")
+            imgDiv.appendChild(newimg)
+            imgDiv.classList.add("card-image")
+            newimg.setAttribute("src", "./images/twit_pics/" + screen_name + ".jpeg")
+            descDiv.appendChild(newP).textContent += description
+            descDiv.classList.add("content")
+            linksDiv.append(website, twitter)
+            linksDiv.classList.add("links-container")
+            website.setAttribute("href", url)
+            website.appendChild(websiteDiv).textContent += "Website"
+            websiteDiv.classList.add("links")
+            twitter.appendChild(twitterDiv).textContent += "Twitter"
+            twitter.setAttribute("href", "https://twitter.com/" + screen_name)
+            twitterDiv.classList.add("links")
+            profile_tags.forEach(element => {
+                tagsDiv.innerHTML += '<a href="/?tag=' + element + '"><div class="tag">' + element + '</div></a>'
+            })
             document.getElementById('cards').appendChild(card)
-        }
+         }
         
         function filterCards() {
             var params = new Proxy(new URLSearchParams(window.location.search), {
@@ -59,5 +88,5 @@ fetch('./orgs.json')
                 }
             }
             }
-            filterCards()
+        filterCards()
     });

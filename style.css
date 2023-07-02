@@ -202,6 +202,8 @@ article p {
 
 #issues {
     padding-top: 15px;
+    column-count: 4;
+    column-gap: 20px;
 }
 
 .issue {
@@ -253,13 +255,22 @@ article p {
     .nav-2 {
         display: none;
     }
+
+    #issues {
+        column-count: 3;
+    }
+
 }
 
 @media (max-width: 750px) {
+
     /* .search {
         display: block;
         padding-top: 30px;
     } */
+    #issues {
+        column-count: 2;
+    }
 
     li.search {
         display: none;
@@ -281,5 +292,9 @@ article p {
 
     h2 {
         margin-bottom: 10px
+    }
+
+    #issues {
+        column-count: auto;
     }
 }

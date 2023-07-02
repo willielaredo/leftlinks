@@ -271,7 +271,17 @@ article p {
         display: none;
     }
 
-    span.header-details {
+    span.header-details,
+    img,
+    .card-image {
         display: none;
+    }
+
+    .card {
+        grid-template-rows: none;
+    }
+
+    h2 {
+        margin-bottom: 10px
     }
 }

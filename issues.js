@@ -1,5 +1,3 @@
-
-// create cards
 fetch('./issues.json')
     .then((response) => response.json())
     .then((json) => {
@@ -12,7 +10,7 @@ fetch('./issues.json')
             const issue = document.createElement("div")
             issue.classList.add("issue")
             issue.innerHTML = 
-                '<a href="'+ issue_name.toLowerCase().replace(' ','-') + '.html"><h2>' + issue_name + ' (' + issue_count + ')</h2></a>'
+                '<a href="'+ issue_name.toLowerCase().replace(' ','-') + '.html"><h3>' + issue_name + ' (' + issue_count + ')</h3></a>'
                     // .replaceAll(',', '</div><div>') + '</div>
             document.getElementById('issues').appendChild(issue)
         }

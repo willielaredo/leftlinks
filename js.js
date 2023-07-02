@@ -62,7 +62,7 @@ fetch('./orgs.json')
             twitter.setAttribute("href", "https://twitter.com/" + screen_name)
             twitterDiv.classList.add("links")
             profile_tags.forEach(element => {
-                tagsDiv.innerHTML += '<a href="/?tag=' + element + '"><div class="tag">' + element + '</div></a>'
+                if (element) { tagsDiv.innerHTML += '<a href="/?tag=' + element + '"><div class="tag">' + element + '</div></a>' }
             })
             document.getElementById('cards').appendChild(card)
          }

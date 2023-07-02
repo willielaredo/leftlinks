@@ -256,14 +256,14 @@ article p {
 }
 
 @media (max-width: 750px) {
-    /* .search {
+    .search {
         display: block;
         padding-top: 30px;
-    } */
-
-    li.search {
-        display: none;
     }
+
+    /* li.search {
+        display: none;
+    } */
 }
 
 @media (max-width: 482px) {

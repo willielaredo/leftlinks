@@ -32,6 +32,7 @@ fetch('./orgs.json')
             const profile_tags_str = profile_tags.toString()
             const card = document.createElement("article")
             card.classList.add("card")
+            if (profile_tags) { card.classList.add(...profile_tags) }
             const nameDiv = document.createElement("div")
             const imgDiv = document.createElement("div")
             const descDiv = document.createElement("div")
@@ -72,21 +73,32 @@ fetch('./orgs.json')
             get: (searchParams, prop) => searchParams.get(prop),
             });
             var tag = params.tag;
-            let orgs = document.querySelectorAll('.card')
-            let tags = document.querySelectorAll('.tags')
-            
-            for (var i = 0; i < orgs.length; i++) {
-                // If the text is within the tags... 
-                if(tags[i].innerText.toLowerCase()
-                // ...and the text matches the url parameter...
-                .includes(tag.toLowerCase())) {
-                    // ...remove the `.is-hidden` class.
-                    orgs[i].classList.remove("is-hidden");
-                } else {
-                // Otherwise, add the class.
-                orgs[i].classList.add("is-hidden");
-                }
+            console.log(tag)
+            // let orgs = document.querySelectorAll('.card')
+            // let tags = document.querySelectorAll('.tags')
+            if (tag) {
+                const matching = document.getElementsByClassName(tag)
+                for (let match of matching) { match.classList.remove("is-hidden") }
+                const not_matching = document.querySelectorAll("article:not(." + CSS.escape(tag) + ")")
+                for (let not_match of not_matching) { not_match.classList.add("is-hidden") }
             }
+            else {
+                const all_articles = getElementsByClassName("card")
+                for (let article in all_articles) {article.classList.remove("is-hidden")}
+            }
+            // not_matching.classList.add("is-hidden")
+            // for (var i = 0; i < orgs.length; i++) {
+            //     // If the text is within the tags... 
+            //     if(tags[i].innerText.toLowerCase()
+            //     // ...and the text matches the url parameter...
+            //     .includes(tag.toLowerCase())) {
+            //         // ...remove the `.is-hidden` class.
+            //         orgs[i].classList.remove("is-hidden");
+            //     } else {
+            //     // Otherwise, add the class.
+            //     orgs[i].classList.add("is-hidden");
+            //     }
+            // }
             }
         filterCards()
     });

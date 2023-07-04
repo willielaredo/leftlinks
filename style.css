@@ -31,8 +31,8 @@ header {
 }
 
 header nav {
-    padding-bottom: 50px;
-    padding-top: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 header nav ol {
@@ -46,6 +46,7 @@ nav {
 nav img {
     display: inline;
     vertical-align: middle;
+    width: 300px;
 }
 
 nav ol {
@@ -252,7 +253,9 @@ article p {
 }
 
 @media (max-width: 1100px) {
-    .nav-2 {
+
+    .nav-2,
+    li.search {
         display: none;
     }
 
@@ -272,9 +275,6 @@ article p {
         column-count: 2;
     }
 
-    li.search {
-        display: none;
-    }
 }
 
 @media (max-width: 482px) {

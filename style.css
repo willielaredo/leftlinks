@@ -30,6 +30,10 @@ header {
 
 }
 
+.header-text {
+    margin-bottom: 15px;
+}
+
 header nav {
     padding-bottom: 10px;
     padding-top: 10px;

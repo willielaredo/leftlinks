@@ -20,7 +20,6 @@ fetch('./orgs.json')
         const countSpan = document.getElementById("count");
         const newText = document.createTextNode(arr.length);
         countSpan.appendChild(newText)
-
         for (var i = 0; i < arr.length; i++) {
             var obj = arr[i];
             const name = obj.name
@@ -99,6 +98,38 @@ fetch('./orgs.json')
             //     orgs[i].classList.add("is-hidden");
             //     }
             // }
+        }
+        const search_input = document.getElementById('org_input')
+        const org_list = document.getElementById('org_results')
+        const results_div = document.getElementById('cards')
+        // get matches to current text input
+        function searchOrgs(searchText) {
+            let matches = arr.filter(org => {
+                const regex = new RegExp(`^${searchText}`, 'gi');
+                return org.name.match(regex)
+                
+            });
+            
+            if (searchText.length === 0) {
+                matches = [];
+                org_list.innerHTML = '';
+                results_div.classList.remove('is-hidden');
+
+            };
+            outputHTML(matches);
+        };
+        
+        const outputHTML = matches => {
+            if (matches.length > 0) {
+                const html = matches.map(match => 
+                    `<div class="org_search_result"> <h4>${match.name}</h4></div>`
+                ).join('');
+
+                org_list.innerHTML = html;
+                results_div.classList.add('is-hidden');
             }
+        }
+
+        search_input.addEventListener('input', () => searchOrgs(search_input.value))
         filterCards()
     });

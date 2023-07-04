@@ -251,10 +251,10 @@ article p {
     display: none;
 }
 
+
 @media (max-width: 1100px) {
 
-    .nav-2,
-    li.search {
+    .nav-2 {
         display: none;
     }
 
@@ -266,10 +266,6 @@ article p {
 
 @media (max-width: 750px) {
 
-    /* .search {
-        display: block;
-        padding-top: 30px;
-    } */
     #issues {
         column-count: 2;
     }
@@ -277,9 +273,9 @@ article p {
 }
 
 @media (max-width: 482px) {
-    nav li:not(:first-child) {
+    /* nav li:not(:first-child) {
         display: none;
-    }
+    } */
 
     span.header-details {
         display: none;

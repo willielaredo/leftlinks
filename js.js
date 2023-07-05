@@ -76,6 +76,7 @@ fetch('./orgs.json')
             }
             console.log(tag_list)
             const unique_tags = tag_list.filter((value, index, array) => array.indexOf(value) === index);
+            issues_list.innerHTML = ''
             unique_tags.sort().forEach((tag) => {
                 const issue = document.createElement("div")
                 issue.classList.add("issue")
@@ -152,9 +153,9 @@ fetch('./orgs.json')
         }
         search_input.addEventListener('input', () => searchOrgs(search_input.value))
         clear_search.addEventListener('click', () => {
-            search_input.value = '';
-            fetchTagsFromOrgs()
-            org_list.innerHTML = '';
+                search_input.value = '';
+                fetchTagsFromOrgs()
+                org_list.innerHTML = '';
         })
         
         

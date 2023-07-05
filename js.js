@@ -109,7 +109,7 @@ fetch('./orgs.json')
                 console.log(html)
                 issues_list.innerHTML = ''
                 org_list.innerHTML = html
-                document.getElementById('filter-context').innerHTML = 'Filtered by: #' + tag + '<span class="remove-filter"><a href="/">remove</a></span>'
+                document.getElementById('filter-context').innerHTML = '<span id="filtered-by">Filtered by: </span>#' + tag + '<span class="remove-filter"><a href="/">remove</a></span>'
             }
         }
 

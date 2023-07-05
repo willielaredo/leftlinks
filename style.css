@@ -37,6 +37,9 @@ header img {
     padding-bottom: 15px;
 }
 
+input {
+    width: 200px;
+}
 
 label,
 input {
@@ -232,6 +235,10 @@ article p {
 
     #issues {
         column-count: auto;
+    }
+
+    span#filtered-by {
+        display: none;
     }
 }
 

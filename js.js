@@ -66,9 +66,15 @@ fetch('./orgs.json')
                 var obj = arr[i];
                 const tags = obj.tags
                 if (tags) {
-                    tags.forEach((tag) => tag_list.push(tag))
-                }
+                    tags.forEach(
+                        (tag) => {
+                            if (tag !== null) {
+                                tag_list.push(tag)
+                            }
+                        }
+                )}
             }
+            console.log(tag_list)
             const unique_tags = tag_list.filter((value, index, array) => array.indexOf(value) === index);
             unique_tags.sort().forEach((tag) => {
                 const issue = document.createElement("div")
@@ -98,7 +104,7 @@ fetch('./orgs.json')
                 ).join('');
                 issues_list.innerHTML = ''
                 org_list.innerHTML = html
-                document.getElementById('filter-context').innerHTML = 'Filtered by: #' + tag + '<span class="remove-filter"><a href="/">remove filter</a></span>'
+                document.getElementById('filter-context').innerHTML = 'Filtered by: #' + tag + '<span class="remove-filter"><a href="/">remove</a></span>'
             }
         }
 

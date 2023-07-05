@@ -71,6 +71,9 @@ fetch('./orgs.json')
         //     }
         // }
         // renderAllCards();
+        
+        
+        // render all unique tags
         function fetchTagsFromOrgs() {
             const tag_list = []
             for (var i = 0; i < arr.length; i++) {
@@ -91,7 +94,7 @@ fetch('./orgs.json')
             };
         fetchTagsFromOrgs()
 
-        // render issue page
+        // render cards filtered by tag
         function filterCards() {
             var params = new Proxy(new URLSearchParams(window.location.search), {
             get: (searchParams, prop) => searchParams.get(prop),
@@ -104,12 +107,12 @@ fetch('./orgs.json')
                     }
                 }
                 const orgsFiltered = arr.filter(filterByTag)
-                console.log(orgsFiltered)
                 const html = orgsFiltered.map(match =>
                     `<article class="card"><div><h2 class="card-title">${match.name}</div><div class="card-image"><img src="./images/twit_pics/${match.screen_name}.jpeg"></div><div class="content"><p>${match.short_description}</p></div><div class="tags"></div><div class="links-container"><a href="${match.url}"><div class="links">Website</div></a><a href="https://twitter.com/${match.screen_name}"><div class="links">Twitter</div></a></div></article>`
                 ).join('');
                 issues_list.innerHTML = ''
                 org_list.innerHTML = html
+                document.getElementById('filter-context').innerHTML = 'Filtered by: #' + tag + '<span class="remove-filter"><a href="/">remove filter</a></span>'
             }
         }
 
@@ -125,8 +128,11 @@ fetch('./orgs.json')
             if (searchText.length === 0) {
                 matches = [];
                 org_list.innerHTML = '';
-                window.history.pushState({},document.title,"/")
+                window.history.replaceState({},document.title,"/")
                 fetchTagsFromOrgs()
+            }
+            else {
+                window.history.replaceState({},document.title,"/")
             };
             outputHTML(matches);
         };
@@ -139,6 +145,7 @@ fetch('./orgs.json')
                 ).join('');
                 issues_div.innerHTML = ''
                 org_list.innerHTML = html;
+                document.getElementById('filter-context').innerHTML = ''
             }
         }
         search_input.addEventListener('input', () => searchOrgs(search_input.value))

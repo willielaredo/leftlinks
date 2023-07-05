@@ -11,166 +11,24 @@
 </head>
 <body id="load">
     <header>
-        <nav>
         <a href="/"><img src="img/logo.png"></a>
-        <!-- <ol class="top-nav">
-            <li>
-                <a href="issues.html">Browse by Issues</a>
-            </li>
-            <!-- <li>
-                Recent Listings
-            </li> -->
-            <!-- <li>
-                <a href="popular.html">Popular Links</a>
-            </li> -->
-            <!-- <li class="search">
-                 <label for="searchbox">Search</label>
-                <input 
-                type="search" 
-                oninput="liveSearch()" 
-                id="searchbox" 
-                >
-                </li>
-                <button onclick="liveSearch()">Search</button>
-        </ol> -->
-       
-    </nav>
-    </header>
-    <div class="header-text">
+        <div class="header-text">
         <h1>
         Largest Left Directory <span class="header-details">with <span id="count"></span> Organizations, Movements, and Media</span>
-    </h1>
+        </h1>
     </div>
-     <div class="nav-2">
-    <!--    <div class="search">
-            <label>Search</label>
-            <input placeholder="Search Left Links">
-        </div>
-    -->
-
-        <!-- <nav class="sub-nav">
-            <ol>
-                <li>
-                    <a href="/?tag=abolition">Abolition</a>
-                </li>
-                <li>
-                    <a href="/?tag=climate">Climate</a>
-                </li>
-                <li>
-                    <a href="/?tag=feminist">Feminism</a>
-                </li>
-                <li>
-                    <a href="/?tag=housing">Housing</a>
-                </li>
-                <li>
-                    <a href="/?tag=international">Internationalist</a>
-                </li>
-                <li>
-                    <a href="/?tag=immigration">Immigration</a>
-                </li>
-                <li>
-                    <a href="/?tag=health-justice">Health Justice</a>
-                </li>
-                <li>
-                    <a href="/?tag=labor">Labor</a>
-                </li>
-                <li>
-                    <a href="/issues.html">+ MANY MORE</a>
-                </li>
-            </ol>
-        </nav> -->
-
-        <!-- <div class="filter-selector">
-            <span id="toggle-filters"><a href="#">No Filters</a></span> | Clear all
-        </div>
-        <div id="filters">
-            <fieldset>
-                <legend>
-                    Type
-                </legend>
-                <div>
-                    <input type="checkbox">
-                    <label>Podcast</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Magazine/Journal</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Party</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>YouTube Channel</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Politician</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Student Organization</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Latinx</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Platform</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Coalition</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Radio</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Union</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Film</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Research</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Anarchist</label>
-                </div>
-                <div>
-                    <input type="checkbox">
-                    <label>Black Liberation</label>
-                </div>
-            </fieldset>
-        </div>-->
-    </div> 
-    <h2 class="filter-context"></h2>
-    <div>
+   
+    <div id="search">
         <label for="org_input">Search</label>
         <input type="text" id="org_input">
     </div>
+    <h2 id="filter-context"></h2>
+    </header>
+    
+    
     <div id="org_results"></div>
     <div id="issues"></div>
-    <div id="cards">
-        
-        <!-- <article class="card">
-            <header>
-                <h2>United Electrical Workers (UE)</h2>
-            </header>
-            
-            <div class="content">
-                <p>This is the description</p>
-            </div>
-            <footer>I have a footer!</footer>
-        </article> -->
-    </div>
+    <div id="cards"></div>
     <script type="module" src="js.js"></script>
     <script>
         function liveSearch() {

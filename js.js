@@ -99,9 +99,13 @@ fetch('./orgs.json')
                     }
                 }
                 const orgsFiltered = arr.filter(filterByTag)
+                console.log(orgsFiltered)
                 const html = orgsFiltered.map(match =>
-                    `<article class="card"><div><h2 class="card-title">${match.name}</div><div class="card-image"><img src="./images/twit_pics/${match.screen_name}.jpeg"></div><div class="content"><p>${match.short_description}</p></div><div class="tags"></div><div class="links-container"><a href="${match.url}"><div class="links">Website</div></a><a href="https://twitter.com/${match.screen_name}"><div class="links">Twitter</div></a></div></article>`
+                    `<article class="card"><div><h2 class="card-title">${match.name}</div><div class="card-image"><img src="./images/twit_pics/${match.screen_name}.jpeg"></div><div class="content"><p>${match.short_description}</p></div><div class="tags">` +
+                    match.tags.map(tag => `<a href="/?tag=${tag}"><div class="tag">${tag}</div></a>`).join('')
+                    + `</div > <div class="links-container"><a href="${match.url}"><div class="links">Website</div></a><a href="https://twitter.com/${match.screen_name}"><div class="links">Twitter</div></a></div></article >`
                 ).join('');
+                console.log(html)
                 issues_list.innerHTML = ''
                 org_list.innerHTML = html
                 document.getElementById('filter-context').innerHTML = 'Filtered by: #' + tag + '<span class="remove-filter"><a href="/">remove</a></span>'
@@ -133,8 +137,13 @@ fetch('./orgs.json')
         const outputHTML = matches => {
             if (matches.length > 0) {
                 const issues_div = document.getElementById('issues')
+                console.log(matches)
                 const html = matches.map(match =>
-                    `<article class="card"><div><h2 class="card-title">${match.name}</div><div class="card-image"><img src="./images/twit_pics/${match.screen_name}.jpeg"></div><div class="content"><p>${match.short_description}</p></div><div class="tags"></div><div class="links-container"><a href="${match.url}"><div class="links">Website</div></a><a href="https://twitter.com/${match.screen_name}"><div class="links">Twitter</div></a></div></article>`
+                    `<article class="card"><div><h2 class="card-title">${match.name}</div><div class="card-image"><img src="./images/twit_pics/${match.screen_name}.jpeg"></div><div class="content"><p>${match.short_description}</p></div><div class="tags">` +
+                    match.tags.filter(tag => tag !== null ).map(tag => 
+                            `<a href="/?tag=${tag}"><div class="tag">${tag}</div></a>`
+                       ).join('')
+                    + `</div > <div class="links-container"><a href="${match.url}"><div class="links">Website</div></a><a href="https://twitter.com/${match.screen_name}"><div class="links">Twitter</div></a></div></article >`
                 ).join('');
                 issues_div.innerHTML = ''
                 org_list.innerHTML = html;

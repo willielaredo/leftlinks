@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Rubik&family=Lato">
-    
+     <script type="module" src="js.js"></script>
 </head>
 <body id="load">
     <header>
@@ -17,53 +17,15 @@
         Largest Left Directory <span class="header-details">with <span id="count"></span> Organizations, Movements, and Media</span>
         </h1>
     </div>
-   
     <div id="search">
         <label for="org_input">Search</label>
         <input type="text" id="org_input">
+        <button id="clear-search">Clear</button>
     </div>
     <h2 id="filter-context"></h2>
     </header>
-    
-    
     <div id="org_results"></div>
     <div id="issues"></div>
     <div id="cards"></div>
-    <script type="module" src="js.js"></script>
-    <script>
-        function liveSearch() {
-            // Locate the card elements
-            let cards = document.querySelectorAll('.card')
-            // Locate the search input
-            let search_query = document.getElementById("searchbox").value;
-            // Loop through the cards
-            for (var i = 0; i < cards.length; i++) {
-                // If the text is within the card...
-                if(cards[i].innerText.toLowerCase()
-                // ...and the text matches the search query...
-                .includes(search_query.toLowerCase())) {
-                    // ...remove the `.is-hidden` class.
-                    cards[i].classList.remove("is-hidden");
-                } else {
-                // Otherwise, add the class.
-                cards[i].classList.add("is-hidden");
-                }
-            }
-        }
-
-
-// document.onreadystatechange = function () {
-//   var state = document.readyState
-//   if (state == 'interactive') {
-//        document.getElementById('cards').style.visibility="hidden";
-//   } else if (state == 'complete') {
-//       setTimeout(function(){
-//          document.getElementById('interactive');
-//          document.getElementById('load').style.visibility="hidden";
-//          document.getElementById('contents').style.visibility="visible";
-//       },1000);
-//   }
-// }
-    </script>
 </body>
 </html>

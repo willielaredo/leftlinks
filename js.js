@@ -1,17 +1,3 @@
-// show/hide filter options
-
-// var button = document.getElementById('toggle-filters'); // Assumes element with id='button'
-
-// button.onclick = function() {
-//     var div = document.getElementById('filters');
-//     if (div.style.display !== 'none') {
-//         div.style.display = 'none';
-//     }
-//     else {
-//         div.style.display = 'block';
-//     }
-// };
-
 // create cards
 fetch('./orgs.json')
     .then((response) => response.json())
@@ -91,13 +77,13 @@ fetch('./orgs.json')
                     '<a href="/?tag=' + tag + '"><h3>#' + tag + '</h3></a>'
                 issues_list.appendChild(issue)
             });
-            };
+        };
         fetchTagsFromOrgs()
 
         // render cards filtered by tag
         function filterCards() {
             var params = new Proxy(new URLSearchParams(window.location.search), {
-            get: (searchParams, prop) => searchParams.get(prop),
+                get: (searchParams, prop) => searchParams.get(prop),
             });
             var tag = params.tag;
             if (tag) {
@@ -118,6 +104,7 @@ fetch('./orgs.json')
 
         // search box
         const search_input = document.getElementById('org_input')
+        const clear_search = document.getElementById('clear-search')
   
         function searchOrgs(searchText) {
             let matches = arr.filter(org => {
@@ -128,11 +115,11 @@ fetch('./orgs.json')
             if (searchText.length === 0) {
                 matches = [];
                 org_list.innerHTML = '';
-                window.history.replaceState({},document.title,"/")
+                window.history.replaceState({}, document.title, "/")
                 fetchTagsFromOrgs()
             }
             else {
-                window.history.replaceState({},document.title,"/")
+                window.history.replaceState({}, document.title, "/")
             };
             outputHTML(matches);
         };
@@ -140,7 +127,7 @@ fetch('./orgs.json')
         const outputHTML = matches => {
             if (matches.length > 0) {
                 const issues_div = document.getElementById('issues')
-                const html = matches.map(match => 
+                const html = matches.map(match =>
                     `<article class="card"><div><h2 class="card-title">${match.name}</div><div class="card-image"><img src="./images/twit_pics/${match.screen_name}.jpeg"></div><div class="content"><p>${match.short_description}</p></div><div class="tags"></div><div class="links-container"><a href="${match.url}"><div class="links">Website</div></a><a href="https://twitter.com/${match.screen_name}"><div class="links">Twitter</div></a></div></article>`
                 ).join('');
                 issues_div.innerHTML = ''
@@ -149,5 +136,16 @@ fetch('./orgs.json')
             }
         }
         search_input.addEventListener('input', () => searchOrgs(search_input.value))
+        clear_search.addEventListener('click', () => {
+            search_input.value = '';
+            fetchTagsFromOrgs()
+            org_list.innerHTML = '';
+        })
+        
+        
         filterCards()
     });
+
+
+
+    

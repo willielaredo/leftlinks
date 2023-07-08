@@ -81,7 +81,14 @@ fetch('./orgs.json')
                 const issue = document.createElement("div")
                 issue.classList.add("issue")
                 issue.innerHTML =
-                    '<a href="/?tag=' + tag + '"><h3>#' + tag + '</h3></a>'
+                    '<a href="/?tag=' + tag + '"><h3>' +
+                    
+                tag.replaceAll("-"," ").replace(
+                    /\w\S*/g,
+                    function(txt) {
+                    return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+                    })
+                + '</h3></a>'
                 issues_list.appendChild(issue)
             });
         };
@@ -104,7 +111,7 @@ fetch('./orgs.json')
                 const html = orgsFiltered.map(match =>
                     `<article class="card"><div><h2 class="card-title">${match.name}</div><div class="card-image"><img src="./images/twit_pics/${match.screen_name}.jpeg"></div><div class="content"><p>${match.short_description}</p></div><div class="tags">` +
                     match.tags.map(tag => `<a href="/?tag=${tag}"><div class="tag">${tag}</div></a>`).join('')
-                    + `</div > <div class="links-container"><a href="${match.url}"><div class="links">Website</div></a><a href="https://twitter.com/${match.screen_name}"><div class="links">Twitter</div></a></div></article >`
+                    + `</div > <div class="links-container"><a href="${match.url}"><div class="links">Website</div></a><a href="https://twitter.com/${match.screen_name.replace}"><div class="links">Twitter</div></a></div></article >`
                 ).join('');
                 console.log(html)
                 issues_list.innerHTML = ''

@@ -184,7 +184,12 @@ article p {
 }
 
 .issue a {
-    color: inherit
+    color: inherit;
+    text-decoration: none;
+}
+
+.issue a:hover {
+    text-decoration: underline;
 }
 
 .align-right {

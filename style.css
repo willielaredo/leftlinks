@@ -141,8 +141,6 @@ article p {
 
 .links-container a {
     padding: 15px;
-    border-right: .5px solid #9999;
-    border-left: .5px solid #9999;
 }
 
 .links-container a:hover {

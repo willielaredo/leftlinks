@@ -132,10 +132,7 @@ fetch('./orgs.json')
            
             if (searchText.length === 0 || searchText == null) {
                 matches = [];
-<<<<<<< HEAD
                 cards.innerHTML = '';
-=======
->>>>>>> 87ecd3c (make search more exact)
                 window.history.replaceState({}, document.title, "/")
                 fetchTagsFromOrgs()
                 
@@ -164,13 +161,8 @@ fetch('./orgs.json')
                 cards.innerHTML = html;
                 document.getElementById('filter-context').innerHTML = ''
             }
-<<<<<<< HEAD
-            else {
-                cards.innerHTML = '<p>Sorry! No matches on your search.</p>'
-=======
-            else if (matches.length == 0) {
+            else  {
                 cards.innerHTML = ''
->>>>>>> 87ecd3c (make search more exact)
             }
         }
         search_input.addEventListener('input', () => searchOrgs(search_input.value))

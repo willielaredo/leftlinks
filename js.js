@@ -124,20 +124,26 @@ fetch('./orgs.json')
         const clear_search = document.getElementById('clear-search')
   
         function searchOrgs(searchText) {
-            let matches = arr.filter(org => {
+            console.log(searchText.length)
+            var matches = arr.filter(org => {
                 const regex = new RegExp(`${searchText}`, 'gi');
                 return org.name.match(regex) || org.short_description.match(regex)
             });
-            
-            if (searchText.length === 0) {
+           
+            if (searchText.length === 0 || searchText == null) {
                 matches = [];
+<<<<<<< HEAD
                 cards.innerHTML = '';
+=======
+>>>>>>> 87ecd3c (make search more exact)
                 window.history.replaceState({}, document.title, "/")
                 fetchTagsFromOrgs()
+                
             }
             else {
                 window.history.replaceState({}, document.title, "/")
             };
+            console.log(matches);
             outputHTML(matches);
         };
         
@@ -158,8 +164,13 @@ fetch('./orgs.json')
                 cards.innerHTML = html;
                 document.getElementById('filter-context').innerHTML = ''
             }
+<<<<<<< HEAD
             else {
                 cards.innerHTML = '<p>Sorry! No matches on your search.</p>'
+=======
+            else if (matches.length == 0) {
+                cards.innerHTML = ''
+>>>>>>> 87ecd3c (make search more exact)
             }
         }
         search_input.addEventListener('input', () => searchOrgs(search_input.value))

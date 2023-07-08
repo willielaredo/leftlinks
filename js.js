@@ -5,7 +5,7 @@ fetch('./orgs.json')
         const arr = json.data
         const countSpan = document.getElementById("count");
         const newText = document.createTextNode(arr.length);
-        const org_list = document.getElementById('cards')
+        const cards = document.getElementById('cards')
         const issues_list = document.getElementById('issues')
         countSpan.appendChild(newText)
         // function renderAllCards() {
@@ -114,7 +114,7 @@ fetch('./orgs.json')
                 ).join('');
                 console.log(html)
                 issues_list.innerHTML = ''
-                org_list.innerHTML = html
+                cards.innerHTML = html
                 document.getElementById('filter-context').innerHTML = '<span id="filtered-by">Filtered by: </span>#' + tag + '<span class="remove-filter"><a href="/">remove</a></span>'
             }
         }
@@ -131,7 +131,7 @@ fetch('./orgs.json')
             
             if (searchText.length === 0) {
                 matches = [];
-                org_list.innerHTML = '';
+                cards.innerHTML = '';
                 window.history.replaceState({}, document.title, "/")
                 fetchTagsFromOrgs()
             }
@@ -155,15 +155,18 @@ fetch('./orgs.json')
                 
                 ).join('');
                 issues_div.innerHTML = ''
-                org_list.innerHTML = html;
+                cards.innerHTML = html;
                 document.getElementById('filter-context').innerHTML = ''
+            }
+            else {
+                cards.innerHTML = '<p>Sorry! No matches on your search.</p>'
             }
         }
         search_input.addEventListener('input', () => searchOrgs(search_input.value))
         clear_search.addEventListener('click', () => {
                 search_input.value = '';
                 fetchTagsFromOrgs()
-                org_list.innerHTML = '';
+                cards.innerHTML = '';
         })
         
         

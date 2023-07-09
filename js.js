@@ -169,7 +169,8 @@ fetch('./orgs.json')
         clear_search.addEventListener('click', () => {
                 search_input.value = '';
                 fetchTagsFromOrgs()
-                cards.innerHTML = '';
+            cards.innerHTML = '';
+            document.getElementById("filter-context").innerHTML = ''
         })
         
         

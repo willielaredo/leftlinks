@@ -108,11 +108,19 @@ fetch('./orgs.json')
                 const orgsFiltered = arr.filter(filterByTag)
                 console.log(orgsFiltered)
                 const html = orgsFiltered.map(match =>
-                    `<article class="card"><div><h2 class="card-title">${match.name}</div><div class="card-image"><img src="./images/twit_pics/${match.screen_name}.jpeg"></div><div class="content"><p>${match.short_description}</p></div><div class="tags">` +
+                   `<article class="card"><div><h2 class="card-title">${match.name}</div><div class="card-image"><img src="./images/twit_pics/` +
+                    (match.image_file_name !== null ? `${match.image_file_name}` : `placeholder.png`) +
+                    `"></div><div class="content"><p>` +
+                    
+                    (match.description_short !== null ? `${ match.description_short }` : ``) + `</p></div><div class="tags">` +
+                    
                     match.tags.map(tag => `<a href="/?tag=${tag}"><div class="tag">${tag}</div></a>`).join('')
-                    + `</div > <div class="links-container"><a href="${match.url}"><div class="links">Website</div></a><a href="https://twitter.com/${match.screen_name.replace}"><div class="links">Twitter</div></a></div></article >`
+                    + `</div > <div class="links-container">` +
+                    (match.url !== null ? `<a href="${match.url}"><div class="links">Website</div></a>` : ``) +
+                    (match.screen_name !== null ? `<a href="https://twitter.com/${match.screen_name}"><div class="links">Twitter</div></a>` : ``)
+                         +
+                    `</div ></article >`
                 ).join('');
-                console.log(html)
                 issues_list.innerHTML = ''
                 cards.innerHTML = html
                 document.getElementById('filter-context').innerHTML = '<span id="filtered-by">Filtered by: </span>#' + tag + '<span class="remove-filter"><a href="/">remove</a></span>'
@@ -127,7 +135,10 @@ fetch('./orgs.json')
             console.log(searchText.length)
             var matches = arr.filter(org => {
                 const regex = new RegExp(`${searchText}`, 'gi');
-                return org.name.match(regex) || org.short_description.match(regex)
+                if (org.description_short !== null) {
+                    return org.name.match(regex) || org.description_short.match(regex)
+                }
+                else {return org.name.match(regex)}
             });
            
             if (searchText.length === 0 || searchText == null) {
@@ -148,13 +159,18 @@ fetch('./orgs.json')
             if (matches.length > 0) {
                 const issues_div = document.getElementById('issues')
                 const html = matches.map(match => 
-                    `<article class="card"><div><h2 class="card-title">${match.name}</div><div class="card-image"><img src="./images/twit_pics/${match.screen_name}.jpeg"></div><div class="content"><p>${match.short_description}</p></div><div class="tags">` +
-                        match.tags.filter(tag => tag !== null).map(tag =>
-                            `<a href="/?tag=${tag}"><div class="tag">${tag}</div></a>`
-                        ).join('')
-                        + `</div > <div class="links-container">` +
-                        (match.url !== null ? `<a href="${match.url}"><div class="links">Website</div></a>` : ``)
-                        + `<a href="https://twitter.com/${match.screen_name}"><div class="links">Twitter</div></a></div ></article >`
+                    `<article class="card"><div><h2 class="card-title">${match.name}</div><div class="card-image"><img src="./images/twit_pics/` +
+                    (match.image_file_name !== null ? `${match.image_file_name}` : `placeholder.png`) +
+                    `"></div><div class="content"><p>` +
+                    
+                    (match.description_short !== null ? `${ match.description_short }` : ``) + `</p></div><div class="tags">` +
+                    
+                    match.tags.map(tag => `<a href="/?tag=${tag}"><div class="tag">${tag}</div></a>`).join('')
+                    + `</div > <div class="links-container">` +
+                    (match.url !== null ? `<a href="${match.url}"><div class="links">Website</div></a>` : ``) +
+                    (match.screen_name !== null ? `<a href="https://twitter.com/${match.screen_name}"><div class="links">Twitter</div></a>` : ``)
+                         +
+                    `</div ></article >`
                 
                 ).join('');
                 issues_div.innerHTML = ''

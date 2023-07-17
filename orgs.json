@@ -238,6 +238,18 @@
             ]
         },
         {
+            "name": "Philly Socialists",
+            "url": "https://www.phillysocialists.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "d74a8781-ec50-4f9f-8db6-c5ce7cadb344",
+            "screen_name": null,
+            "tags": [
+                "socialist"
+            ]
+        },
+        {
             "name": "A Community Voice - Louisiana",
             "url": "http://www.acommunityvoice.org/",
             "description": "\n\n        \n                \n\n                        \n\n        \n                A Community Voice (ACV) is an affiliate of ACORN\n and a non-profit community organization comprised of working, poor, \nelderly, women, children, and families.  ACV provides a community voice \nfor its members and constituencies in the everyday issues that affect \ntheir daily lives.  This enables the community to bring together those \nwho have common interests and concerns to improve the quality of their \nlives and those of others in the community.\nA Community Voice was founded on October \n22nd, 2009 by the former board members of Louisiana ACORN. A Community \nVoice members fight for social and economic justice for low to moderate \nincome families.",
@@ -382,6 +394,19 @@
             "screen_name": "RiverCityIWW",
             "tags": [
                 "anarchist",
+                "union"
+            ]
+        },
+        {
+            "name": "United Steelworkers ",
+            "url": "https://www.usw.org/",
+            "description": " The United Steelworkers union (USW) represents 850,000 active and retired workers in metals, mining, pulp and paper, rubber, chemicals, glass, auto supply and the energy-producing industries, along with a growing number of workers in health care, public sector, higher education, tech and service occupations.",
+            "description_short": " The United Steelworkers union (USW) represents 850,000 active and retired workers in metals, mining, pulp and paper, ru",
+            "image_file_name": null,
+            "profile_uid": "87c15c3e-08ee-49da-854b-3919801fa56b",
+            "screen_name": null,
+            "tags": [
+                "medicare-for-all",
                 "union"
             ]
         },
@@ -1285,6 +1310,18 @@
             ]
         },
         {
+            "name": "Green Party - New York",
+            "url": "https://www.gpny.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "f4a5bde0-f295-4d07-997e-db7224907aa7",
+            "screen_name": null,
+            "tags": [
+                "electoral"
+            ]
+        },
+        {
             "name": "32BJ SEIU",
             "url": "https://www.seiu32bj.org/",
             "description": "This is the mission.",
@@ -1796,6 +1833,18 @@
             ]
         },
         {
+            "name": "Presente.org",
+            "url": "https://presente.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "bcb74f53-f012-44ce-9654-76a0ecbce6cc",
+            "screen_name": null,
+            "tags": [
+                "latinx"
+            ]
+        },
+        {
             "name": "Decolonize This Place",
             "url": "https://t.co/lwl5tdCu49",
             "description": "Action-oriented movement on Indigenous struggle, Black liberation, Free Palestine, workers, de-gentrification, dismantling patriarchy ✊",
@@ -2100,6 +2149,18 @@
             "screen_name": "Crittheory",
             "tags": [
                 null
+            ]
+        },
+        {
+            "name": "Revolution News",
+            "url": "https://www.youtube.com/c/Revolutionnews-news-revo",
+            "description": "Human Struggle for Freedom, in a World Divided by Nations",
+            "description_short": "Human Struggle for Freedom, in a World Divided by Nations",
+            "image_file_name": null,
+            "profile_uid": "ba2dcffe-365e-4c69-aa44-ffcd01b5a44a",
+            "screen_name": null,
+            "tags": [
+                "media"
             ]
         },
         {
@@ -2874,6 +2935,18 @@
                 "electoral",
                 "socialist",
                 "media"
+            ]
+        },
+        {
+            "name": "Progress Michigan",
+            "url": "https://progressmichigan.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "db8fa99d-7b2d-4fa8-a99d-d2a1fa687b8d",
+            "screen_name": null,
+            "tags": [
+                "progressive"
             ]
         },
         {
@@ -3698,6 +3771,18 @@
             ]
         },
         {
+            "name": "DC Statehood Green Party",
+            "url": "https://www.facebook.com/DCStatehoodGP/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "8532ae7d-bf16-435a-a0a9-b4d6a38a51ee",
+            "screen_name": null,
+            "tags": [
+                "electoral"
+            ]
+        },
+        {
             "name": "Organizing Upgrade",
             "url": "https://organizingupgrade.com/",
             "description": "Convergence works with organizers and activists on the frontlines to produce content that sharpens our collective practice and promotes strategic debate.",
@@ -3807,6 +3892,19 @@
             "tags": [
                 "podcast",
                 "socialist"
+            ]
+        },
+        {
+            "name": "Defund the Police",
+            "url": "https://defundpolice.org/",
+            "description": "A one-stop-shop for organizers and advocates looking for tools, resources, and trainings to divest from policing and build safer communities.\n\nhttps://defundpolice.org/",
+            "description_short": "A one-stop-shop for organizers and advocates looking for tools, resources, and trainings to divest from policing and bui",
+            "image_file_name": null,
+            "profile_uid": "acb20b68-06bd-415b-b5fb-be18feb6c4fc",
+            "screen_name": null,
+            "tags": [
+                "defund-the-police",
+                "abolition"
             ]
         },
         {
@@ -5234,6 +5332,18 @@
             ]
         },
         {
+            "name": "The Peoples Puppets of Occupy Wall Street",
+            "url": "https://peoplespuppets.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "ee497b7c-209a-488e-8957-1221c9731d80",
+            "screen_name": null,
+            "tags": [
+                "occupy"
+            ]
+        },
+        {
             "name": "Hedge Clippers",
             "url": "http://hedgeclippers.org/",
             "description": "Hedge Clippers is a national campaign focused on unmasking the dark money schemes and strategies the billionaire elite uses to expand their wealth, consolidate power and obscure accountability for their misdeeds.",
@@ -5924,6 +6034,18 @@
             ]
         },
         {
+            "name": "Women for Bernie",
+            "url": "https://www.facebook.com/Women4Bernie",
+            "description": "This page was the original Women for Bernie Sanders 2016. In 2018, we took the name Women for Justice.",
+            "description_short": "This page was the original Women for Bernie Sanders 2016. In 2018, we took the name Women for Justice.",
+            "image_file_name": null,
+            "profile_uid": "ea972bdc-9fbd-4ed1-b6fe-d4ed189024c1",
+            "screen_name": null,
+            "tags": [
+                "bernie"
+            ]
+        },
+        {
             "name": "Western States Center",
             "url": "https://t.co/NfW3yDVGVH",
             "description": "Based in the Pacific Northwest and Mountain States, Western States Center works nationwide to strengthen inclusive democracy. ✊🏿✊🏻✊🏽✊🏾✊🏼",
@@ -5945,6 +6067,20 @@
             "screen_name": "PPM_MPP",
             "tags": [
                 null
+            ]
+        },
+        {
+            "name": "Pluto Books",
+            "url": "https://www.plutobooks.com/",
+            "description": "Pluto Press is a radical political publishing house. Founded in 1969, we are one of the world’s oldest radical publishers, and our focus remains making timely interventions in contemporary struggles.\n\nThough our collective outlook has developed over time, we proudly identify as anti-capitalist, internationalist and politically independent.\n",
+            "description_short": "Pluto Press is a radical political publishing house. Founded in 1969, we are one of the world’s oldest radical publisher",
+            "image_file_name": null,
+            "profile_uid": "c0d93cfa-839e-4eb8-af3e-0d9b6b2adcd6",
+            "screen_name": null,
+            "tags": [
+                "united-kingdom",
+                "publishing",
+                "media"
             ]
         },
         {
@@ -7108,6 +7244,18 @@
             ]
         },
         {
+            "name": "Common Counsel Foundation",
+            "url": "https://www.commoncounsel.org/",
+            "description": "We believe social justice movements are the drivers of progressive social change. These movements are rooted in democratic principles that every person should have a say in the systems and structures that affect their lives. \n\nWe envision a role for philanthropy that resets the power dynamic, from adhering to norms to agitating for social change, and working in allegiance to social movements that are the true drivers of transformative change. \n\nFounded in 1988, Common Counsel Foundation has prioritized support for community-based organizations, building the leadership of low-income people, women, youth, people of color and others working for justice, equity, and a healthy, sustainable environment. ",
+            "description_short": "We believe social justice movements are the drivers of progressive social change. These movements are rooted in democrat",
+            "image_file_name": null,
+            "profile_uid": "ad3f1e59-17a1-4cd2-83e6-e31907949aee",
+            "screen_name": null,
+            "tags": [
+                "fiscal-sponsor"
+            ]
+        },
+        {
             "name": "Save Ohio Higher Ed",
             "url": "https://t.co/64jIDgORj0",
             "description": "Save Ohio Higher Ed (SOHE) is a coalition of AAUP faculty and students in Ohio. We seek to protect higher education as a public, accessible, and equitable good.",
@@ -7566,6 +7714,18 @@
             ]
         },
         {
+            "name": "Freedom Road Socialist Organization",
+            "url": "https://roadtoliberation.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "d2927f78-c2c4-4949-a303-893812a60dc4",
+            "screen_name": null,
+            "tags": [
+                "socialist"
+            ]
+        },
+        {
             "name": "BYP100",
             "url": "https://www.byp100.org/",
             "description": "✨National Convening: JULY 13-16✨\nBYP100 is a national organization of Black 18-35 year olds dedicated to creating freedom & justice for all Black people.",
@@ -7763,6 +7923,19 @@
             ]
         },
         {
+            "name": "Union for Radical Political Economics",
+            "url": "https://urpe.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "b199bc0e-5291-4cb9-a8e5-e54c9c6532b4",
+            "screen_name": null,
+            "tags": [
+                "economics",
+                "finance"
+            ]
+        },
+        {
             "name": "Rural Organizing",
             "url": "https://ruralorganizing.org/",
             "description": "We are building a rural America that is empowered, thriving, & equitable. Get rural news straight to your inbox: 👉🏼https://t.co/15x4qQ1UWk",
@@ -7894,6 +8067,18 @@
             "screen_name": "ReplyGuysPod",
             "tags": [
                 "podcast"
+            ]
+        },
+        {
+            "name": "United States Student Association",
+            "url": "https://www.usstudents.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "a8ab12f2-9e3a-4589-a494-b6b27436226e",
+            "screen_name": null,
+            "tags": [
+                "student-youth"
             ]
         },
         {
@@ -8730,6 +8915,18 @@
             "screen_name": "IFRI_Situations",
             "tags": [
                 "media"
+            ]
+        },
+        {
+            "name": "Progressive Asian Network for Action",
+            "url": "https://progressiveasians.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "cb4ccb4f-06aa-40e6-9572-ff97d8bd64d0",
+            "screen_name": null,
+            "tags": [
+                "progressive"
             ]
         },
         {
@@ -9980,6 +10177,20 @@
             ]
         },
         {
+            "name": "Socialism and Democracy",
+            "url": "https://www.tandfonline.com/journals/csad20",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "bdafc1bb-fa4d-445f-a2fe-95d3ea88393a",
+            "screen_name": null,
+            "tags": [
+                "media",
+                "academic",
+                "socialist"
+            ]
+        },
+        {
             "name": "Art and Labor",
             "url": "https://t.co/ZasH6eCShN",
             "description": "A podcast hosted by @0KF0X and @titaniumwig covering the on-going struggle to survive as an art or cultural worker. \r\nhttps://t.co/cfsfyNAJm3",
@@ -10025,6 +10236,18 @@
             "screen_name": "NYWFP",
             "tags": [
                 "electoral"
+            ]
+        },
+        {
+            "name": "Student Labor Action Project",
+            "url": "http://studentlabor.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "db041950-417d-4151-a11b-a170c109ac0e",
+            "screen_name": null,
+            "tags": [
+                "student-youth"
             ]
         },
         {

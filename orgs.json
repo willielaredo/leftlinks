@@ -238,6 +238,18 @@
             ]
         },
         {
+            "name": "Healthy Gulf",
+            "url": "https://healthygulf.org/",
+            "description": "Healthy Gulf’s programs focus on a just transition that moves us away from extractive systems of energy production, consumption, and political oppression, and towards resilient, regenerative and equitable economies.",
+            "description_short": "Healthy Gulf’s programs focus on a just transition that moves us away from extractive systems of energy production, cons",
+            "image_file_name": null,
+            "profile_uid": "3e5ac6a1-82eb-4dd5-847b-bd7a4b29a3db",
+            "screen_name": null,
+            "tags": [
+                "climate"
+            ]
+        },
+        {
             "name": "Philly Socialists",
             "url": "https://www.phillysocialists.org/",
             "description": null,
@@ -298,6 +310,19 @@
             ]
         },
         {
+            "name": "New Political Science",
+            "url": "https://www.tandfonline.com/journals/cnps20",
+            "description": "Focuses on developing analyses which reflect a commitment to progressive social change. The journal adopts the broadest possible definition of “politics,” and holds that political and cultural development cannot be understood in isolation from each other. ",
+            "description_short": "Focuses on developing analyses which reflect a commitment to progressive social change. The journal adopts the broadest ",
+            "image_file_name": null,
+            "profile_uid": "888bdc2b-94c6-474e-bc28-5ba2ef53a357",
+            "screen_name": null,
+            "tags": [
+                "media",
+                "academic"
+            ]
+        },
+        {
             "name": "DSA - Pioneer Valley, MA",
             "url": "https://t.co/rb3yfb0oz2",
             "description": "Official DSA Chapter of the Pioneer Valley/Western MA.  Hampshire, Hampden, and Franklin Counties. All hail the chickadee.",
@@ -344,20 +369,6 @@
             "screen_name": "ragtag_team",
             "tags": [
                 null
-            ]
-        },
-        {
-            "name": "Verso Books",
-            "url": "https://t.co/1s4PzM2kvU",
-            "description": "Verso Books is the largest independent, radical publishing house in the English speaking world.",
-            "description_short": "Verso Books is the largest independent, radical publishing house in the English speaking world.",
-            "image_file_name": "VersoBooks.jpeg",
-            "profile_uid": "56e1fff6-1184-4817-b64a-8218c5d66eff",
-            "screen_name": "VersoBooks",
-            "tags": [
-                "publishing",
-                "media",
-                "united-kingdom"
             ]
         },
         {
@@ -497,18 +508,6 @@
             ]
         },
         {
-            "name": "War Resisters League (A.J. Muste Memorial Institute)",
-            "url": "https://t.co/AgRhundtee",
-            "description": "Antiwar, antimilitarist org resisting war at home & abroad thru revolutionary nonviolence since 1923. https://t.co/wMAsAfCRCf Address PMB229, 30 E. 125 St., NY, NY 10035",
-            "description_short": "Antiwar, antimilitarist org resisting war at home & abroad thru revolutionary nonviolence since 1923. https://t.co/wMAsA",
-            "image_file_name": "resistwar.jpeg",
-            "profile_uid": "3991a472-f02c-44a0-825d-b0d5b66cbaeb",
-            "screen_name": "resistwar",
-            "tags": [
-                "non-violence"
-            ]
-        },
-        {
             "name": "Springfield No One Leaves",
             "url": "http://www.springfieldnooneleaves.org/",
             "description": "We organize Springfield residents to resist displacement by foreclosure, eviction, to fight back against banks/LL and demand housing for people NOT profit!",
@@ -518,6 +517,18 @@
             "screen_name": "SpringfieldNOL",
             "tags": [
                 "housing"
+            ]
+        },
+        {
+            "name": "War Resisters League (A.J. Muste Memorial Institute)",
+            "url": "https://t.co/AgRhundtee",
+            "description": "Antiwar, antimilitarist org resisting war at home & abroad thru revolutionary nonviolence since 1923. https://t.co/wMAsAfCRCf Address PMB229, 30 E. 125 St., NY, NY 10035",
+            "description_short": "Antiwar, antimilitarist org resisting war at home & abroad thru revolutionary nonviolence since 1923. https://t.co/wMAsA",
+            "image_file_name": "resistwar.jpeg",
+            "profile_uid": "3991a472-f02c-44a0-825d-b0d5b66cbaeb",
+            "screen_name": "resistwar",
+            "tags": [
+                "non-violence"
             ]
         },
         {
@@ -878,6 +889,18 @@
             ]
         },
         {
+            "name": "Philly Thrive",
+            "url": "https://www.phillythrive.org/",
+            "description": "Seeks to repair 154 years of violence by achieving a complete clean up of the former refinery land, dignified jobs & investment in surrounding neighborhoods, and a permanent seat at the table for residents most impacted by the refinery. ",
+            "description_short": "Seeks to repair 154 years of violence by achieving a complete clean up of the former refinery land, dignified jobs & inv",
+            "image_file_name": null,
+            "profile_uid": "95b995a4-0ef6-46fa-92e5-8a296a9d5655",
+            "screen_name": null,
+            "tags": [
+                "environmental-justice"
+            ]
+        },
+        {
             "name": "Religious Socialism",
             "url": "https://t.co/wNIV9uqZ4T",
             "description": "Religious Socialism \r\n🌹\r\n is a blog and community of religious socialists in the United States and is the project of the Democratic Socialists of America.",
@@ -1024,18 +1047,6 @@
             ]
         },
         {
-            "name": "Zer0 Books",
-            "url": "https://t.co/pBPersezp5",
-            "description": "Culture, Society & Politics Zer0 Books analyses the world from the Left. https://t.co/GpdikxvzmD",
-            "description_short": "Culture, Society & Politics Zer0 Books analyses the world from the Left. https://t.co/GpdikxvzmD",
-            "image_file_name": "Zer0Books.jpeg",
-            "profile_uid": "b4b3f549-8f52-4a1d-9d9b-fce1679447e6",
-            "screen_name": "Zer0Books",
-            "tags": [
-                "media"
-            ]
-        },
-        {
             "name": "Indivisible - New Jersey 5th District",
             "url": "https://indivisiblenj5.com/",
             "description": null,
@@ -1058,6 +1069,19 @@
             "tags": [
                 "labor",
                 "union"
+            ]
+        },
+        {
+            "name": "Mazaska Talks",
+            "url": "https://mazaskatalks.org/",
+            "description": "Our mission is to leverage economic power to fight repression of indigenous rights and desecration of Mother Earth.",
+            "description_short": "Our mission is to leverage economic power to fight repression of indigenous rights and desecration of Mother Earth.",
+            "image_file_name": null,
+            "profile_uid": "e50c7ecd-6fd0-423f-b968-f9fcb4668d18",
+            "screen_name": null,
+            "tags": [
+                "climate",
+                "indigenous"
             ]
         },
         {
@@ -1469,6 +1493,19 @@
             ]
         },
         {
+            "name": "Overpass Light Brigade",
+            "url": "http://overpasslightbrigade.org/",
+            "description": "The Overpass Light Brigade was forged in the activist climate of the Wisconsin Uprising. Our messages shine at night over highways and other public spaces. We believe in the power of communities coming together in physical space, as well as the importance of visibility for grassroots and progressive causes. ",
+            "description_short": "The Overpass Light Brigade was forged in the activist climate of the Wisconsin Uprising. Our messages shine at night ove",
+            "image_file_name": null,
+            "profile_uid": "853173c6-5dc9-4f95-87b5-5ebed68b0bbf",
+            "screen_name": null,
+            "tags": [
+                "media",
+                "labor"
+            ]
+        },
+        {
             "name": "Socialist Action - Buffalo, NY",
             "url": "https://t.co/9DOYhYfvM8",
             "description": "We are the Buffalo / WNY Branch of Socialist Action.",
@@ -1629,6 +1666,18 @@
             "screen_name": "ButterflyCSW",
             "tags": [
                 "sex-workers"
+            ]
+        },
+        {
+            "name": "Economic Security Project",
+            "url": "https://economicsecurityproject.org/",
+            "description": "Economic Security Project advocates for ideas that build economic power for all Americans.",
+            "description_short": "Economic Security Project advocates for ideas that build economic power for all Americans.",
+            "image_file_name": null,
+            "profile_uid": "c77298c5-1b01-4f64-b659-7cec1554f0c1",
+            "screen_name": null,
+            "tags": [
+                "economics"
             ]
         },
         {
@@ -2101,6 +2150,19 @@
             ]
         },
         {
+            "name": "United Working Families",
+            "url": "https://www.unitedworkingfamilies.org/",
+            "description": "We recruit, train, run, and win with Black and Latinx candidates who come from the rank and file of our movements for racial, social, and economic justice.",
+            "description_short": "We recruit, train, run, and win with Black and Latinx candidates who come from the rank and file of our movements for ra",
+            "image_file_name": null,
+            "profile_uid": "cf95e440-3fa5-45b3-bf32-2fd7d7062255",
+            "screen_name": null,
+            "tags": [
+                "bipoc",
+                "electoral"
+            ]
+        },
+        {
             "name": "Rampant Magazine",
             "url": "https://rampantmag.com/",
             "description": "Rampant Magazine is firmly grounded in the need to strengthen and expand the self-reliance of social movements and worker organizing. We are unapologetically anti-racist, feminist, and revolutionary socialist.\n\nOur goals are multiple and overlapping. We aim to make the structures of ruling class power visible and to highlight how they shape everyone’s lived realities. But our goal isn’t simply to understand the world, we aim to change it. Rampant Magazine is a platform for current debates about movement organizing and political strategy. Finally, we want to open up space for dreaming, for imagining a socialist future built from the raw materials of our everyday lives. ",
@@ -2185,6 +2247,19 @@
             "screen_name": "CulturesResist",
             "tags": [
                 null
+            ]
+        },
+        {
+            "name": "Permanent Revolution",
+            "url": "http://forum.permanent-revolution.org/",
+            "description": "The purpose of this web site is to contribute to Marxist theory as part \r\nof our effort to change the world. We are committed to a fundamental \r\ntransformation of the relations between people, one that historically \r\nhas been championed by the modern socialist movement inaugurated by Karl\r\n Marx and Friedrich Engels with the publication of the Communist \r\nManifesto in 1848. Much has happened in the world since then and the \r\nsocialist movement in the 21st century is obliged to reflect on and \r\nabsorb a rich history of struggle if it is to once more become a living \r\nforce in the life of society. In taking a sweeping overview of this \r\nhistory, one painted with a very broad brush, one can say that the \r\nhistory of the socialist movement has been, with a few notable \r\nexceptions, a history of defeats and betrayals. Victories have been few \r\nand far between and in no case was any victory permanent. The Russian \r\nRevolution and its eventual demise is without doubt the single best \r\nexample of this dialectic of defeat.",
+            "description_short": "The purpose of this web site is to contribute to Marxist theory as part \r\nof our effort to change the world. We are comm",
+            "image_file_name": null,
+            "profile_uid": "9727126b-a897-4e5a-aaf7-c6c7cc231069",
+            "screen_name": null,
+            "tags": [
+                "marxism",
+                "media"
             ]
         },
         {
@@ -2543,6 +2618,19 @@
             ]
         },
         {
+            "name": "Youth Vs Apocalypse",
+            "url": "https://www.youthvsapocalypse.org/",
+            "description": "Youth Vs Apocalypse is a youth-led climate justice group based in the Bay Area.\nWe organize with an intersectional analysis in our local communities to fight against the climate crisis.",
+            "description_short": "Youth Vs Apocalypse is a youth-led climate justice group based in the Bay Area.\nWe organize with an intersectional analy",
+            "image_file_name": null,
+            "profile_uid": "e3b7b4e2-0162-4138-b1fa-8bd62f1297b7",
+            "screen_name": null,
+            "tags": [
+                "student-youth",
+                "climate"
+            ]
+        },
+        {
             "name": "Garnet Oak Magazine",
             "url": "https://t.co/bVmHgDGP8B",
             "description": "Connecticut’s newest voice on the left. Issue Three available now!\nFollow us on Instagram @ garnetoakmag 🌳\nBanner photo by J. Stearns",
@@ -2741,6 +2829,18 @@
             ]
         },
         {
+            "name": "Community Change Action",
+            "url": "https://communitychangeaction.org/",
+            "description": "Community Change Action is a national organization that builds the power of low-income people, especially people of color, to fight for a society where everyone can thrive. ",
+            "description_short": "Community Change Action is a national organization that builds the power of low-income people, especially people of colo",
+            "image_file_name": null,
+            "profile_uid": "cfca1fb3-2fda-4573-ba02-19588cb04326",
+            "screen_name": null,
+            "tags": [
+                "community-based"
+            ]
+        },
+        {
             "name": "Reclaim RI",
             "url": "https://t.co/rrnuCNhUD0",
             "description": "Building power for the people in Rhode Island.\n\nhttps://www.facebook.com/reclaimrhodeisland",
@@ -2763,6 +2863,20 @@
             "screen_name": "SolidarityUS",
             "tags": [
                 "socialist"
+            ]
+        },
+        {
+            "name": "Human Agenda",
+            "url": "https://www.humanagenda.net/",
+            "description": "To envision a world where the human needs of all can be met, engage the community in forging local institutions that are democratic, cooperative, egalitarian, sustainable, and kind, and take individual responsibility to embody the change we’d like to see. ",
+            "description_short": "To envision a world where the human needs of all can be met, engage the community in forging local institutions that are",
+            "image_file_name": null,
+            "profile_uid": "86ef0802-fd47-4899-8e62-48fb1dfe9786",
+            "screen_name": null,
+            "tags": [
+                "international",
+                "immigration",
+                "community-based"
             ]
         },
         {
@@ -3037,6 +3151,18 @@
             ]
         },
         {
+            "name": "Hip Hop Caucus",
+            "url": "https://hiphopcaucus.org/",
+            "description": "Hip Hop Caucus is a national, non-profit and non-partisan organization that connects the Hip Hop community to the civic process to build power and create positive change.",
+            "description_short": "Hip Hop Caucus is a national, non-profit and non-partisan organization that connects the Hip Hop community to the civic ",
+            "image_file_name": null,
+            "profile_uid": "963facb6-7911-4254-8292-2e68fa5081b7",
+            "screen_name": null,
+            "tags": [
+                "black-liberation"
+            ]
+        },
+        {
             "name": "Boston Review",
             "url": "https://t.co/F79xuKT6Dt",
             "description": "A political and literary forum, independent and nonprofit since 1975. \r\nNEWSLETTER: https://t.co/QgX6oQ4Eor MEMBERSHIP: https://t.co/BZ3iwQ0n0y",
@@ -3256,6 +3382,19 @@
             ]
         },
         {
+            "name": "Kapitalism 101",
+            "url": "https://kapitalism101.wordpress.com/",
+            "description": "We are entering a period of profound economic, political and cultural \r\ncrisis. In such periods it is essential for society to have the right \r\ntheoretical tools for understanding our \r\ncondition and how to change it. To this end, these videos wast started \r\nbeing made in order to try to explain some rather complicated \r\ntheoretical ideas which the author believe to be of utmost importance to\r\n our current condition.\r\n \r\n In times of crisis the law of value \r\nasserts itself with violence. The Kapitalism101 videos deal with the \r\nnature of value in a capitalist society, how this value is expressed, \r\nand what contradictions grow from it.",
+            "description_short": "We are entering a period of profound economic, political and cultural \r\ncrisis. In such periods it is essential for soci",
+            "image_file_name": null,
+            "profile_uid": "91f8ec25-026d-4030-844a-d9efa1c237f8",
+            "screen_name": null,
+            "tags": [
+                "marxism",
+                "media"
+            ]
+        },
+        {
             "name": "Murphy Institute/CUNY",
             "url": "https://slu.cuny.edu/about/murphy-institute/",
             "description": null,
@@ -3391,18 +3530,6 @@
             ]
         },
         {
-            "name": "United for Peace and Justice",
-            "url": "https://t.co/Cuz0F3zBBo",
-            "description": "United For Peace and Justice is a network of more than 1,000 groups nationwide who have joined together to protest militarism and organize for peace!",
-            "description_short": "United For Peace and Justice is a network of more than 1,000 groups nationwide who have joined together to protest milit",
-            "image_file_name": "UnitedForPeace.jpeg",
-            "profile_uid": "8df12532-e185-403e-a2dd-56e3a8e02ae5",
-            "screen_name": "UnitedForPeace",
-            "tags": [
-                "peace"
-            ]
-        },
-        {
             "name": "Moveon.org",
             "url": "https://t.co/xqUZMRZaab",
             "description": "For 25 years, MoveOn members have come together to build an America where everyone can thrive. Join us in this celebration & in our continued work ⬇️",
@@ -3412,6 +3539,18 @@
             "screen_name": "MoveOn",
             "tags": [
                 "progressive"
+            ]
+        },
+        {
+            "name": "United for Peace and Justice",
+            "url": "https://t.co/Cuz0F3zBBo",
+            "description": "United For Peace and Justice is a network of more than 1,000 groups nationwide who have joined together to protest militarism and organize for peace!",
+            "description_short": "United For Peace and Justice is a network of more than 1,000 groups nationwide who have joined together to protest milit",
+            "image_file_name": "UnitedForPeace.jpeg",
+            "profile_uid": "8df12532-e185-403e-a2dd-56e3a8e02ae5",
+            "screen_name": "UnitedForPeace",
+            "tags": [
+                "peace"
             ]
         },
         {
@@ -3508,6 +3647,19 @@
             "screen_name": "SocialistNY",
             "tags": [
                 "socialist"
+            ]
+        },
+        {
+            "name": "CT Coalition for Environmental Justice",
+            "url": "https://www.facebook.com/CTCEEJ/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "21ee81c0-0cbe-418f-86f4-312d6caa3335",
+            "screen_name": null,
+            "tags": [
+                "environmental-justice",
+                "climate"
             ]
         },
         {
@@ -3730,6 +3882,18 @@
             "tags": [
                 "dsa",
                 "socialist"
+            ]
+        },
+        {
+            "name": "Santa Cruz Climate Action Network",
+            "url": "https://scruzclimate.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "2a7ea9d3-350b-4547-9fbb-20788283d218",
+            "screen_name": null,
+            "tags": [
+                "climate"
             ]
         },
         {
@@ -4378,6 +4542,18 @@
             ]
         },
         {
+            "name": "Zer0 Books",
+            "url": "https://t.co/0RnlqGzo5L",
+            "description": "Culture, Society & Politics Zer0 Books analyses the world from the Left. https://t.co/GpdikxvzmD",
+            "description_short": "Culture, Society & Politics Zer0 Books analyses the world from the Left. https://t.co/GpdikxvzmD",
+            "image_file_name": "Zer0Books.jpeg",
+            "profile_uid": "b4b3f549-8f52-4a1d-9d9b-fce1679447e6",
+            "screen_name": "Zer0Books",
+            "tags": [
+                "media"
+            ]
+        },
+        {
             "name": "World Socialist Web Site",
             "url": "https://t.co/jqMUnSqdmR",
             "description": "The World Socialist Web Site is a daily source of news and analysis published by the International Committee of the Fourth International. #socialism",
@@ -4774,6 +4950,20 @@
             ]
         },
         {
+            "name": "Divest Ed",
+            "url": "https://www.divested.org/",
+            "description": "Divest Ed trains and nurtures the movement of young people to transform their universities and invest in community power, collective liberation, and care.",
+            "description_short": "Divest Ed trains and nurtures the movement of young people to transform their universities and invest in community power",
+            "image_file_name": null,
+            "profile_uid": "2496a497-b446-4988-96a2-3c4add89d6ce",
+            "screen_name": null,
+            "tags": [
+                "student-youth",
+                "academic",
+                "climate"
+            ]
+        },
+        {
             "name": "Veterans for Peace",
             "url": "https://t.co/tDa2TQuwXJ",
             "description": "Exposing the True Costs of War and Militarism Since 1985. #PeaceIsPossible",
@@ -4855,6 +5045,18 @@
             "screen_name": "Dis_Con",
             "tags": [
                 "podcast"
+            ]
+        },
+        {
+            "name": "Public Bank LA",
+            "url": "https://publicbankla.com/",
+            "description": "Our mission is to create a socially and environmentally responsible Los Angeles Public Bank that supports the local economy and provides fair and equitable financial services to the city.",
+            "description_short": "Our mission is to create a socially and environmentally responsible Los Angeles Public Bank that supports the local econ",
+            "image_file_name": null,
+            "profile_uid": "da184d80-f575-4867-99b3-9d77a84b20eb",
+            "screen_name": null,
+            "tags": [
+                "finance"
             ]
         },
         {
@@ -5162,18 +5364,6 @@
             ]
         },
         {
-            "name": "Damage Magazine",
-            "url": "https://t.co/bR84kRTcWa",
-            "description": "Submissions: editors@damagemag.com https://t.co/lSbmQKOiih",
-            "description_short": "Submissions: editors@damagemag.com https://t.co/lSbmQKOiih",
-            "image_file_name": "damagemagazine.jpeg",
-            "profile_uid": "7d506c7e-eb18-416c-a88a-936e1cad4071",
-            "screen_name": "damagemagazine",
-            "tags": [
-                "media"
-            ]
-        },
-        {
             "name": "Justseeds",
             "url": "https://t.co/BVF0Oc6gur",
             "description": "Justseeds Artists' Cooperative: Radical artists & printmakers working together across North America since 2007. Tweets by @toosphexy",
@@ -5181,6 +5371,18 @@
             "image_file_name": "Justseeds.jpeg",
             "profile_uid": "3253736a-5c05-457c-b4c0-ee9b899e1f41",
             "screen_name": "Justseeds",
+            "tags": [
+                "media"
+            ]
+        },
+        {
+            "name": "Damage Magazine",
+            "url": "https://t.co/bR84kRTcWa",
+            "description": "Submissions: editors@damagemag.com https://t.co/lSbmQKOiih",
+            "description_short": "Submissions: editors@damagemag.com https://t.co/lSbmQKOiih",
+            "image_file_name": "damagemagazine.jpeg",
+            "profile_uid": "7d506c7e-eb18-416c-a88a-936e1cad4071",
+            "screen_name": "damagemagazine",
             "tags": [
                 "media"
             ]
@@ -5502,6 +5704,18 @@
             ]
         },
         {
+            "name": "Food & Water Watch",
+            "url": "https://www.foodandwaterwatch.org/",
+            "description": "With more than 2 million supporters, Food & Water Watch fights for safe food, clean water, and a livable climate for all of us. ",
+            "description_short": "With more than 2 million supporters, Food & Water Watch fights for safe food, clean water, and a livable climate for all",
+            "image_file_name": null,
+            "profile_uid": "33b3c308-4bed-4a36-96be-6bf3b9662eb8",
+            "screen_name": null,
+            "tags": [
+                "climate"
+            ]
+        },
+        {
             "name": "Industrial Workers of the World",
             "url": "http://t.co/vhsg48EbTd",
             "description": "The Official Twitter Page of the Industrial Workers of the World: General Headquarters",
@@ -5524,6 +5738,19 @@
             "tags": [
                 "podcast",
                 "tech"
+            ]
+        },
+        {
+            "name": "Power Shift Network",
+            "url": "https://www.powershift.org/",
+            "description": "Power Shift Network mobilizes the collective power of young people to mitigate climate change and create a just, clean energy future and resilient, thriving communities for all.",
+            "description_short": "Power Shift Network mobilizes the collective power of young people to mitigate climate change and create a just, clean e",
+            "image_file_name": null,
+            "profile_uid": "5fba2e21-1ab0-420f-8cce-6d7307b48e97",
+            "screen_name": null,
+            "tags": [
+                "student-youth",
+                "climate"
             ]
         },
         {
@@ -6034,6 +6261,18 @@
             ]
         },
         {
+            "name": "Roosevelt Network",
+            "url": "https://rooseveltinstitute.org/roosevelt-network/about-us/",
+            "description": "The Roosevelt Network develops and supports undergraduate college students and early career professionals—in particular, those who hold identities historically denied political power—to be the next generation of leaders in the progressive policy ecosystem.",
+            "description_short": "The Roosevelt Network develops and supports undergraduate college students and early career professionals—in particular,",
+            "image_file_name": null,
+            "profile_uid": "4e0efe23-80b4-42d9-ae77-a3d76ca9bcf4",
+            "screen_name": null,
+            "tags": [
+                "progressive"
+            ]
+        },
+        {
             "name": "Women for Bernie",
             "url": "https://www.facebook.com/Women4Bernie",
             "description": "This page was the original Women for Bernie Sanders 2016. In 2018, we took the name Women for Justice.",
@@ -6118,6 +6357,18 @@
             "screen_name": "CommuneEditions",
             "tags": [
                 null
+            ]
+        },
+        {
+            "name": "Lynn United for Change",
+            "url": "http://www.lynnunited.org/",
+            "description": "Lynn United for Change is a grassroots community group that works for social and economic justice and the human right to housing.",
+            "description_short": "Lynn United for Change is a grassroots community group that works for social and economic justice and the human right to",
+            "image_file_name": null,
+            "profile_uid": "5376aafc-040c-4feb-8e96-a4297e2bbfcc",
+            "screen_name": null,
+            "tags": [
+                "community-based"
             ]
         },
         {
@@ -6661,6 +6912,20 @@
             ]
         },
         {
+            "name": "Seeding Sovereignty",
+            "url": "https://seedingsovereignty.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "944e2233-6081-4214-ac6c-c3c56fa27fac",
+            "screen_name": null,
+            "tags": [
+                "food-justice",
+                "climate",
+                "indigenous"
+            ]
+        },
+        {
             "name": "Haymarket Books",
             "url": "https://t.co/UjSUKOxydj",
             "description": "radical publisher of politics, culture, current events | follow @haymarkethouse",
@@ -6767,6 +7032,20 @@
             "screen_name": "tmbsfm",
             "tags": [
                 "media"
+            ]
+        },
+        {
+            "name": "Cultural Logic: A Journal of Marxist Theory & Practice",
+            "url": "https://ojs.library.ubc.ca/index.php/clogic/index",
+            "description": "An open access, non-profit, peer-reviewed, interdisciplinary journal that publishes essays, interviews, poetry, reviews (books, films, other media), etc. by writers working within the Marxist tradition. ",
+            "description_short": "An open access, non-profit, peer-reviewed, interdisciplinary journal that publishes essays, interviews, poetry, reviews ",
+            "image_file_name": null,
+            "profile_uid": "e7f021c6-9db2-4395-8dc6-0d55dc924aaa",
+            "screen_name": null,
+            "tags": [
+                "marxism",
+                "media",
+                "academic"
             ]
         },
         {
@@ -7018,19 +7297,6 @@
             ]
         },
         {
-            "name": "Black Alliance for Just Immigration",
-            "url": "https://www.baji.org",
-            "description": "Immigrant rights & racial justice w/ the Black diaspora in the US. Offices: NYC, ATL, OAK, LA, MIA, DC  https://t.co/Q3KTkWajql press@BAJI.org",
-            "description_short": "Immigrant rights & racial justice w/ the Black diaspora in the US. Offices: NYC, ATL, OAK, LA, MIA, DC  https://t.co/Q3K",
-            "image_file_name": "BAJItweet.jpeg",
-            "profile_uid": "6c6560f8-39f4-40c5-90e6-769f8e7291d9",
-            "screen_name": "BAJItweet",
-            "tags": [
-                "immigration",
-                "black-liberation"
-            ]
-        },
-        {
             "name": "Jacobin",
             "url": "https://t.co/sAQdNaT8s2",
             "description": "Jacobin is a leading voice of the American left, offering socialist perspectives on politics, economics, and culture.",
@@ -7042,6 +7308,19 @@
                 "socialist",
                 "jacobin",
                 "media"
+            ]
+        },
+        {
+            "name": "Black Alliance for Just Immigration",
+            "url": "https://www.baji.org",
+            "description": "Immigrant rights & racial justice w/ the Black diaspora in the US. Offices: NYC, ATL, OAK, LA, MIA, DC  https://t.co/Q3KTkWajql press@BAJI.org",
+            "description_short": "Immigrant rights & racial justice w/ the Black diaspora in the US. Offices: NYC, ATL, OAK, LA, MIA, DC  https://t.co/Q3K",
+            "image_file_name": "BAJItweet.jpeg",
+            "profile_uid": "6c6560f8-39f4-40c5-90e6-769f8e7291d9",
+            "screen_name": "BAJItweet",
+            "tags": [
+                "immigration",
+                "black-liberation"
             ]
         },
         {
@@ -7143,6 +7422,20 @@
             "tags": [
                 "dsa",
                 "socialist"
+            ]
+        },
+        {
+            "name": "Democrats.com",
+            "url": "https://democrats.com/",
+            "description": "The original online news and community site for progressive activists, with over 10 million supporters. ",
+            "description_short": "The original online news and community site for progressive activists, with over 10 million supporters. ",
+            "image_file_name": null,
+            "profile_uid": "c86d1b92-9ac1-4c1c-8a31-cb6a0086fb28",
+            "screen_name": null,
+            "tags": [
+                "progressive",
+                "media",
+                "electoral"
             ]
         },
         {
@@ -7604,6 +7897,31 @@
             ]
         },
         {
+            "name": "Indivisible",
+            "url": "https://indivisible.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "c59edec1-0a66-4b53-9f0f-54c3bab55e7e",
+            "screen_name": null,
+            "tags": [
+                "electoral",
+                "progressive"
+            ]
+        },
+        {
+            "name": "EcoEquity",
+            "url": "https://www.ecoequity.org/",
+            "description": "EcoEquity is a small, activist think tank that has had an outsized impact on the global climate equity debate.",
+            "description_short": "EcoEquity is a small, activist think tank that has had an outsized impact on the global climate equity debate.",
+            "image_file_name": null,
+            "profile_uid": "11e4b0da-21b7-4ed6-972c-0bd938094f94",
+            "screen_name": null,
+            "tags": [
+                "climate"
+            ]
+        },
+        {
             "name": "Empire Logistics",
             "url": "http://www.empirelogistics.org/",
             "description": "Empire Logistics maps the global supply chain through research that articulates the infrastructure and externalized costs of the international flow of things.",
@@ -7970,6 +8288,32 @@
             "screen_name": "DemComEd",
             "tags": [
                 "utility-justice"
+            ]
+        },
+        {
+            "name": "NYC For Abortion RIghts",
+            "url": "https://abortionrights.nyc/",
+            "description": "We are an intersectional, abolitionist, socialist-feminist collective of activists who believe NYC needs an unapologetic grassroots movement to fight for full abortion and reproductive justice.",
+            "description_short": "We are an intersectional, abolitionist, socialist-feminist collective of activists who believe NYC needs an unapologetic",
+            "image_file_name": null,
+            "profile_uid": "7be1ca32-cba4-465b-a8fa-e0637899bb09",
+            "screen_name": null,
+            "tags": [
+                "abortion",
+                "feminist"
+            ]
+        },
+        {
+            "name": "Logos",
+            "url": "https://logosjournal.com/",
+            "description": "A quarterly journal of modern culture, politics and society that features articles on politics, culture, the arts, social sciences and humanities. ",
+            "description_short": "A quarterly journal of modern culture, politics and society that features articles on politics, culture, the arts, socia",
+            "image_file_name": null,
+            "profile_uid": "9d2b0185-5994-43cf-a00b-034ca776ad6e",
+            "screen_name": null,
+            "tags": [
+                "media",
+                "academic"
             ]
         },
         {
@@ -8378,18 +8722,6 @@
             ]
         },
         {
-            "name": "Tenant Network RI",
-            "url": "https://t.co/PPeJjZiM6b",
-            "description": "",
-            "description_short": "",
-            "image_file_name": "workersrenters.jpeg",
-            "profile_uid": "8d0f4e59-0bfe-41c6-9dc4-3b58d2d1ae07",
-            "screen_name": "workersrenters",
-            "tags": [
-                "housing"
-            ]
-        },
-        {
             "name": "Yes Men",
             "url": "https://theyesmen.org/",
             "description": "Ever since 1996, the Yes Men have used humor and trickery to highlight \nthe corporate takeover of society, the neoliberal delusion that allows \nit, the corporate Democrats' responsibility for our current situation, \nand so on. And while we're all about \"building awareness,\" we do realize\n that's not all there is, and that it's only ongoing campaigns that \nreally make change.",
@@ -8399,6 +8731,18 @@
             "screen_name": "theyesmen",
             "tags": [
                 null
+            ]
+        },
+        {
+            "name": "Tenant Network RI",
+            "url": "https://t.co/PPeJjZiM6b",
+            "description": "",
+            "description_short": "",
+            "image_file_name": "workersrenters.jpeg",
+            "profile_uid": "8d0f4e59-0bfe-41c6-9dc4-3b58d2d1ae07",
+            "screen_name": "workersrenters",
+            "tags": [
+                "housing"
             ]
         },
         {
@@ -8497,6 +8841,18 @@
             "screen_name": "NatCounterPunch",
             "tags": [
                 "media"
+            ]
+        },
+        {
+            "name": "Economic Hardship Reporting Project",
+            "url": "https://t.co/8GNuJKUbKb",
+            "description": "We support quality journalism about inequality and poverty in America. Edited by @lisquart. Tweets by @rachsanoff.",
+            "description_short": "We support quality journalism about inequality and poverty in America. Edited by @lisquart. Tweets by @rachsanoff.",
+            "image_file_name": "econhardship.jpeg",
+            "profile_uid": "eb7d8474-21c1-4fc1-92f4-a1ac624355d4",
+            "screen_name": "econhardship",
+            "tags": [
+                null
             ]
         },
         {
@@ -8713,18 +9069,6 @@
             ]
         },
         {
-            "name": "Sanders Institute",
-            "url": "https://t.co/bcsPoms22B",
-            "description": "A vital democracy requires an informed electorate, civil discourse and bold ideas.",
-            "description_short": "A vital democracy requires an informed electorate, civil discourse and bold ideas.",
-            "image_file_name": "TheSandersInst.jpeg",
-            "profile_uid": "f30f4c9c-4f13-4eb2-ac72-731f872ffa2d",
-            "screen_name": "TheSandersInst",
-            "tags": [
-                "bernie"
-            ]
-        },
-        {
             "name": "Student Debt Crisis",
             "url": "http://www.studentdebtcrisis.org/",
             "description": "Nonprofit centering the needs and voices of borrowers to end the student debt crisis. A people-powered movement with over 2 million supporters. RTs≠endorsements",
@@ -8734,6 +9078,18 @@
             "screen_name": "DebtCrisisOrg",
             "tags": [
                 "debt"
+            ]
+        },
+        {
+            "name": "Sanders Institute",
+            "url": "https://t.co/bcsPoms22B",
+            "description": "A vital democracy requires an informed electorate, civil discourse and bold ideas.",
+            "description_short": "A vital democracy requires an informed electorate, civil discourse and bold ideas.",
+            "image_file_name": "TheSandersInst.jpeg",
+            "profile_uid": "f30f4c9c-4f13-4eb2-ac72-731f872ffa2d",
+            "screen_name": "TheSandersInst",
+            "tags": [
+                "bernie"
             ]
         },
         {
@@ -8782,6 +9138,18 @@
             "screen_name": "Socialist2021",
             "tags": [
                 "socialist"
+            ]
+        },
+        {
+            "name": "SOMA Action",
+            "url": "https://www.somaaction.org/",
+            "description": "We’re a grassroots organization in South Orange and Maplewood NJ focused on driving progressive change. ",
+            "description_short": "We’re a grassroots organization in South Orange and Maplewood NJ focused on driving progressive change. ",
+            "image_file_name": null,
+            "profile_uid": "53e76f94-60bd-4ebd-9e3a-a7aeaa0888ca",
+            "screen_name": null,
+            "tags": [
+                "progressive"
             ]
         },
         {
@@ -8967,6 +9335,18 @@
             ]
         },
         {
+            "name": "NACLA Report",
+            "url": "https://t.co/1dDPAviH5z",
+            "description": "Award-winning quarterly magazine and online publication on political and economic issues in Latin America and the Caribbean. https://t.co/qpj4SOoKkd",
+            "description_short": "Award-winning quarterly magazine and online publication on political and economic issues in Latin America and the Caribb",
+            "image_file_name": "NACLA.jpeg",
+            "profile_uid": "33430fa3-8a85-48f9-aa4a-f0cb9bebacca",
+            "screen_name": "NACLA",
+            "tags": [
+                null
+            ]
+        },
+        {
             "name": "Union of Musicians and Allied Workers",
             "url": "https://t.co/yOTcsccUvO",
             "description": "United Musicians and Allied Workers (UMAW). Join us!",
@@ -8991,18 +9371,6 @@
             ]
         },
         {
-            "name": "NACLA Report",
-            "url": "https://t.co/1dDPAviH5z",
-            "description": "Award-winning quarterly magazine and online publication on political and economic issues in Latin America and the Caribbean. https://t.co/qpj4SOoKkd",
-            "description_short": "Award-winning quarterly magazine and online publication on political and economic issues in Latin America and the Caribb",
-            "image_file_name": "NACLA.jpeg",
-            "profile_uid": "33430fa3-8a85-48f9-aa4a-f0cb9bebacca",
-            "screen_name": "NACLA",
-            "tags": [
-                null
-            ]
-        },
-        {
             "name": "Race Forward",
             "url": "https://t.co/QtELEhUZGW",
             "description": "We advance racial justice via research, media & practice. We publish @Colorlines news & present #FacingRace. https://t.co/2EbsIS269T",
@@ -9012,6 +9380,19 @@
             "screen_name": "RaceForward",
             "tags": [
                 null
+            ]
+        },
+        {
+            "name": "Zero Hour",
+            "url": "https://www.thisiszerohour.org/",
+            "description": "The mission of Zero Hour is to center the voices of diverse youth in the conversation around climate and environmental justice",
+            "description_short": "The mission of Zero Hour is to center the voices of diverse youth in the conversation around climate and environmental j",
+            "image_file_name": null,
+            "profile_uid": "e16835e3-e22d-4416-903f-eadfa73896ba",
+            "screen_name": null,
+            "tags": [
+                "student-youth",
+                "climate"
             ]
         },
         {
@@ -9101,6 +9482,18 @@
             "screen_name": "CommChangeAct",
             "tags": [
                 null
+            ]
+        },
+        {
+            "name": "New Politics Associates",
+            "url": "https://newpol.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "4e50f6be-b90f-4897-97ca-bbc879a92305",
+            "screen_name": null,
+            "tags": [
+                "publishing"
             ]
         },
         {
@@ -9329,18 +9722,6 @@
             ]
         },
         {
-            "name": "Democracy At Work",
-            "url": "https://t.co/rjTom2xEqZ",
-            "description": "d@w produces media & live events to expose capitalism’s systemic problems & to show how democratizing our workplaces solves them. Co-founded by @profwolff",
-            "description_short": "d@w produces media & live events to expose capitalism’s systemic problems & to show how democratizing our workplaces sol",
-            "image_file_name": "democracyatwrk.jpeg",
-            "profile_uid": "ff31029a-5d8d-4b7c-9f7b-4c0107348cd3",
-            "screen_name": "democracyatwrk",
-            "tags": [
-                "solidarity-economy"
-            ]
-        },
-        {
             "name": "Majority Report",
             "url": "https://t.co/1ucJzQ5Byg",
             "description": "Hosted by @samseder. The Majority Report is an unbought, unbossed daily political talk show. Awarded Best Political Podcast 5 times #LeftIsBest",
@@ -9487,6 +9868,19 @@
             ]
         },
         {
+            "name": "Lancaster Stands Up",
+            "url": "https://lancasterstandsup.org/",
+            "description": " We the People are organizing ourselves into a grassroots force to challenge the elite interests that have corrupted our political system and sold off our future.",
+            "description_short": " We the People are organizing ourselves into a grassroots force to challenge the elite interests that have corrupted our",
+            "image_file_name": null,
+            "profile_uid": "857990bd-3e2d-44b0-ae55-06b407c51074",
+            "screen_name": null,
+            "tags": [
+                "electoral",
+                "community-based"
+            ]
+        },
+        {
             "name": "Left Voice",
             "url": "https://t.co/qNLl99m3aA",
             "description": "Socialism's resurgent in the United States. Left Voice is a new publication that argues for a revolutionary and internationalist strategy. contact@leftvoice.org",
@@ -9585,6 +9979,19 @@
             "tags": [
                 "progressive",
                 "electoral"
+            ]
+        },
+        {
+            "name": "Mothers Out Front",
+            "url": "https://www.mothersoutfront.org/",
+            "description": "Mothers Out Front is founded on the conviction that there is no more powerful force for change than women mobilizing to protect their children.",
+            "description_short": "Mothers Out Front is founded on the conviction that there is no more powerful force for change than women mobilizing to ",
+            "image_file_name": null,
+            "profile_uid": "366d2f7b-64b2-4c6c-9885-74f888b4a7ef",
+            "screen_name": null,
+            "tags": [
+                "feminist",
+                "climate"
             ]
         },
         {
@@ -10091,18 +10498,6 @@
             ]
         },
         {
-            "name": "Communication Workers of America",
-            "url": "https://t.co/YcnZt5Inzw",
-            "description": "CWA represents workers in private and public sector employment in 1,200 chartered CWA local unions. CWA members work in telecommunications and information technology, the airline industry, news media, broadcast and cable television, education, health care, public service and education, law enforcement, manufacturing and other fields.",
-            "description_short": "CWA represents workers in private and public sector employment in 1,200 chartered CWA local unions. CWA members work in ",
-            "image_file_name": "CWAUnion.jpeg",
-            "profile_uid": "df085c44-b3c0-4a65-a0ed-ff6fbb6bd2be",
-            "screen_name": "CWAUnion",
-            "tags": [
-                "union"
-            ]
-        },
-        {
             "name": "ROC United",
             "url": "https://t.co/CZ4xn9BQ2Q",
             "description": "We're a national restaurant worker rights' group. To get involved, DM us or text ROC to 40817.",
@@ -10112,6 +10507,18 @@
             "screen_name": "rocunited",
             "tags": [
                 "labor"
+            ]
+        },
+        {
+            "name": "Communication Workers of America",
+            "url": "https://t.co/YcnZt5Inzw",
+            "description": "CWA represents workers in private and public sector employment in 1,200 chartered CWA local unions. CWA members work in telecommunications and information technology, the airline industry, news media, broadcast and cable television, education, health care, public service and education, law enforcement, manufacturing and other fields.",
+            "description_short": "CWA represents workers in private and public sector employment in 1,200 chartered CWA local unions. CWA members work in ",
+            "image_file_name": "CWAUnion.jpeg",
+            "profile_uid": "df085c44-b3c0-4a65-a0ed-ff6fbb6bd2be",
+            "screen_name": "CWAUnion",
+            "tags": [
+                "union"
             ]
         },
         {
@@ -10634,18 +11041,6 @@
             ]
         },
         {
-            "name": "Economic Hardship Reporting Project",
-            "url": "https://t.co/8GNuJKC2w3",
-            "description": "We support quality journalism about inequality and poverty in America. Edited by @lisquart and @DavidRWallis. Tweets by @rachsanoff.",
-            "description_short": "We support quality journalism about inequality and poverty in America. Edited by @lisquart and @DavidRWallis. Tweets by ",
-            "image_file_name": "econhardship.jpeg",
-            "profile_uid": "eb7d8474-21c1-4fc1-92f4-a1ac624355d4",
-            "screen_name": "econhardship",
-            "tags": [
-                null
-            ]
-        },
-        {
             "name": "Industrial Workers of the World",
             "url": "https://t.co/GcSzafGRvV",
             "description": "The Industrial Workers of the World (IWW) is a worker-run union dedicated to direct action, industrial democracy, and unrelenting class struggle.",
@@ -10782,6 +11177,20 @@
             ]
         },
         {
+            "name": "Verso Books",
+            "url": "https://t.co/1s4PzM1MGm",
+            "description": "Verso Books is the largest independent, radical publishing house in the English speaking world.",
+            "description_short": "Verso Books is the largest independent, radical publishing house in the English speaking world.",
+            "image_file_name": "VersoBooks.jpeg",
+            "profile_uid": "56e1fff6-1184-4817-b64a-8218c5d66eff",
+            "screen_name": "VersoBooks",
+            "tags": [
+                "publishing",
+                "media",
+                "united-kingdom"
+            ]
+        },
+        {
             "name": "Red Canary Song",
             "url": "https://www.redcanarysong.net/",
             "description": "Red Canary Song, a grassroots collective, based in Queens, NY/unceeded Lenape land, of Asian and migrant massage workers an sex workers centering basebuilding with migrant workers through a labor rights framework and mutual aid. ",
@@ -10894,6 +11303,18 @@
             ]
         },
         {
+            "name": "CPD Action",
+            "url": "https://cpdaction.org/",
+            "description": null,
+            "description_short": null,
+            "image_file_name": null,
+            "profile_uid": "dedf3b4f-2afb-46be-a5f3-02c409d4a65a",
+            "screen_name": null,
+            "tags": [
+                "community-based"
+            ]
+        },
+        {
             "name": "Nation Inside",
             "url": "https://workingnarratives.org/project/nation-inside/",
             "description": "Nation Inside is a network of grassroots organizations fighting to end mass incarceration. It's a project of Narrative Arts.",
@@ -10965,6 +11386,18 @@
             "screen_name": "SocialDemsUSA",
             "tags": [
                 null
+            ]
+        },
+        {
+            "name": "Democracy At Work",
+            "url": "https://t.co/rjTom2xEqZ",
+            "description": "d@w produces media & live events to expose capitalism’s systemic problems & to show how democratizing our workplaces solves them. Co-founded by @ProfRDWolff",
+            "description_short": "d@w produces media & live events to expose capitalism’s systemic problems & to show how democratizing our workplaces sol",
+            "image_file_name": "democracyatwrk.jpeg",
+            "profile_uid": "ff31029a-5d8d-4b7c-9f7b-4c0107348cd3",
+            "screen_name": "democracyatwrk",
+            "tags": [
+                "solidarity-economy"
             ]
         },
         {

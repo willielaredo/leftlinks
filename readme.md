@@ -15,9 +15,14 @@ People can click out to a member's
 
 ## Technical Notes
 
-LeftLinks is a single page application built with vanilla javascript/html/css. 
+LeftLinks is a single page application built with vanilla javascript/html/css.
 
-The app data, stored in JSON format, is refreshed on a schedule from a postgres database hosted on Heroku.
+## Data
 
-Data/content is managed via a directus admin panel hosted locally.
+Data is sourced from a postgres database hosted on Heroku.
 
+There is no job that updates the orgs.json file regularly. Updates are make ad hoc.
+
+The postgres database is also used as a source to [Left Guide](https://left.guide), which was a previous iteration of LeftLinks.
+
+Data/content is managed via a directus admin panel that runs locally.

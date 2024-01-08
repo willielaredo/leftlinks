@@ -13,12 +13,7 @@
         {
             "tag_name": "academic",
             "tag_display": "Academic",
-            "tag_count": 44
-        },
-        {
-            "tag_name": "actor",
-            "tag_display": "Actor",
-            "tag_count": 4
+            "tag_count": 19
         },
         {
             "tag_name": "anarchist",
@@ -38,42 +33,42 @@
         {
             "tag_name": "bernie",
             "tag_display": "Bernie",
-            "tag_count": 36
+            "tag_count": 17
         },
         {
             "tag_name": "bipoc",
             "tag_display": "BIPOC",
-            "tag_count": 20
+            "tag_count": 10
         },
         {
             "tag_name": "black-liberation",
             "tag_display": "Black Liberatiion",
-            "tag_count": 17
+            "tag_count": 15
         },
         {
             "tag_name": "blm",
             "tag_display": "BLM",
-            "tag_count": 5
+            "tag_count": 4
         },
         {
             "tag_name": "china",
             "tag_display": "China",
-            "tag_count": 5
+            "tag_count": 4
         },
         {
             "tag_name": "climate",
             "tag_display": "Climate",
-            "tag_count": 105
+            "tag_count": 96
         },
         {
             "tag_name": "coalition",
             "tag_display": "Coalition",
-            "tag_count": 9
+            "tag_count": 8
         },
         {
             "tag_name": "communist",
             "tag_display": "Communist",
-            "tag_count": 16
+            "tag_count": 15
         },
         {
             "tag_name": "community-based",
@@ -93,7 +88,7 @@
         {
             "tag_name": "debt",
             "tag_display": "Debt",
-            "tag_count": 5
+            "tag_count": 4
         },
         {
             "tag_name": "defund-the-police",
@@ -103,12 +98,12 @@
         {
             "tag_name": "dsa",
             "tag_display": "DSA",
-            "tag_count": 105
+            "tag_count": 87
         },
         {
             "tag_name": "economics",
             "tag_display": "Economics",
-            "tag_count": 9
+            "tag_count": 5
         },
         {
             "tag_name": "ecosocialism",
@@ -123,12 +118,12 @@
         {
             "tag_name": "elected",
             "tag_display": "Elected Official",
-            "tag_count": 53
+            "tag_count": 3
         },
         {
             "tag_name": "electoral",
             "tag_display": "Electoral",
-            "tag_count": 46
+            "tag_count": 40
         },
         {
             "tag_name": "environmental-justice",
@@ -138,12 +133,12 @@
         {
             "tag_name": "faith",
             "tag_display": "Faith",
-            "tag_count": 11
+            "tag_count": 9
         },
         {
             "tag_name": "feminist",
             "tag_display": "Feminist",
-            "tag_count": 8
+            "tag_count": 7
         },
         {
             "tag_name": "fight-for-fifteen",
@@ -168,17 +163,12 @@
         {
             "tag_name": "green-new-deal",
             "tag_display": "Green New Deal",
-            "tag_count": 4
+            "tag_count": 1
         },
         {
             "tag_name": "health-justice",
             "tag_display": "Health Justice",
-            "tag_count": 7
-        },
-        {
-            "tag_name": "hip-hop",
-            "tag_display": "Hip Hop",
-            "tag_count": 1
+            "tag_count": 6
         },
         {
             "tag_name": "history",
@@ -203,57 +193,47 @@
         {
             "tag_name": "international",
             "tag_display": "International",
-            "tag_count": 27
+            "tag_count": 22
         },
         {
             "tag_name": "jacobin",
             "tag_display": "Jacobin",
-            "tag_count": 12
-        },
-        {
-            "tag_name": "journalist",
-            "tag_display": "Journalist",
-            "tag_count": 7
+            "tag_count": 5
         },
         {
             "tag_name": "labor",
             "tag_display": "Labor",
-            "tag_count": 95
+            "tag_count": 83
         },
         {
             "tag_name": "latinx",
             "tag_display": "Latinx",
-            "tag_count": 16
+            "tag_count": 12
         },
         {
             "tag_name": "legal",
             "tag_display": "Legal",
-            "tag_count": 9
+            "tag_count": 7
         },
         {
             "tag_name": "lgbtq",
             "tag_display": "LGBTQIA+",
-            "tag_count": 3
+            "tag_count": 2
         },
         {
             "tag_name": "marxism",
             "tag_display": "Marxism",
-            "tag_count": 18
+            "tag_count": 15
         },
         {
             "tag_name": "media",
             "tag_display": "Media",
-            "tag_count": 151
+            "tag_count": 141
         },
         {
             "tag_name": "medicare-for-all",
             "tag_display": "Medicare for All",
-            "tag_count": 29
-        },
-        {
-            "tag_name": "music",
-            "tag_display": "Music",
-            "tag_count": 3
+            "tag_count": 19
         },
         {
             "tag_name": "non-violence",
@@ -271,11 +251,6 @@
             "tag_count": 18
         },
         {
-            "tag_name": "palestine",
-            "tag_display": "Palestine",
-            "tag_count": 2
-        },
-        {
             "tag_name": "peace",
             "tag_display": "Peace",
             "tag_count": 11
@@ -283,22 +258,22 @@
         {
             "tag_name": "podcast",
             "tag_display": "Podcast",
-            "tag_count": 63
+            "tag_count": 41
         },
         {
             "tag_name": "poverty",
             "tag_display": "Poverty",
-            "tag_count": 3
+            "tag_count": 1
         },
         {
             "tag_name": "prison-abolition",
             "tag_display": "Prison Abolition",
-            "tag_count": 2
+            "tag_count": 1
         },
         {
             "tag_name": "progressive",
             "tag_display": "Progressive",
-            "tag_count": 40
+            "tag_count": 38
         },
         {
             "tag_name": "publishing",
@@ -308,7 +283,7 @@
         {
             "tag_name": "radio",
             "tag_display": "Radio",
-            "tag_count": 12
+            "tag_count": 10
         },
         {
             "tag_name": "rural",
@@ -323,7 +298,7 @@
         {
             "tag_name": "socialist",
             "tag_display": "Socialist",
-            "tag_count": 155
+            "tag_count": 143
         },
         {
             "tag_name": "solidarity-economy",
@@ -338,17 +313,12 @@
         {
             "tag_name": "tech",
             "tag_display": "Tech",
-            "tag_count": 24
-        },
-        {
-            "tag_name": "television",
-            "tag_display": "Television",
-            "tag_count": 4
+            "tag_count": 22
         },
         {
             "tag_name": "union",
             "tag_display": "Union",
-            "tag_count": 42
+            "tag_count": 38
         },
         {
             "tag_name": "united-kingdom",
@@ -359,11 +329,6 @@
             "tag_name": "utility-justice",
             "tag_display": "Utility Justice",
             "tag_count": 5
-        },
-        {
-            "tag_name": "writer",
-            "tag_display": "Writer",
-            "tag_count": 58
         }
     ]
 }

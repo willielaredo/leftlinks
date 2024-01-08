@@ -8,8 +8,11 @@ const configureClient = async () => {
   
   auth0Client = await auth0.createAuth0Client({
     domain: config.domain,
-    clientId: config.clientId
+    clientId: config.clientId,
+    useRefreshTokens: true,
+    cacheLocation: 'localstorage'
   });
+    
 };
 
 window.onload = async () => {
@@ -17,10 +20,10 @@ window.onload = async () => {
     updateUI();
     const isAuthenticated = await auth0Client.isAuthenticated();
 
-  if (isAuthenticated) {
-    // show the gated content
-    return;
-  }
+//   if (isAuthenticated) {
+//     // show the gated content
+//     return;
+//   }
 
   // NEW - check for the code and state parameters
   const query = window.location.search;

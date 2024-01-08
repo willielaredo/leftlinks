@@ -33,6 +33,14 @@ header img {
     margin-bottom: 15px;
 }
 
+.auth {
+    float: right;
+}
+
+#username {
+    display: inline;
+}
+
 #search {
     padding-bottom: 15px;
 }
@@ -194,8 +202,13 @@ article p {
     text-align: right;
 }
 
-.is-hidden {
+.is-hidden,
+.auth-button {
     display: none;
+}
+
+.display_true {
+    display: block;
 }
 
 

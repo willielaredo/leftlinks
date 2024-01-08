@@ -8,24 +8,40 @@
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Rubik&family=Lato">
      <script type="module" src="js.js"></script>
+     
 </head>
 <body id="load">
     <header>
-        <a href="/"><img src="img/logo.png"></a>
+        <div>
+            <div class="auth">
+                <span class="is-hidden" id="username">
+                    <span id="profile"></span>
+                </span>
+                <button class="auth-btn" id="login" >Log in</button>
+                <button class="auth-btn" id="logout" >Log out</button>
+            </div>
+            <div>
+                <a href="/"><img src="img/logo.png"></a>
+            </div>
+        </div>
         <div class="header-text">
-        <h1>
-        Largest Left Directory <span class="header-details">with <span id="count"></span> Organizations, Movements, and Media</span>
-        </h1>
-    </div>
-    <div id="search">
-        <label for="org_input">SEARCH</label>
-        <input type="text" id="org_input">
-        <button id="clear-search">CLEAR</button>
-    </div>
-    <h2 id="filter-context"></h2>
+            <h1>
+            Largest Left Directory <span class="header-details">with <span id="count"></span> Organizations, Movements, and Media</span>
+            </h1>
+        </div>
+        <div id="search">
+            <label for="org_input">SEARCH</label>
+            <input type="text" id="org_input">
+            <button id="clear-search">CLEAR</button>
+        </div>
+        <h2 id="filter-context"></h2>
     </header>
     <div id="org_results"></div>
     <div id="issues"></div>
     <div id="cards"></div>
 </body>
+<script src="https://cdn.auth0.com/js/auth0-spa-js/2.0/auth0-spa-js.production.js"></script>
+<script type="module" src="app.js"></script>
+<script type="module" src="js.js"></script>
+
 </html>

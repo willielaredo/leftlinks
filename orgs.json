@@ -25,18 +25,6 @@
             ]
         },
         {
-            "name": "South Bay Progressive Alliance",
-            "url": "https://southbaypa.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "0cf9ab60-96de-40e5-a64d-b312c4db53dc",
-            "screen_name": null,
-            "tags": [
-                "progressive"
-            ]
-        },
-        {
             "name": "The People's Summit",
             "url": "https://t.co/TgvjZUEfZo",
             "description": "We seek to bring together activists committed to a different kind of platform: a People’s Platform. #PPLSummit",
@@ -250,18 +238,6 @@
             ]
         },
         {
-            "name": "Philly Socialists",
-            "url": "https://www.phillysocialists.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "d74a8781-ec50-4f9f-8db6-c5ce7cadb344",
-            "screen_name": null,
-            "tags": [
-                "socialist"
-            ]
-        },
-        {
             "name": "A Community Voice - Louisiana",
             "url": "http://www.acommunityvoice.org/",
             "description": "\n\n        \n                \n\n                        \n\n        \n                A Community Voice (ACV) is an affiliate of ACORN\n and a non-profit community organization comprised of working, poor, \nelderly, women, children, and families.  ACV provides a community voice \nfor its members and constituencies in the everyday issues that affect \ntheir daily lives.  This enables the community to bring together those \nwho have common interests and concerns to improve the quality of their \nlives and those of others in the community.\nA Community Voice was founded on October \n22nd, 2009 by the former board members of Louisiana ACORN. A Community \nVoice members fight for social and economic justice for low to moderate \nincome families.",
@@ -293,18 +269,6 @@
             "image_file_name": "BTroublemakers.jpeg",
             "profile_uid": "e61ead39-5c65-4d9c-8338-e805ae70505e",
             "screen_name": "BTroublemakers",
-            "tags": [
-                null
-            ]
-        },
-        {
-            "name": "Solutionary Rail",
-            "url": "https://www.solutionaryrail.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "04301673-ad09-44fe-9fb9-814f9855932f",
-            "screen_name": null,
             "tags": [
                 null
             ]
@@ -532,20 +496,6 @@
             ]
         },
         {
-            "name": "Clark Climate Justice",
-            "url": "https://www.facebook.com/clarkclimatejustice/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "294c7439-6e25-4093-96ab-6e30721b54b3",
-            "screen_name": null,
-            "tags": [
-                "academic",
-                "student-youth",
-                "climate"
-            ]
-        },
-        {
             "name": "Trader Joe's United",
             "url": "https://t.co/hXvGrL4boE",
             "description": "We are the worker-led movement organizing Trader Joe’s.\n\nhttps://www.gofundme.com/f/trader-joes-united-solidarity-fund",
@@ -669,19 +619,6 @@
             ]
         },
         {
-            "name": "SustainUS",
-            "url": "https://sustainus.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "3ed29a0d-adbb-4d7c-98dd-dbff2e766e63",
-            "screen_name": null,
-            "tags": [
-                "student-youth",
-                "climate"
-            ]
-        },
-        {
             "name": "Progressive Mass",
             "url": "https://t.co/neP5ttYBqS",
             "description": "building and strengthening the progressive grassroots across MA.  https://t.co/6hCfZZ24sY\nalso--we have a scorecard: https://t.co/21Zz7w4R31",
@@ -801,6 +738,18 @@
             "screen_name": "iacenter",
             "tags": [
                 "anti-imperialist"
+            ]
+        },
+        {
+            "name": "The Peoples Puppets of Occupy Wall Street",
+            "url": "https://peoplespuppets.org/",
+            "description": "The People's Puppets of Occupy Wall Street (also known as the OWS Puppet Guild) uses art to fight for social justice.",
+            "description_short": "The People's Puppets of Occupy Wall Street (also known as the OWS Puppet Guild) uses art to fight for social justice.",
+            "image_file_name": null,
+            "profile_uid": "ee497b7c-209a-488e-8957-1221c9731d80",
+            "screen_name": null,
+            "tags": [
+                "occupy"
             ]
         },
         {
@@ -1044,18 +993,6 @@
             "screen_name": "WARSCAPES",
             "tags": [
                 null
-            ]
-        },
-        {
-            "name": "Indivisible - New Jersey 5th District",
-            "url": "https://indivisiblenj5.com/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "2e5ccd64-c174-4cd5-952c-f6395a2071eb",
-            "screen_name": null,
-            "tags": [
-                "progressive"
             ]
         },
         {
@@ -1334,18 +1271,6 @@
             ]
         },
         {
-            "name": "Green Party - New York",
-            "url": "https://www.gpny.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "f4a5bde0-f295-4d07-997e-db7224907aa7",
-            "screen_name": null,
-            "tags": [
-                "electoral"
-            ]
-        },
-        {
             "name": "32BJ SEIU",
             "url": "https://www.seiu32bj.org/",
             "description": "This is the mission.",
@@ -1468,19 +1393,6 @@
             ]
         },
         {
-            "name": "Tempest Magazine",
-            "url": "https://www.tempestmag.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "77a0afcb-6f84-4338-8b41-08c833f346fa",
-            "screen_name": null,
-            "tags": [
-                "socialist",
-                "media"
-            ]
-        },
-        {
             "name": "Bertha Foundation",
             "url": "https://berthafoundation.org/",
             "description": "Bertha Foundation supports activists, storytellers and lawyers that are working to bring about social and economic justice, and human rights for all.",
@@ -1515,20 +1427,6 @@
             "screen_name": "WNYSocialist",
             "tags": [
                 "socialist"
-            ]
-        },
-        {
-            "name": "Monthly Review Foundation",
-            "url": "https://monthlyreview.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "052f8ccc-9273-4208-9705-d097adea637a",
-            "screen_name": null,
-            "tags": [
-                "publishing",
-                "socialist",
-                "media"
             ]
         },
         {
@@ -1689,7 +1587,6 @@
             "profile_uid": "d4c8cd1e-f894-4159-88ca-0f57f183582f",
             "screen_name": "DSACuba",
             "tags": [
-                "twitter-only",
                 "international",
                 "cuba",
                 "dsa"
@@ -1879,18 +1776,6 @@
             "screen_name": "ciw",
             "tags": [
                 "labor"
-            ]
-        },
-        {
-            "name": "Presente.org",
-            "url": "https://presente.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "bcb74f53-f012-44ce-9654-76a0ecbce6cc",
-            "screen_name": null,
-            "tags": [
-                "latinx"
             ]
         },
         {
@@ -2163,6 +2048,18 @@
             ]
         },
         {
+            "name": "Regeneration",
+            "url": null,
+            "description": "Regeneration Magazine is the official publication of the Marxist\r\n Center network. It functions as a space for conversation between \r\nMarxist Center affiliated organizations and others of the revolutionary \r\nleft. Regeneration exists to accommodate their struggles and \r\nexperiences, to interrogate our current conditions, and engage in \r\nsubstantive debate. We seek to develop theory and practice appropriate \r\nto the construction of an independent working class movement for \r\nliberation in the 21st century.",
+            "description_short": "Regeneration Magazine is the official publication of the Marxist\r\n Center network. It functions as a space for conversat",
+            "image_file_name": null,
+            "profile_uid": "f1813dbf-5f1e-47a9-a812-bc42be402a4d",
+            "screen_name": null,
+            "tags": [
+                null
+            ]
+        },
+        {
             "name": "Rampant Magazine",
             "url": "https://rampantmag.com/",
             "description": "Rampant Magazine is firmly grounded in the need to strengthen and expand the self-reliance of social movements and worker organizing. We are unapologetically anti-racist, feminist, and revolutionary socialist.\n\nOur goals are multiple and overlapping. We aim to make the structures of ruling class power visible and to highlight how they shape everyone’s lived realities. But our goal isn’t simply to understand the world, we aim to change it. Rampant Magazine is a platform for current debates about movement organizing and political strategy. Finally, we want to open up space for dreaming, for imagining a socialist future built from the raw materials of our everyday lives. ",
@@ -2263,18 +2160,6 @@
             ]
         },
         {
-            "name": "Decarcerate PA",
-            "url": "https://www.decarceratepa.info/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "15e75250-a719-4be5-9e5f-dfb6c0217a03",
-            "screen_name": null,
-            "tags": [
-                "prison-abolition"
-            ]
-        },
-        {
             "name": "Tribune",
             "url": "https://t.co/zRuUGnSl7S",
             "description": "Socialist since 1937.",
@@ -2336,18 +2221,6 @@
             "screen_name": "workersjusticep",
             "tags": [
                 null
-            ]
-        },
-        {
-            "name": "Unitarian Universalist Association",
-            "url": "https://www.uua.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "3897dfe7-1d38-4e4a-b0c5-51f8c045a599",
-            "screen_name": null,
-            "tags": [
-                "faith"
             ]
         },
         {
@@ -2482,18 +2355,6 @@
             "screen_name": "SocialMoveTech",
             "tags": [
                 "tech"
-            ]
-        },
-        {
-            "name": "Portside",
-            "url": "https://portside.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "9542feb2-cca1-401d-97c7-ef6410187728",
-            "screen_name": null,
-            "tags": [
-                "socialist"
             ]
         },
         {
@@ -2769,18 +2630,6 @@
             ]
         },
         {
-            "name": "Keystone Progress",
-            "url": "https://www.keystoneprogress.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "68718989-a88e-4487-9de4-cb0aa16dbf11",
-            "screen_name": null,
-            "tags": [
-                "progressive"
-            ]
-        },
-        {
             "name": "Socialist Alternative - St. Louis, MO",
             "url": "http://t.co/DTFlV4Bj5I",
             "description": "Socialist Alternative is a grassroots organization fighting to end LGBTQ, racial, and gender oppression through democratic socialism. Join us!",
@@ -3052,18 +2901,6 @@
             ]
         },
         {
-            "name": "Progress Michigan",
-            "url": "https://progressmichigan.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "db8fa99d-7b2d-4fa8-a99d-d2a1fa687b8d",
-            "screen_name": null,
-            "tags": [
-                "progressive"
-            ]
-        },
-        {
             "name": "General Strike 2020",
             "url": "https://t.co/Y7uTm0yogi",
             "description": "GenStrike.org is a grassroots platform for activist mobilization \ncentered around a simple goal: foster the circumstances needed to \nmobilize a General Strike. We formed out of a broader movement, inspired\n by spontaneous strikes and mutual aid networks arising all over the \nworld. We are not here to lead, own, steer, or direct this movement. We \nare here to support, foster, encourage, signal boost, and materially aid\n this movement.\nSpecifically, we seek to support individuals by introducing workers \nto organizations and information that will help them to self-organize \nand to support organizations that protect the working class. We hope to \nencourage organized growth, development, and unity among the working \nclass by signal boosting workers’ efforts, helping with organizational \ntechniques and fundraising, directing individuals to their \norganizations, and by providing them with a framework, tools, and \nassistance for coordinating activities and helping to establish networks\n of mutual aid.",
@@ -3175,19 +3012,6 @@
             ]
         },
         {
-            "name": "California Nurses Association ",
-            "url": "https://www.nationalnursesunited.org/california-nurses-association",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "77468428-9111-4a87-91a0-04a65e5b3a53",
-            "screen_name": null,
-            "tags": [
-                "medicare-for-all",
-                "union"
-            ]
-        },
-        {
             "name": "Socialist Alternative - Pacific Northwest",
             "url": "http://t.co/CVVTrhE9Ss",
             "description": "Socialist Alternative opposes the corporate domination of our lives in the interests of profit, and fights for a world controlled democratically by working ppl.",
@@ -3221,6 +3045,19 @@
             "screen_name": "RobinHoodTax",
             "tags": [
                 "finance"
+            ]
+        },
+        {
+            "name": "Mosquito Fleet",
+            "url": null,
+            "description": "The Mosquito Fleet is a regional network of paddlers, sailors, and community activists fighting for climate justice and a fossil-free Salish Sea through creative on-water direct action and grassroots movement building.",
+            "description_short": "The Mosquito Fleet is a regional network of paddlers, sailors, and community activists fighting for climate justice and ",
+            "image_file_name": null,
+            "profile_uid": "603b9b76-bb54-48e5-a85d-72e3dbec0749",
+            "screen_name": null,
+            "tags": [
+                "not-left",
+                "climate"
             ]
         },
         {
@@ -3392,19 +3229,6 @@
             "tags": [
                 "marxism",
                 "media"
-            ]
-        },
-        {
-            "name": "Murphy Institute/CUNY",
-            "url": "https://slu.cuny.edu/about/murphy-institute/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "460d05e2-1b19-4ab0-af8f-629a8177fb24",
-            "screen_name": null,
-            "tags": [
-                "academic",
-                "labor"
             ]
         },
         {
@@ -3602,18 +3426,6 @@
             ]
         },
         {
-            "name": "National Jobs for All Coalition",
-            "url": "https://njfac.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "243d2d07-4c06-482d-a3a9-ce89db609ab3",
-            "screen_name": null,
-            "tags": [
-                "labor"
-            ]
-        },
-        {
             "name": "Anarchist News",
             "url": null,
             "description": "Anarchy & anarchist news, events, uprisings, protests, solidarity, anti-government, radical news, art, and revolutions https://t.co/VnDWpqAVcc",
@@ -3647,19 +3459,6 @@
             "screen_name": "SocialistNY",
             "tags": [
                 "socialist"
-            ]
-        },
-        {
-            "name": "CT Coalition for Environmental Justice",
-            "url": "https://www.facebook.com/CTCEEJ/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "21ee81c0-0cbe-418f-86f4-312d6caa3335",
-            "screen_name": null,
-            "tags": [
-                "environmental-justice",
-                "climate"
             ]
         },
         {
@@ -3722,19 +3521,6 @@
             "tags": [
                 "lgbtq",
                 "abolition"
-            ]
-        },
-        {
-            "name": "UAW local 4121",
-            "url": "https://www.uaw4121.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "2376214c-d07a-45fc-bb94-942f724ccbe2",
-            "screen_name": null,
-            "tags": [
-                "union",
-                "labor"
             ]
         },
         {
@@ -3885,18 +3671,6 @@
             ]
         },
         {
-            "name": "Santa Cruz Climate Action Network",
-            "url": "https://scruzclimate.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "2a7ea9d3-350b-4547-9fbb-20788283d218",
-            "screen_name": null,
-            "tags": [
-                "climate"
-            ]
-        },
-        {
             "name": "The Solutions Project",
             "url": "https://thesolutionsproject.org/",
             "description": "We fund and amplify climate justice solutions created by Black, Indigenous, immigrant, women and communities of color building an equitable world. ",
@@ -3932,18 +3706,6 @@
             "screen_name": "Roots_Action",
             "tags": [
                 null
-            ]
-        },
-        {
-            "name": "DC Statehood Green Party",
-            "url": "https://www.facebook.com/DCStatehoodGP/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "8532ae7d-bf16-435a-a0a9-b4d6a38a51ee",
-            "screen_name": null,
-            "tags": [
-                "electoral"
             ]
         },
         {
@@ -4254,30 +4016,6 @@
             "screen_name": "BostonTenants",
             "tags": [
                 "housing"
-            ]
-        },
-        {
-            "name": "People for Public Banking Central Coast",
-            "url": "https://peopleforpublicbanking.com/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "91e46d62-d3b9-4860-9b88-09753bad3d58",
-            "screen_name": null,
-            "tags": [
-                "finance"
-            ]
-        },
-        {
-            "name": "Committees of Correspondence for Democracy and Socialism",
-            "url": "https://www.cc-ds.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "31405727-e78c-4125-9bd8-0785921d54c9",
-            "screen_name": null,
-            "tags": [
-                "socialist"
             ]
         },
         {
@@ -4651,18 +4389,6 @@
             ]
         },
         {
-            "name": "Our Revolution - Nevada",
-            "url": "https://www.facebook.com/groups/1352996208145111/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "0cebaba6-c481-48a1-a9e8-57626422b468",
-            "screen_name": null,
-            "tags": [
-                "bernie"
-            ]
-        },
-        {
             "name": "Black Visions",
             "url": "https://t.co/Z9NkBRae1N",
             "description": "We have nothing to lose but our chains.",
@@ -4777,18 +4503,6 @@
             ]
         },
         {
-            "name": "Green Party - Illinois ",
-            "url": "https://www.ilgp.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "92e1ee84-3f76-4517-b22b-3b48d641a66f",
-            "screen_name": null,
-            "tags": [
-                "electoral"
-            ]
-        },
-        {
             "name": "Movement School",
             "url": "https://t.co/aNyAF9toYO",
             "description": "Cultivating the next generation of leaders and organizers to mobilize grassroots engagement in the democratic process💥✊🏽 Sister org of @justicedems",
@@ -4826,6 +4540,18 @@
             ]
         },
         {
+            "name": "IWW - Pittsburgh, PA",
+            "url": null,
+            "description": "The IWW is a member-run union for all workers, a union dedicated to organizing on the job, in our industries and in our communities.",
+            "description_short": "The IWW is a member-run union for all workers, a union dedicated to organizing on the job, in our industries and in our ",
+            "image_file_name": null,
+            "profile_uid": "eac1b6c0-edc0-4b1b-9a34-b43653190917",
+            "screen_name": null,
+            "tags": [
+                "labor"
+            ]
+        },
+        {
             "name": "Fight for 15",
             "url": "http://fightfor15.org/",
             "description": "The Fight for $15 started with just a few hundred fast food workers in New York City, striking for $15 an hour and union rights.\n\nToday, we’re an international movement in over 300 cities on six continents of fast-food workers, home health aides, child care teachers, airport workers, adjunct professors, retail employees and underpaid workers everywhere.\n\nFor too long, McDonald’s and low-wage employers have made billions of dollars in profit and pushed off costs onto taxpayers, while leaving people like us—the people who do the real work—to struggle to survive.\n\nThat’s why we strike.\n\nWe can’t feed our families, pay our bills or even keep a roof over our heads on minimum wage pay.\n\nWhen we first took the streets, the skeptics called us dreamers and said a $15 wage was “unwinnable.”\n\nWe didn’t listen.",
@@ -4848,18 +4574,6 @@
             "tags": [
                 "marxism",
                 "dsa"
-            ]
-        },
-        {
-            "name": "Marxist-Leninist-Maoist Revolutionary Study Group",
-            "url": "https://www.mlmrsg.com/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "80263afc-b494-4a68-bdf6-9bd914f20fb2",
-            "screen_name": null,
-            "tags": [
-                "socialist"
             ]
         },
         {
@@ -5157,6 +4871,19 @@
             ]
         },
         {
+            "name": "350",
+            "url": "https://t.co/PvZxwygbQd",
+            "description": "[null]",
+            "description_short": "[null]",
+            "image_file_name": "350.jpeg",
+            "profile_uid": "bad3e601-0c5c-4cbf-9837-629d57217800",
+            "screen_name": "350",
+            "tags": [
+                "not-left",
+                "climate"
+            ]
+        },
+        {
             "name": "Young Democratic Socialists - Sewanee: University of the South",
             "url": null,
             "description": "Official Twitter account of the Sewanee Young Democtratic Socialists @ydsdsa @demsocialists #Trysocialism",
@@ -5263,18 +4990,6 @@
             "screen_name": null,
             "tags": [
                 null
-            ]
-        },
-        {
-            "name": "The People for Bernie Sanders",
-            "url": "https://peopleforbernie.com/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "a6518241-0fe9-430a-a8f4-9c876d624bea",
-            "screen_name": null,
-            "tags": [
-                "bernie"
             ]
         },
         {
@@ -5448,18 +5163,6 @@
             ]
         },
         {
-            "name": "Health Care for All Oregon ",
-            "url": "https://www.hcao.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "9a2f754e-1743-4535-8447-44c3698c477c",
-            "screen_name": null,
-            "tags": [
-                "medicare-for-all"
-            ]
-        },
-        {
             "name": "It Could Happen Here Podcast",
             "url": "https://t.co/stwDVH2Lhq",
             "description": "",
@@ -5534,18 +5237,6 @@
             ]
         },
         {
-            "name": "The Peoples Puppets of Occupy Wall Street",
-            "url": "https://peoplespuppets.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "ee497b7c-209a-488e-8957-1221c9731d80",
-            "screen_name": null,
-            "tags": [
-                "occupy"
-            ]
-        },
-        {
             "name": "Hedge Clippers",
             "url": "http://hedgeclippers.org/",
             "description": "Hedge Clippers is a national campaign focused on unmasking the dark money schemes and strategies the billionaire elite uses to expand their wealth, consolidate power and obscure accountability for their misdeeds.",
@@ -5603,18 +5294,6 @@
             "screen_name": "PacificaRadioAr",
             "tags": [
                 "radio"
-            ]
-        },
-        {
-            "name": "Peace and Freedom Party",
-            "url": "http://www.peaceandfreedom.org",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "f576efa0-5549-4fc0-bb03-1aa1f28ded56",
-            "screen_name": null,
-            "tags": [
-                "electoral"
             ]
         },
         {
@@ -5899,20 +5578,6 @@
             ]
         },
         {
-            "name": "Move to Amend",
-            "url": "https://www.movetoamend.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "17b7e411-82d8-4c15-b76d-4f5985156108",
-            "screen_name": null,
-            "tags": [
-                "coalition",
-                "legal",
-                "finance"
-            ]
-        },
-        {
             "name": "Audre Lorde Project",
             "url": "http://alp.org/",
             "description": "The Audre Lorde Project is a Lesbian, Gay, Bisexual, Two Spirit, Trans and Gender Non Conforming People of Color center for community organizing, focusing on the New York City area. Through mobilization, education and capacity-building, we work for community wellness and progressive social and economic justice. Committed to struggling across differences, we seek to responsibly reflect, represent and serve our various communities.",
@@ -5932,18 +5597,6 @@
             "image_file_name": "nplusonemag.jpeg",
             "profile_uid": "4f996e5c-d898-45f1-a87d-9cbf6ec00c4e",
             "screen_name": "nplusonemag",
-            "tags": [
-                null
-            ]
-        },
-        {
-            "name": "Right to the City",
-            "url": "https://righttothecity.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "cbf18b35-c9fe-4fe2-b293-fbcbd3bfeb2b",
-            "screen_name": null,
             "tags": [
                 null
             ]
@@ -6912,20 +6565,6 @@
             ]
         },
         {
-            "name": "Seeding Sovereignty",
-            "url": "https://seedingsovereignty.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "944e2233-6081-4214-ac6c-c3c56fa27fac",
-            "screen_name": null,
-            "tags": [
-                "food-justice",
-                "climate",
-                "indigenous"
-            ]
-        },
-        {
             "name": "Haymarket Books",
             "url": "https://t.co/UjSUKOxydj",
             "description": "radical publisher of politics, culture, current events | follow @haymarkethouse",
@@ -6950,15 +6589,15 @@
             ]
         },
         {
-            "name": "Public Bank Santa Rosa",
-            "url": "http://www.publicbanksantarosa.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "68eedf11-cfa8-489b-a939-b98f75cebecd",
-            "screen_name": null,
+            "name": "350 Bay Area Action",
+            "url": "https://350bayareaaction.org/",
+            "description": "SF Bay Area grassroots climate movement pushing to eliminate carbon pollution. We press for socially equitable solutions for a just transition to clean energy.",
+            "description_short": "SF Bay Area grassroots climate movement pushing to eliminate carbon pollution. We press for socially equitable solutions",
+            "image_file_name": "350BAAction.jpeg",
+            "profile_uid": "a2c83d5b-80f2-4dce-9149-eef223a95701",
+            "screen_name": "350BAAction",
             "tags": [
-                "finance"
+                "not-left"
             ]
         },
         {
@@ -7171,19 +6810,6 @@
             "screen_name": "RedintheFacepod",
             "tags": [
                 "podcast"
-            ]
-        },
-        {
-            "name": "Institute for Social Ecology",
-            "url": "https://social-ecology.org/wp/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "6da977ad-a120-4ebe-953c-aca924f45d91",
-            "screen_name": null,
-            "tags": [
-                "anarchist",
-                "climate"
             ]
         },
         {
@@ -7500,19 +7126,6 @@
             ]
         },
         {
-            "name": "Service Employees International Union 1021",
-            "url": "https://www.seiu1021.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "5267d21d-020e-46e2-91ad-c81536ea8458",
-            "screen_name": null,
-            "tags": [
-                "union",
-                "labor"
-            ]
-        },
-        {
             "name": "Columbus Community Bill of Rights",
             "url": "https://columbusbillofrights.org/",
             "description": "",
@@ -7749,6 +7362,18 @@
             ]
         },
         {
+            "name": "350 Colorado Action",
+            "url": null,
+            "description": "We're changing the politics of climate change in Colorado.",
+            "description_short": "We're changing the politics of climate change in Colorado.",
+            "image_file_name": "350COAction.jpeg",
+            "profile_uid": "4b582328-4d43-4f6d-b50b-0f16419c587c",
+            "screen_name": "350COAction",
+            "tags": [
+                "not-left"
+            ]
+        },
+        {
             "name": "Progressive Caucus",
             "url": "https://t.co/srmyjiC8KV",
             "description": "We are the voice of progressives in Congress. Fighting for working families over corporate interests. Advancing racial and social justice. Working for peace.",
@@ -7897,19 +7522,6 @@
             ]
         },
         {
-            "name": "Indivisible",
-            "url": "https://indivisible.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "c59edec1-0a66-4b53-9f0f-54c3bab55e7e",
-            "screen_name": null,
-            "tags": [
-                "electoral",
-                "progressive"
-            ]
-        },
-        {
             "name": "EcoEquity",
             "url": "https://www.ecoequity.org/",
             "description": "EcoEquity is a small, activist think tank that has had an outsized impact on the global climate equity debate.",
@@ -7956,18 +7568,6 @@
             "tags": [
                 "bernie",
                 "electoral"
-            ]
-        },
-        {
-            "name": "Socialist Action",
-            "url": "http://socialistaction.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "79938408-fe91-434c-8df7-cd166c201058",
-            "screen_name": null,
-            "tags": [
-                "socialist"
             ]
         },
         {
@@ -8029,18 +7629,6 @@
             "tags": [
                 "media",
                 "communist"
-            ]
-        },
-        {
-            "name": "Freedom Road Socialist Organization",
-            "url": "https://roadtoliberation.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "d2927f78-c2c4-4949-a303-893812a60dc4",
-            "screen_name": null,
-            "tags": [
-                "socialist"
             ]
         },
         {
@@ -8180,19 +7768,6 @@
             ]
         },
         {
-            "name": "United Students Against Sweatshops",
-            "url": "https://usas.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "735a7af7-a7c2-49c3-91ce-d2c8a61d870a",
-            "screen_name": null,
-            "tags": [
-                "labor",
-                "student-youth"
-            ]
-        },
-        {
             "name": "Af3irm",
             "url": "http://www.af3irm.org",
             "description": "AF3IRM is a national organization of women engaged in transnational feminist, anti-imperialist activism and dedicated to the fight against oppression in all its forms.  AF3IRM’s diverse, multi-ethnic membership is committed to militant movement-building from the United States and effects change through grassroots organizing, trans-ethnic alliance building, education, advocacy and direct action.\n\nWith the slogan “a woman’s place is at the head of the struggle,” AF3IRM is an all-volunteer, grassroots organization whose members recognize the intersectionality of their struggles and the absolute necessity of women’s revolutionary resistance.",
@@ -8238,19 +7813,6 @@
             "screen_name": "brandworkers",
             "tags": [
                 "labor"
-            ]
-        },
-        {
-            "name": "Union for Radical Political Economics",
-            "url": "https://urpe.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "b199bc0e-5291-4cb9-a8e5-e54c9c6532b4",
-            "screen_name": null,
-            "tags": [
-                "economics",
-                "finance"
             ]
         },
         {
@@ -8411,18 +7973,6 @@
             "screen_name": "ReplyGuysPod",
             "tags": [
                 "podcast"
-            ]
-        },
-        {
-            "name": "United States Student Association",
-            "url": "https://www.usstudents.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "a8ab12f2-9e3a-4589-a494-b6b27436226e",
-            "screen_name": null,
-            "tags": [
-                "student-youth"
             ]
         },
         {
@@ -8614,18 +8164,6 @@
             ]
         },
         {
-            "name": "Fort Collins Sustainability Group",
-            "url": "http://www.focosustainability.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "0ba8f95d-8c4f-4e3c-b956-0e4df79cbcbf",
-            "screen_name": null,
-            "tags": [
-                "climate"
-            ]
-        },
-        {
             "name": "Data For Progress",
             "url": "https://t.co/ox8KjidApz",
             "description": "Data movements trust. Progressive policy and polling organization.",
@@ -8781,18 +8319,6 @@
             "screen_name": "AFLCIOCO",
             "tags": [
                 "union"
-            ]
-        },
-        {
-            "name": "Chicago Socialist Party",
-            "url": "http://chicagosocialistparty.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "170b21bb-d13c-4862-8163-204028c64e31",
-            "screen_name": null,
-            "tags": [
-                "socialist"
             ]
         },
         {
@@ -9004,6 +8530,18 @@
                 "united-kingdom",
                 "radio",
                 "media"
+            ]
+        },
+        {
+            "name": "Earth Guardians",
+            "url": null,
+            "description": "The Earth Guardians guard the earth.",
+            "description_short": "The Earth Guardians guard the earth.",
+            "image_file_name": null,
+            "profile_uid": "dafd5fa0-a9d9-43c5-a6aa-53ffb64ccba7",
+            "screen_name": null,
+            "tags": [
+                "climate"
             ]
         },
         {
@@ -9286,18 +8824,6 @@
             ]
         },
         {
-            "name": "Progressive Asian Network for Action",
-            "url": "https://progressiveasians.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "cb4ccb4f-06aa-40e6-9572-ff97d8bd64d0",
-            "screen_name": null,
-            "tags": [
-                "progressive"
-            ]
-        },
-        {
             "name": "Woodbine",
             "url": "https://t.co/jpQJM28opP",
             "description": "An experimental hub for developing the practices, skills, and tools needed to build autonomy. 585 Woodward Ave. Contribute: https://t.co/UfI7ZFhieD",
@@ -9485,18 +9011,6 @@
             ]
         },
         {
-            "name": "New Politics Associates",
-            "url": "https://newpol.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "4e50f6be-b90f-4897-97ca-bbc879a92305",
-            "screen_name": null,
-            "tags": [
-                "publishing"
-            ]
-        },
-        {
             "name": "Railroad Workers United",
             "url": "https://t.co/dDYupK5ieS",
             "description": "RWU is an inter-union, cross-craft solidarity \"caucus\" of railroad workers from all crafts, all carriers, and all unions across North America. #RailLabor #1u",
@@ -9568,18 +9082,6 @@
             "image_file_name": "ruckusociety.jpeg",
             "profile_uid": "592739a9-d238-4877-a99e-8598fb2dc64d",
             "screen_name": "ruckusociety",
-            "tags": [
-                null
-            ]
-        },
-        {
-            "name": "Center for Media and Democracy",
-            "url": "https://www.exposedbycmd.org",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "97ca8c70-e191-44a6-a11d-81e590e64c69",
-            "screen_name": null,
             "tags": [
                 null
             ]
@@ -10141,6 +9643,18 @@
             ]
         },
         {
+            "name": "Showing Up for Racial Justice",
+            "url": "https://surj.org/",
+            "description": "Showing Up for Racial Justice (SURJ) is a national network of groups and individuals organizing white people for racial and economic justice.",
+            "description_short": "Showing Up for Racial Justice (SURJ) is a national network of groups and individuals organizing white people for racial ",
+            "image_file_name": null,
+            "profile_uid": "d42aba62-b691-4845-8bd3-5f2309d8e3b9",
+            "screen_name": null,
+            "tags": [
+                "not-left"
+            ]
+        },
+        {
             "name": "Peoples Dispatch",
             "url": "https://peoplesdispatch.org/",
             "description": "An international media project with the mission of bringing you voices from people's movements and organizations across the globe.",
@@ -10422,18 +9936,6 @@
             ]
         },
         {
-            "name": "Scalawag Magazine",
-            "url": "https://scalawagmagazine.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "8c5fb2e3-c935-42ed-ac63-748e332a69ec",
-            "screen_name": null,
-            "tags": [
-                "media"
-            ]
-        },
-        {
             "name": "Truthdig",
             "url": "https://t.co/zu7214ONsV",
             "description": "Expert news coverage, thoughtful content, and the internet's best political cartoons. Drilling beneath the headlines since 2005. RTs ≠ endorsements.",
@@ -10560,18 +10062,6 @@
             ]
         },
         {
-            "name": "Physicians for a National Health Care Program",
-            "url": "https://pnhp.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "5fd13f4a-f628-423b-9f88-ca44265b1741",
-            "screen_name": null,
-            "tags": [
-                "medicare-for-all"
-            ]
-        },
-        {
             "name": "Red Wedge Magazine",
             "url": "redwedgemagazine.com",
             "description": "Rekindling the revolutionary imagination. Only Marxist outlet of art/music/words/performance/film in the English-speaking world. Publishing online and in print.",
@@ -10581,20 +10071,6 @@
             "screen_name": "RedWedgeMag",
             "tags": [
                 "media"
-            ]
-        },
-        {
-            "name": "Socialism and Democracy",
-            "url": "https://www.tandfonline.com/journals/csad20",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "bdafc1bb-fa4d-445f-a2fe-95d3ea88393a",
-            "screen_name": null,
-            "tags": [
-                "media",
-                "academic",
-                "socialist"
             ]
         },
         {
@@ -10643,18 +10119,6 @@
             "screen_name": "NYWFP",
             "tags": [
                 "electoral"
-            ]
-        },
-        {
-            "name": "Student Labor Action Project",
-            "url": "http://studentlabor.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "db041950-417d-4151-a11b-a170c109ac0e",
-            "screen_name": null,
-            "tags": [
-                "student-youth"
             ]
         },
         {
@@ -10918,18 +10382,6 @@
             ]
         },
         {
-            "name": "Marxist-Humanist Initiative",
-            "url": "https://www.marxisthumanistinitiative.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "7c4b834d-f79e-4994-a9b1-7f07a1ff8272",
-            "screen_name": null,
-            "tags": [
-                "socialist"
-            ]
-        },
-        {
             "name": "Pacifica Radio",
             "url": "https://t.co/ez2Dc8KhxV",
             "description": "Pacifica Radio is a listener supported community radio network KPFA in Berkeley, CA; KPFK Los Angeles, KPFT, Houston, WBAI, New York, WPFW, Wash DC",
@@ -10977,18 +10429,6 @@
             "tags": [
                 "socialist",
                 "faith"
-            ]
-        },
-        {
-            "name": "Socialist Alternative - Pittsburgh, PA",
-            "url": "https://www.facebook.com/pghsocialistalternative/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "3e5870ce-99ed-40f4-87c3-588c43a8c316",
-            "screen_name": null,
-            "tags": [
-                "socialist"
             ]
         },
         {
@@ -11300,18 +10740,6 @@
             "screen_name": "FaithFairNY",
             "tags": [
                 "faith"
-            ]
-        },
-        {
-            "name": "CPD Action",
-            "url": "https://cpdaction.org/",
-            "description": null,
-            "description_short": null,
-            "image_file_name": null,
-            "profile_uid": "dedf3b4f-2afb-46be-a5f3-02c409d4a65a",
-            "screen_name": null,
-            "tags": [
-                "community-based"
             ]
         },
         {

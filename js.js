@@ -18,6 +18,7 @@ const displayTags = async () => {
     const tags = await response_tags.json();
     const arr_tags = tags.data
     const issues_list = document.getElementById('issues')
+    issues_list.innerHTML = ''
     arr_tags.forEach((tag) => {
         const issue = document.createElement("div")
         issue.classList.add("issue")
@@ -61,6 +62,7 @@ const filterCards = async () => {
             `</div ></article >`
         ).join('');
         issues_list.innerHTML = ''
+        console.log("blank issues list")
         cards.innerHTML = html
         document.getElementById('filter-context').innerHTML = '<span id="filtered-by">Filtered by: </span>#' + tag + '<span class="remove-filter"><a href="/">remove</a></span>'
     }
@@ -130,8 +132,8 @@ fetch('./orgs.json')
         }
         search_input.addEventListener('input', () => searchOrgs(search_input.value))
         clear_search.addEventListener('click', () => {
-                search_input.value = '';
-                displayTags()
+            search_input.value = '';
+            displayTags()
             cards.innerHTML = '';
             document.getElementById("filter-context").innerHTML = ''
         })

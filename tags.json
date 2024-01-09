@@ -58,7 +58,7 @@
         {
             "tag_name": "climate",
             "tag_display": "Climate",
-            "tag_count": 26
+            "tag_count": 23
         },
         {
             "tag_name": "coalition",
@@ -68,7 +68,7 @@
         {
             "tag_name": "communist",
             "tag_display": "Communist",
-            "tag_count": 14
+            "tag_count": 13
         },
         {
             "tag_name": "community-based",
@@ -98,7 +98,7 @@
         {
             "tag_name": "dsa",
             "tag_display": "DSA",
-            "tag_count": 84
+            "tag_count": 83
         },
         {
             "tag_name": "economics",
@@ -178,7 +178,7 @@
         {
             "tag_name": "housing",
             "tag_display": "Housing",
-            "tag_count": 15
+            "tag_count": 14
         },
         {
             "tag_name": "immigration",
@@ -223,12 +223,12 @@
         {
             "tag_name": "marxism",
             "tag_display": "Marxism",
-            "tag_count": 15
+            "tag_count": 14
         },
         {
             "tag_name": "media",
             "tag_display": "Media",
-            "tag_count": 132
+            "tag_count": 130
         },
         {
             "tag_name": "medicare-for-all",
@@ -253,7 +253,7 @@
         {
             "tag_name": "podcast",
             "tag_display": "Podcast",
-            "tag_count": 40
+            "tag_count": 39
         },
         {
             "tag_name": "poverty",
@@ -288,7 +288,7 @@
         {
             "tag_name": "socialist",
             "tag_display": "Socialist",
-            "tag_count": 112
+            "tag_count": 106
         },
         {
             "tag_name": "solidarity-economy",
@@ -318,11 +318,6 @@
         {
             "tag_name": "utility-justice",
             "tag_display": "Utility Justice",
-            "tag_count": 5
-        },
-        {
-            "tag_name": "not-left",
-            "tag_display": null,
             "tag_count": 5
         }
     ]

@@ -14,6 +14,7 @@ const orgCount = async () => {
 orgCount();
 
 const displayTags = async () => {
+    
     const response_tags = await fetchTags();
     const tags = await response_tags.json();
     const arr_tags = tags.data
@@ -28,7 +29,13 @@ const displayTags = async () => {
     });
 };
 
-displayTags();
+
+const query = window.location.search;
+console.log(query)
+if (!query) {
+    displayTags();
+    console.log("display tags fire")
+}
 
 const filterCards = async () => {
     const response_orgs = await fetchOrgs();

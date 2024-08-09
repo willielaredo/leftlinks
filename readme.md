@@ -25,4 +25,4 @@ There is no job that updates the orgs.json file regularly. Updates are make ad h
 
 The postgres database is also used as a source to [Left Guide](https://left.guide), which was a previous iteration of LeftLinks.
 
-Data/content is managed via a directus admin panel that runs locally.
+Data/content is managed via a directus admin panel hosted on Render.

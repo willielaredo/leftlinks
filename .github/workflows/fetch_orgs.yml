@@ -3,7 +3,7 @@ name: fetch org and tags data
 on:
   schedule:
     - cron: '0 2 * * *'
-  # workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   build:

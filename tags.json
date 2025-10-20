@@ -33,7 +33,7 @@
         {
             "tag_name": "bernie",
             "tag_display": "Bernie",
-            "tag_count": 11
+            "tag_count": 10
         },
         {
             "tag_name": "bipoc",
@@ -58,7 +58,7 @@
         {
             "tag_name": "climate",
             "tag_display": "Climate",
-            "tag_count": 93
+            "tag_count": 38
         },
         {
             "tag_name": "co-op",
@@ -98,7 +98,7 @@
         {
             "tag_name": "dsa",
             "tag_display": "DSA",
-            "tag_count": 86
+            "tag_count": 85
         },
         {
             "tag_name": "economics",
@@ -133,7 +133,7 @@
         {
             "tag_name": "faith",
             "tag_display": "Faith",
-            "tag_count": 9
+            "tag_count": 8
         },
         {
             "tag_name": "feminist",
@@ -148,7 +148,7 @@
         {
             "tag_name": "finance",
             "tag_display": "Finance",
-            "tag_count": 11
+            "tag_count": 10
         },
         {
             "tag_name": "fiscal-sponsor",
@@ -158,7 +158,7 @@
         {
             "tag_name": "food-justice",
             "tag_display": "Food Justice",
-            "tag_count": 7
+            "tag_count": 5
         },
         {
             "tag_name": "green-new-deal",
@@ -203,12 +203,12 @@
         {
             "tag_name": "labor",
             "tag_display": "Labor",
-            "tag_count": 79
+            "tag_count": 76
         },
         {
             "tag_name": "latinx",
             "tag_display": "Latinx",
-            "tag_count": 12
+            "tag_count": 11
         },
         {
             "tag_name": "legal",
@@ -228,7 +228,7 @@
         {
             "tag_name": "media",
             "tag_display": "Media",
-            "tag_count": 138
+            "tag_count": 136
         },
         {
             "tag_name": "medicare-for-all",
@@ -241,19 +241,14 @@
             "tag_count": 4
         },
         {
-            "tag_name": "not-left",
-            "tag_display": null,
-            "tag_count": 57
-        },
-        {
             "tag_name": "occupy",
             "tag_display": "Occupy",
-            "tag_count": 10
+            "tag_count": 4
         },
         {
             "tag_name": "peace",
             "tag_display": "Peace",
-            "tag_count": 10
+            "tag_count": 9
         },
         {
             "tag_name": "podcast",
@@ -273,7 +268,7 @@
         {
             "tag_name": "progressive",
             "tag_display": "Progressive",
-            "tag_count": 37
+            "tag_count": 36
         },
         {
             "tag_name": "publishing",
@@ -298,7 +293,7 @@
         {
             "tag_name": "socialist",
             "tag_display": "Socialist",
-            "tag_count": 126
+            "tag_count": 123
         },
         {
             "tag_name": "solidarity-economy",
@@ -308,7 +303,7 @@
         {
             "tag_name": "student-youth",
             "tag_display": "Student/Youth",
-            "tag_count": 33
+            "tag_count": 26
         },
         {
             "tag_name": "tech",
@@ -323,7 +318,7 @@
         {
             "tag_name": "united-kingdom",
             "tag_display": "United Kingdom",
-            "tag_count": 7
+            "tag_count": 6
         },
         {
             "tag_name": "utility-justice",

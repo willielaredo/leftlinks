@@ -12,9 +12,9 @@ supabase: Client = create_client(url, key)
 orgs_data = supabase.from_("orgs_json").select("*").execute()
 orgs_json = orgs_data.data[0]
 with open("orgs_.json", "w") as file:
-    json.dump(orgs_json["json_build_object"], file)
+    json.dump(orgs_json["json_build_object"], file, indent=4)
 
 tags_data = supabase.from_("tag_list").select("*").execute()
 tags_json = tags_data.data[0]
 with open("tags_.json", "w") as file:
-    json.dump(tags_json["json_build_object"], file)
+    json.dump(tags_json["json_build_object"], file, indent=4)

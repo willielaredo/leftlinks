@@ -1,11 +1,14 @@
 from supabase import create_client, Client
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import os
 import json
 
-load_dotenv() 
-url = os.environ.get("SUPABASE_URL")
-key = os.environ.get("SUPABASE_KEY")
+# load_dotenv() 
+# url = os.environ.get("SUPABASE_URL")
+# key = os.environ.get("SUPABASE_KEY")
+
+url: str = os.environ["SUPABASE_URL"]
+key: str = os.environ["SUPABASE_KEY"]
 
 supabase: Client = create_client(url, key)
 

@@ -8,12 +8,15 @@ on:
 jobs:
   build:
         runs-on: ubuntu-latest 
+        permissions:
+          contents: write 
         steps:
             
             - name: Setup Python
               uses: actions/setup-python@v5.3.0
               with: 
                 python-version: '3.9'
+            
             - name: Checkout
               uses: actions/checkout@v4.2.2
             
@@ -27,5 +30,16 @@ jobs:
                 SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
                 SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
               run: python fetch_orgs.py
+
+            - name: Configure Git
+              run: |
+                git config user.name "github-actions[bot]"
+                git config user.email "github-actions[bot]@users.noreply.github.com"
+
+            - name: Add and commit new file
+              run: |
+                git add .
+                git commit -m "udpate html file via github actions"
+                git push
 
 

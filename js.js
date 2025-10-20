@@ -1,6 +1,6 @@
 // create cards
-const fetchOrgs = () => fetch("./orgs.json");
-const fetchTags = () => fetch("./tags.json");
+const fetchOrgs = () => fetch("./orgs_.json");
+const fetchTags = () => fetch("./tags_.json");
 
 const orgCount = async () => {
     const response_orgs = await fetchOrgs();

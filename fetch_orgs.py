@@ -16,8 +16,10 @@ orgs_data = supabase.from_("orgs_json").select("*").execute()
 orgs_json = orgs_data.data[0]
 with open("orgs.json", "w") as file:
     json.dump(orgs_json["json_build_object"], file, indent=4)
+print("updated orgs")
 
 tags_data = supabase.from_("tag_list").select("*").execute()
 tags_json = tags_data.data[0]
 with open("tags.json", "w") as file:
     json.dump(tags_json["json_build_object"], file, indent=4)
+print("updated tags")

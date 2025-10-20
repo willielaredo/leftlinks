@@ -3,3 +3,4 @@ local/
 images/.DS_Store
 orgs.json
 tags.json
+.env

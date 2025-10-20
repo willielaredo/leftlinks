@@ -123,7 +123,7 @@
         {
             "tag_name": "electoral",
             "tag_display": "Electoral",
-            "tag_count": 38
+            "tag_count": 37
         },
         {
             "tag_name": "environmental-justice",
@@ -228,12 +228,12 @@
         {
             "tag_name": "media",
             "tag_display": "Media",
-            "tag_count": 139
+            "tag_count": 138
         },
         {
             "tag_name": "medicare-for-all",
             "tag_display": "Medicare for All",
-            "tag_count": 19
+            "tag_count": 18
         },
         {
             "tag_name": "non-violence",
@@ -243,7 +243,7 @@
         {
             "tag_name": "not-left",
             "tag_display": null,
-            "tag_count": 58
+            "tag_count": 57
         },
         {
             "tag_name": "occupy",
@@ -318,7 +318,7 @@
         {
             "tag_name": "union",
             "tag_display": "Union",
-            "tag_count": 40
+            "tag_count": 39
         },
         {
             "tag_name": "united-kingdom",

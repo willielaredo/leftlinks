@@ -10,15 +10,11 @@ key = os.environ.get("SUPABASE_KEY")
 supabase: Client = create_client(url, key)
 
 orgs_data = supabase.from_("orgs_json").select("*").execute()
-
 orgs_json = orgs_data.data[0]
-
-with open("output.json", "w") as file:
+with open("orgs_.json", "w") as file:
     json.dump(orgs_json["json_build_object"], file)
-# # print(type(json_string))
-# python_object = json.loads(json_string)
-# EXPORT TO JSON
 
-# orgs_json = json.dumps([row for row in orgs_data], indent=2)
-
-# print(orgs_json[0])
+tags_data = supabase.from_("tag_list").select("*").execute()
+tags_json = tags_data.data[0]
+with open("tags_.json", "w") as file:
+    json.dump(tags_json["json_build_object"], file)
